@@ -12,7 +12,7 @@
     "parentRef": "biblia",
     "data": {
       "contentType": "text",
-      "text": "## Top 5 ksiąg — minimum\n\n*Księga Rodzaju* — stworzenie, raj, Kain i Abel. *Hioba* — cierpienie niewinnego, Bóg nie odpowiada wprost.\n\n*Koheleta* — \"Vanitas vanitatum\", marność. *Pieśń nad Pieśniami* — poemat miłosny. Tak, w Biblii.\n\nGatunki, które CKE kocha: **psalm**, **przypowieść**, **hymn**, **apokalipsa**."
+      "text": "## Top 5 ksiąg — minimum\n\n*Księga Rodzaju* — stworzenie, raj, Kain i Abel. *Hioba* — cierpienie niewinnego, Bóg nie odpowiada wprost.\n\n*Koheleta* — \"{{Vanitas}} vanitatum\", marność. *Pieśń nad Pieśniami* — poemat miłosny. Tak, w Biblii.\n\nGatunki, które CKE kocha: **{{psalm}}**, **{{przypowieść}}**, **{{hymn}}**, **{{apokalipsa}}**."
     }
   },
   {
@@ -20,7 +20,7 @@
     "parentRef": "biblia",
     "data": {
       "contentType": "text",
-      "text": "## Te motywy są wszędzie\n\n**Raj utracony** — tęsknota za niewinnością. Mickiewicz w *Panu Tadeuszu* tworzy raj dzieciństwa.\n\n**Hiob** — cierpienie sprawiedliwego, **teodyce**. Kochanowski w *Trenach*: dlaczego Urszulka?\n\n**Vanitas** — przemijanie. Z *Koheleta* do **baroku**: Naborowski, Morsztyn.\n\n**Apokalipsa** — Krasiński, Miłosz."
+      "text": "## Te motywy są wszędzie\n\n**{{Raj utracony}}** — tęsknota za niewinnością. Mickiewicz w *Panu Tadeuszu* tworzy raj dzieciństwa.\n\n**Hiob** — cierpienie sprawiedliwego, **{{teodyce}}**. Kochanowski w *Trenach*: dlaczego Urszulka?\n\n**{{Vanitas}}** — przemijanie. Z *Koheleta* do **baroku**: Naborowski, Morsztyn.\n\n**{{Apokalipsa}}** — Krasiński, Miłosz."
     }
   },
   {
@@ -28,7 +28,7 @@
     "parentRef": "biblia",
     "data": {
       "contentType": "text",
-      "text": "## Jak to grać na maturze?\n\nWidzisz motyw biblijny? Trzy kroki. **Nazwij go** — raj utracony, Hiob, vanitas. Pokaż, jak autor go **przetwarza** — wiernie? ironicznie?\n\n**Syn marnotrawny** to archetyp nawrócenia. **Homo viator** — człowiek-pielgrzym ku wieczności. CKE nagradza rozpoznawanie kontekstów."
+      "text": "## Jak to grać na maturze?\n\nWidzisz motyw biblijny? Trzy kroki. **Nazwij go** — {{raj utracony}}, Hiob, {{vanitas}}. Pokaż, jak autor go **przetwarza** — wiernie? ironicznie?\n\n**Syn marnotrawny** to {{archetyp}} nawrócenia. **Homo viator** — człowiek-pielgrzym ku wieczności. CKE nagradza rozpoznawanie kontekstów."
     }
   },
   {
@@ -36,8 +36,8 @@
     "parentRef": "biblia",
     "data": {
       "contentType": "quiz",
-      "text": "Czym jest motyw vanitas i w jakiej epoce dominował? Podaj przykład.",
-      "answer": "Vanitas (łac. 'marność') to motyw z *Księgi Koheleta*: refleksja nad przemijaniem i ulotnością życia. Dominował w baroku (XVII w.) — epoce kontrastów między przepychem a śmiercią. Przykład: Naborowski, *Krótkość żywota* — każdy wers przypomina, że życie to mgnienie."
+      "text": "Czym jest motyw {{vanitas}} i w jakiej epoce dominował? Podaj przykład.",
+      "answer": "{{Vanitas}} (łac. 'marność') to motyw z *Księgi Koheleta*: refleksja nad przemijaniem i ulotnością życia. Dominował w baroku (XVII w.) — epoce kontrastów między przepychem a śmiercią. Przykład: Naborowski, *Krótkość żywota* — każdy wers przypomina, że życie to mgnienie."
     }
   }
 ]

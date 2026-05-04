@@ -4,10 +4,9 @@
     "data": {
       "term": "konflikt tragiczny",
       "nodes": "[\"antygona\",\"antyk\"]",
-      "relation": "motyw",
+      "relation": "poetyka",
       "definition": "Dwie racje, obie słuszne — żadne wyjście nie jest dobre.",
       "quiz": "{\"question\":\"W *Antygonie* prawo boskie zderza się z prawem państwowym. Jak nazywamy taką sytuację?\",\"wrong\":[\"ironia tragiczna\",\"hamartia\",\"katharsis\"],\"answer\":\"Konflikt tragiczny — zderzenie dwóch równorzędnych racji, bez możliwości rozstrzygnięcia.\"}",
-      "forms": "[\"konfliktu tragicznego\",\"konfliktem tragicznym\"]",
       "category": "poetyka"
     }
   },
@@ -16,10 +15,9 @@
     "data": {
       "term": "hybris",
       "nodes": "[\"antygona\",\"dziady3\",\"mitologia\",\"makbet\"]",
-      "relation": "motyw",
+      "relation": "poetyka",
       "definition": "Pycha wobec bogów lub losu — zawsze kończy się źle.",
       "quiz": "{\"question\":\"Kreon nie słucha nikogo, bo wierzy w własną nieomylność. Jakim terminem to określamy?\",\"wrong\":[\"hamartia\",\"fatum\",\"prometeizm\"],\"answer\":\"Hybris — pycha wobec bogów, losu lub ludzi. Prowadzi do upadku bohatera.\"}",
-      "forms": "[\"hybris\"]",
       "category": "poetyka"
     }
   },
@@ -28,10 +26,9 @@
     "data": {
       "term": "hamartia",
       "nodes": "[\"antygona\"]",
-      "relation": "motyw",
+      "relation": "poetyka",
       "definition": "Błąd tragiczny — nie ze złości, a z przekonania o własnej słuszności.",
       "quiz": "{\"question\":\"Kreon nie jest tyranem — zbyt mocno wierzył we własną racje. Jak nazywamy taki błąd?\",\"wrong\":[\"hybris\",\"fatum\",\"konflikt tragiczny\"],\"answer\":\"Hamartia — błąd tragiczny wynikający nie ze złej woli, ale z ludzkiej ograniczoności.\"}",
-      "forms": "[\"hamartii\",\"hamartia\"]",
       "category": "poetyka"
     }
   },
@@ -40,10 +37,9 @@
     "data": {
       "term": "prawo boskie",
       "nodes": "[\"antygona\"]",
-      "relation": "motyw",
+      "relation": "poetyka",
       "definition": "Prawo wyższe od ludzkiego — Antygona musi pochować brata.",
       "quiz": "{\"question\":\"Antygona łamie rozkaz króla, bo kieruje się prawem wyższym niż stanowione. Jakim?\",\"wrong\":[\"prawo naturalne\",\"prawo zwyczajowe\",\"dekret królewski\"],\"answer\":\"Prawo boskie — nakazy moralne uważane za wyższe niż prawo ustanowione przez ludzi.\"}",
-      "forms": "[\"prawa boskiego\",\"prawem boskim\"]",
       "category": "poetyka"
     }
   }

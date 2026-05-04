@@ -4,7 +4,7 @@
     "parentRef": "antygona",
     "data": {
       "contentType": "text",
-      "text": "## Kto ma rację, gdy obie strony mają rację?\n\nDwaj bracia Antygony giną po przeciwnych stronach wojny. Król **Kreon** zakazuje pochówku zdrajcy. **Antygona** łamie zakaz — bo **prawo boskie** każe jej pochować brata. I tu tkwi sedno: to jest **konflikt tragiczny**. Dwie racje, obie prawdziwe. Żadne wyjście nie prowadzi do happy endu."
+      "text": "## Kto ma rację, gdy obie strony mają rację?\n\nDwaj bracia Antygony giną po przeciwnych stronach wojny. Król **Kreon** zakazuje pochówku zdrajcy. **Antygona** łamie zakaz — bo **{{prawo boskie}}** każe jej pochować brata. I tu tkwi sedno: to jest **{{konflikt tragiczny}}**. Dwie racje, obie prawdziwe. Żadne wyjście nie prowadzi do happy endu."
     }
   },
   {
@@ -12,7 +12,7 @@
     "parentRef": "antygona",
     "data": {
       "contentType": "text",
-      "text": "## A co, jeśli potworem jest ten \"rozsądny\"?\n\nKreon na starcie wygląda OK — broni prawa, jest konsekwentny. Ale krok po kroku wpada w **hybris** — pychę. Nie słucha syna. Nie słucha wieszczka. Nie słucha nikogo. Kiedy wreszcie zmienia zdanie — Antygona nie żyje, syn się zabił, żona też. Zostaje sam."
+      "text": "## A co, jeśli potworem jest ten \"rozsądny\"?\n\nKreon na starcie wygląda OK — broni prawa, jest konsekwentny. Ale krok po kroku wpada w **{{hybris}}** — pychę. Nie słucha syna. Nie słucha wieszczka. Nie słucha nikogo. Kiedy wreszcie zmienia zdanie — Antygona nie żyje, syn się zabił, żona też. Zostaje sam."
     }
   },
   {
@@ -20,7 +20,7 @@
     "parentRef": "antygona",
     "data": {
       "contentType": "text",
-      "text": "## Błąd, który nie wymaga złych intencji\n\nSofokles pokazuje coś ważnego: **hamartia** (błąd tragiczny) nie musi wynikać ze złości. Kreon nie jest tyranem — zbyt mocno wierzył we własną nieomylność. Antygona? Jej hamartia to absolutyzm — nie widzi, że Kreon też ma racje. Oboje popełniają ten sam błąd: myślą, że tylko oni widzą prawdę."
+      "text": "## Błąd, który nie wymaga złych intencji\n\nSofokles pokazuje coś ważnego: **{{hamartia}}** (błąd tragiczny) nie musi wynikać ze złości. Kreon nie jest tyranem — zbyt mocno wierzył we własną nieomylność. Antygona? Jej {{hamartia}} to absolutyzm — nie widzi, że Kreon też ma racje. Oboje popełniają ten sam błąd: myślą, że tylko oni widzą prawdę."
     }
   },
   {
@@ -28,7 +28,7 @@
     "parentRef": "antygona",
     "data": {
       "contentType": "quiz",
-      "text": "Na czym polega **konflikt tragiczny** w *Antygonie* i dlaczego żadna strona nie może wygrać?",
+      "text": "Na czym polega **{{konflikt tragiczny}}** w *Antygonie* i dlaczego żadna strona nie może wygrać?",
       "answer": "To zderzenie dwóch równorzędnych racji: Antygona broni **prawa boskiego** (pochówek bliskich), Kreon — prawa państwowego. Obie racje są uzasadnione, a realizacja jednej łamie drugą. Rozwiązanie bez tragedii jest niemożliwe."
     }
   }

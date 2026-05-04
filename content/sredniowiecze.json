@@ -4,7 +4,7 @@
     "parentRef": "sredniowiecze",
     "data": {
       "contentType": "text",
-      "text": "## Ciemne wieki? Serio?\n\nLudzie, którzy budowali katedry wyższe niż współczesne bloki, nie byli ciemni. Średniowiecze (V–XV w.) patrzyło w górę — ku Bogu. **Teocentryzm**: Bóg jest centrum wszystkiego. Człowiek ma wartość, ale jako stworzenie Boże, nie sam z siebie. Totalna zmiana reguł po antyku."
+      "text": "## Ciemne wieki? Serio?\n\nLudzie, którzy budowali katedry wyższe niż współczesne bloki, nie byli ciemni. Średniowiecze (V–XV w.) patrzyło w górę — ku Bogu. **{{Teocentryzm}}**: Bóg jest centrum wszystkiego. Człowiek ma wartość, ale jako stworzenie Boże, nie sam z siebie. Totalna zmiana reguł po antyku."
     }
   },
   {
@@ -12,7 +12,7 @@
     "parentRef": "sredniowiecze",
     "data": {
       "contentType": "text",
-      "text": "## Trzech bohaterów, jeden cel: zbawienie\n\nLiteratura miała uczyć, jak żyć. Stąd trzy **wzorce osobowe**. **Święty** (asceta) — wyrzeka się świata, jak św. Aleksy. **Rycerz** — walczy z honorem, jak Roland. **Władca** — rządzi sprawiedliwie, jak Chrobry w kronikach. Każdy wzorzec to inna droga do Boga."
+      "text": "## Trzech bohaterów, jeden cel: zbawienie\n\nLiteratura miała uczyć, jak żyć. Stąd trzy **{{wzorce osobowe}}**. **Święty** ({{asceta}}) — wyrzeka się świata, jak św. Aleksy. **Rycerz** — walczy z honorem, jak Roland. **Władca** — rządzi sprawiedliwie, jak Chrobry w kronikach. Każdy wzorzec to inna droga do Boga."
     }
   },
   {
@@ -36,8 +36,8 @@
     "parentRef": "sredniowiecze",
     "data": {
       "contentType": "quiz",
-      "text": "Jak teocentryzm ukształtował średniowieczne wzorce osobowe?",
-      "answer": "Skoro Bóg był celem życia, każdy wzorzec definiował się przez relację z Nim. Asceta wyrzekał się świata dla Boga, rycerz walczył w Jego imię, władca rządził jako Boży namiestnik. Wszystkie drogi prowadziły do zbawienia."
+      "text": "Jak {{teocentryzm}} ukształtował średniowieczne {{wzorce osobowe}}?",
+      "answer": "Skoro Bóg był celem życia, każdy wzorzec definiował się przez relację z Nim. {{Asceta}} wyrzekał się świata dla Boga, rycerz walczył w Jego imię, władca rządził jako Boży namiestnik. Wszystkie drogi prowadziły do zbawienia."
     }
   }
 ]

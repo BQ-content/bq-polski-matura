@@ -4,7 +4,7 @@
     "parentRef": "romantyzm",
     "data": {
       "contentType": "text",
-      "text": "## Rozum miał zbawić świat. Przyniósł gilotynę.\n\nEuropa po rewolucji francuskiej. Racjonalizm zawiódł. Eksplodował romantyzm. Hasło numer jeden: **uczucie ponad rozum**. Mickiewicz w *Romantyczności*: *\"Czucie i wiara silniej mówi do mnie / Niż mędrca szkiełko i oko\"*. Serce widzi to, czego nauka nie ogarnia."
+      "text": "## Rozum miał zbawić świat. Przyniósł gilotynę.\n\nEuropa po rewolucji francuskiej. Racjonalizm zawiódł. Eksplodował romantyzm. Hasło numer jeden: **{{uczucie ponad rozum}}**. Mickiewicz w *Romantyczności*: *\"Czucie i wiara silniej mówi do mnie / Niż mędrca szkiełko i oko\"*. Serce widzi to, czego nauka nie ogarnia."
     }
   },
   {
@@ -12,7 +12,7 @@
     "parentRef": "romantyzm",
     "data": {
       "contentType": "text",
-      "text": "## Polska zniknęła z mapy. Poeci walczyli słowem.\n\nPo **rozbiorach** (1772–1795) nie ma państwa. Wielcy tworzą na **emigracji**. I rodzi się **mesjanizm** — Polska to \"Chrystus narodów\". Cierpi, ale zmartwychwstanie i wyzwoli wszystkich. Szaleństwo? Może. Ale dało nadzieję pokoleniu, które nie miało powodów do nadziei."
+      "text": "## Polska zniknęła z mapy. Poeci walczyli słowem.\n\nPo **rozbiorach** (1772–1795) nie ma państwa. Wielcy tworzą na **emigracji**. I rodzi się **{{mesjanizm}}** — Polska to \"Chrystus narodów\". Cierpi, ale zmartwychwstanie i wyzwoli wszystkich. Szaleństwo? Może. Ale dało nadzieję pokoleniu, które nie miało powodów do nadziei."
     }
   },
   {
@@ -20,7 +20,7 @@
     "parentRef": "romantyzm",
     "data": {
       "contentType": "text",
-      "text": "## Trzech gigantów. Trzech emigrantów.\n\n**Mickiewicz**: *Dziady cz. III* — cierpienie narodu, **prometeizm** Konrada. *Pan Tadeusz* — tęsknota za utraconą ojczyzną. **Słowacki**: *Kordian* — patriota, który nie potrafi działać. *Balladyna* — baśń o władzy i zbrodni. **Krasiński**: *Nie-Boska Komedia* — rewolucja niszczy, nie buduje."
+      "text": "## Trzech gigantów. Trzech emigrantów.\n\n**Mickiewicz**: *Dziady cz. III* — cierpienie narodu, **{{prometeizm}}** Konrada. *Pan Tadeusz* — tęsknota za utraconą ojczyzną. **Słowacki**: *Kordian* — patriota, który nie potrafi działać. *Balladyna* — baśń o władzy i zbrodni. **Krasiński**: *Nie-Boska Komedia* — rewolucja niszczy, nie buduje."
     }
   },
   {
@@ -28,7 +28,7 @@
     "parentRef": "romantyzm",
     "data": {
       "contentType": "text",
-      "text": "## Pisali, jakby od ich słów zależał los narodu.\n\nI w pewnym sensie — zależał. Mickiewicz miał siłę proroka. Słowacki pisał piękniej, ale nie tak potężnie. Krasiński widział przyszłość (rewolucja!). Każdy podchodził do romantyzmu inaczej, ale wszyscy wierzyli: poeta to wieszcz — przywódca duchowy narodu."
+      "text": "## Pisali, jakby od ich słów zależał los narodu.\n\nI w pewnym sensie — zależał. Mickiewicz miał siłę proroka. Słowacki pisał piękniej, ale nie tak potężnie. Krasiński widział przyszłość (rewolucja!). Każdy podchodził do romantyzmu inaczej, ale wszyscy wierzyli: poeta to {{wieszcz}} — przywódca duchowy narodu."
     }
   },
   {
@@ -36,8 +36,8 @@
     "parentRef": "romantyzm",
     "data": {
       "contentType": "quiz",
-      "text": "Czym się różni mesjanizm od prometeizmu?",
-      "answer": "Mesjanizm — Polska cierpi za inne narody jak Chrystus, przez cierpienie dojdzie do zmartwychwstania. Pokora. Prometeizm — jednostka (Konrad) buntuje się przeciw Bogu w imię ludzkości, żąda władzy nad duszami. Bunt. Mesjanizm akceptuje cierpienie, prometeizm je odrzuca."
+      "text": "Czym się różni {{mesjanizm}} od prometeizmu?",
+      "answer": "{{Mesjanizm}} — Polska cierpi za inne narody jak Chrystus, przez cierpienie dojdzie do zmartwychwstania. Pokora. {{Prometeizm}} — jednostka (Konrad) buntuje się przeciw Bogu w imię ludzkości, żąda władzy nad duszami. Bunt. {{Mesjanizm}} akceptuje cierpienie, {{prometeizm}} je odrzuca."
     }
   }
 ]

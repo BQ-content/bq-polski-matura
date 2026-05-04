@@ -12,7 +12,7 @@
     "parentRef": "bogurodzica",
     "data": {
       "contentType": "text",
-      "text": "## Dlaczego nie mówisz wprost do Boga?\n\nBo średniowiecze tak nie działa. W *Bogurodzicy* człowiek prosi Maryję (strofa 1), Maryja prosi Chrystusa przez **Jana Chrzciciela** (strofa 2). Między tobą a Stwórcą stoi **hierarchia pośredników**. To **teocentryzm** w pigułce — nawet modlitwa ma strukturę władzy."
+      "text": "## Dlaczego nie mówisz wprost do Boga?\n\nBo średniowiecze tak nie działa. W *Bogurodzicy* człowiek prosi Maryję (strofa 1), Maryja prosi Chrystusa przez **Jana Chrzciciela** (strofa 2). Między tobą a Stwórcą stoi **{{hierarchia pośredników}}**. To **{{teocentryzm}}** w pigułce — nawet modlitwa ma strukturę władzy."
     }
   },
   {
@@ -20,7 +20,7 @@
     "parentRef": "bogurodzica",
     "data": {
       "contentType": "text",
-      "text": "## Modlitwa, hymn bojowy i hymn narodowy — w jednym\n\nRycerze śpiewali *Bogurodzicę* przed bitwą pod **Grunwaldem** (1410). Jan Długosz nazwał ją *carmen patrium* — pieśnią ojczystą. Funkcja religijna + patriotyczna + literacka. Dlaczego hymn bojowy jest modlitwą? Bo w średniowieczu walka i wiara to jedno. Na wojnę idzie się z Bogiem na ustach."
+      "text": "## Modlitwa, {{hymn}} bojowy i {{hymn}} narodowy — w jednym\n\nRycerze śpiewali *Bogurodzicę* przed bitwą pod **Grunwaldem** (1410). Jan Długosz nazwał ją *{{carmen patrium}}* — pieśnią ojczystą. Funkcja religijna + patriotyczna + literacka. Dlaczego {{hymn}} bojowy jest modlitwą? Bo w średniowieczu walka i wiara to jedno. Na wojnę idzie się z Bogiem na ustach."
     }
   },
   {
@@ -29,7 +29,7 @@
     "data": {
       "contentType": "quiz",
       "text": "Jakie trzy funkcje pełniła *Bogurodzica* i co mówią o **teocentryzmie** epoki?",
-      "answer": "Religijną (modlitwa do Maryi jako pośredniczki), patriotyczną (hymn bojowy spod Grunwaldu) i literacką (pierwszy polski utwór poetycki). Wszystkie łączy teocentryzm: nawet walka o ojczyznę jest aktem wiary."
+      "answer": "Religijną (modlitwa do Maryi jako pośredniczki), patriotyczną ({{hymn}} bojowy spod Grunwaldu) i literacką (pierwszy polski utwór poetycki). Wszystkie łączy {{teocentryzm}}: nawet walka o ojczyznę jest aktem wiary."
     }
   }
 ]

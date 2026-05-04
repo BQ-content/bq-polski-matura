@@ -4,7 +4,7 @@
     "parentRef": "renesans",
     "data": {
       "contentType": "text",
-      "text": "## A gdyby to człowiek był najważniejszy?\n\nPo wiekach patrzenia w niebo ludzie spojrzeli na siebie — i im się spodobało. **Antropocentryzm** zastąpił **teocentryzm**. Nie rzucili wiary, ale zaczęli wierzyć też w rozum i godność. Hasło: **ad fontes** — wracamy do Greków i Rzymian. Oni wiedzieli, jak żyć."
+      "text": "## A gdyby to człowiek był najważniejszy?\n\nPo wiekach patrzenia w niebo ludzie spojrzeli na siebie — i im się spodobało. **{{Antropocentryzm}}** zastąpił **{{teocentryzm}}**. Nie rzucili wiary, ale zaczęli wierzyć też w rozum i godność. Hasło: **{{ad fontes}}** — wracamy do Greków i Rzymian. Oni wiedzieli, jak żyć."
     }
   },
   {
@@ -12,7 +12,7 @@
     "parentRef": "renesans",
     "data": {
       "contentType": "text",
-      "text": "## Humanizm — filozofia, która zmieniła wszystko\n\n**Humanizm**: czytaj klasyków, poznawaj języki, ciesz się pięknem. Pico della Mirandola napisał, że Bóg dał człowiekowi wolność kształtowania siebie. Rewolucja. W Polsce złoty wiek Zygmuntów. I wtedy pojawił się ktoś, kto zmienił polską literaturę na zawsze..."
+      "text": "## {{Humanizm}} — filozofia, która zmieniła wszystko\n\n**{{Humanizm}}**: czytaj klasyków, poznawaj języki, ciesz się pięknem. Pico della Mirandola napisał, że Bóg dał człowiekowi wolność kształtowania siebie. Rewolucja. W Polsce złoty wiek Zygmuntów. I wtedy pojawił się ktoś, kto zmienił polską literaturę na zawsze..."
     }
   },
   {
@@ -37,7 +37,7 @@
     "data": {
       "contentType": "quiz",
       "text": "Na czym polegał przełom renesansowy wobec średniowiecza?",
-      "answer": "Średniowiecze — teocentryzm: Bóg w centrum, człowiek definiowany przez relację z Bogiem. Renesans — antropocentryzm: człowiek z jego rozumem i godnością stał się centralną wartością. Hasło ad fontes i humanizm dowartościowały wiedzę, piękno i doczesne życie."
+      "answer": "Średniowiecze — {{teocentryzm}}: Bóg w centrum, człowiek definiowany przez relację z Bogiem. Renesans — {{antropocentryzm}}: człowiek z jego rozumem i godnością stał się centralną wartością. Hasło {{ad fontes}} i {{humanizm}} dowartościowały wiedzę, piękno i doczesne życie."
     }
   }
 ]

@@ -12,7 +12,7 @@
     "parentRef": "mitologia",
     "data": {
       "contentType": "text",
-      "text": "## Czterech gości z matury\n\n**Prometeusz** — ukradł ogień bogom. Kara: orzeł wyjada wątrobę. Na wieki. **Archetyp buntownika**.\n\n**Syzyf** — wtoczy głaz, głaz spadnie. Camus powie: jest szczęśliwy. Sens w samym działaniu.\n\n**Ikar** — za blisko słońca. Symbol **hybris**.\n\n**Mit trojański** — 10 lat wojny. Fundament *Iliady*."
+      "text": "## Czterech gości z matury\n\n**Prometeusz** — ukradł ogień bogom. Kara: orzeł wyjada wątrobę. Na wieki. **{{Archetyp}} buntownika**.\n\n**Syzyf** — wtoczy głaz, głaz spadnie. Camus powie: jest szczęśliwy. Sens w samym działaniu.\n\n**Ikar** — za blisko słońca. Symbol **{{hybris}}**.\n\n**Mit trojański** — 10 lat wojny. Fundament *Iliady*."
     }
   },
   {
@@ -20,7 +20,7 @@
     "parentRef": "mitologia",
     "data": {
       "contentType": "text",
-      "text": "## Znasz ich — nie wiedząc o tym\n\nKonrad w *Dziadach cz. III* buntuje się przeciw Bogu — to **Prometeusz**. Wokulski w *Lalce* leci za wysoko — to **Ikar**. Meursault u Camusa żyje w absurdzie — to **Syzyf**.\n\nMitologia to **kod kulturowy**. Bez niego nie odczytasz literatury europejskiej."
+      "text": "## Znasz ich — nie wiedząc o tym\n\nKonrad w *Dziadach cz. III* buntuje się przeciw Bogu — to **Prometeusz**. Wokulski w *Lalce* leci za wysoko — to **Ikar**. Meursault u Camusa żyje w absurdzie — to **Syzyf**.\n\nMitologia to **{{kod kulturowy}}**. Bez niego nie odczytasz literatury europejskiej."
     }
   },
   {

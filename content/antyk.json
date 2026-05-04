@@ -4,7 +4,7 @@
     "parentRef": "antyk",
     "data": {
       "contentType": "text",
-      "text": "## Skąd się wzięła cała literatura?\n\n15 000 ludzi w ateńskim teatrze. Jeden aktor w masce. Widownia wie, że Edyp zabił ojca — on nie. To **ironia tragiczna**. Grecy wymyślili ją 2500 lat temu. Wymyślili też **tragedię**, **komedię**, **epos** i **lirykę**. Prawie wszystko, co czytasz, zaczęło się tutaj."
+      "text": "## Skąd się wzięła cała literatura?\n\n15 000 ludzi w ateńskim teatrze. Jeden aktor w masce. Widownia wie, że Edyp zabił ojca — on nie. To **{{ironia tragiczna}}**. Grecy wymyślili ją 2500 lat temu. Wymyślili też **tragedię**, **komedię**, **{{epos}}** i **lirykę**. Prawie wszystko, co czytasz, zaczęło się tutaj."
     }
   },
   {
@@ -12,7 +12,7 @@
     "parentRef": "antyk",
     "data": {
       "contentType": "text",
-      "text": "## Co napędzało antycznych bohaterów?\n\nDwa słowa-klucze. **Kalokagathia** — piękne ciało + piękna dusza = pełnia człowieczeństwa. **Arete** — bądź najlepszy. W walce, w mowie, w myśleniu. Ale nad każdym wisiało **fatum** — los, którego nie oszukasz. Nawet Achilles przegrał z przeznaczeniem."
+      "text": "## Co napędzało antycznych bohaterów?\n\nDwa słowa-klucze. **{{Kalokagathia}}** — piękne ciało + piękna dusza = pełnia człowieczeństwa. **{{Arete}}** — bądź najlepszy. W walce, w mowie, w myśleniu. Ale nad każdym wisiało **{{fatum}}** — los, którego nie oszukasz. Nawet Achilles przegrał z przeznaczeniem."
     }
   },
   {
@@ -20,7 +20,7 @@
     "parentRef": "antyk",
     "data": {
       "contentType": "text",
-      "text": "## Dlaczego wciąż to czytamy?\n\nBo Grecy zadali pytania bez odpowiedzi. Czy prawo sumienia bije prawo państwa? (*Antygona*). Czy da się uciec przed losem? (*Król Edyp*). **Homer** stworzył epos, **Sofokles** — konflikt tragiczny, **Horacy** — \"carpe diem\". Pisali na papirusie. Czytamy na maturze."
+      "text": "## Dlaczego wciąż to czytamy?\n\nBo Grecy zadali pytania bez odpowiedzi. Czy prawo sumienia bije prawo państwa? (*Antygona*). Czy da się uciec przed losem? (*Król Edyp*). **Homer** stworzył {{epos}}, **Sofokles** — {{konflikt tragiczny}}, **Horacy** — \"carpe diem\". Pisali na papirusie. Czytamy na maturze."
     }
   },
   {
@@ -28,7 +28,7 @@
     "parentRef": "antyk",
     "data": {
       "contentType": "text",
-      "text": "## Arystoteles — facet, który opisał reguły gry\n\nWyobraź sobie, że ktoś ogląda setki sztuk i wyciąga z nich przepis na dobrą fabułę. To **Arystoteles** i jego *Poetyka*. Zasada trzech jedności, **katharsis** — oczyszczenie przez litość i trwogę. Pierwszy krytyk literacki w historii. I wciąż aktualny."
+      "text": "## Arystoteles — facet, który opisał reguły gry\n\nWyobraź sobie, że ktoś ogląda setki sztuk i wyciąga z nich przepis na dobrą fabułę. To **Arystoteles** i jego *Poetyka*. Zasada trzech jedności, **{{katharsis}}** — oczyszczenie przez litość i trwogę. Pierwszy krytyk literacki w historii. I wciąż aktualny."
     }
   },
   {
@@ -36,8 +36,8 @@
     "parentRef": "antyk",
     "data": {
       "contentType": "quiz",
-      "text": "Czym jest kalokagathia i jak widać ją w antycznych bohaterach?",
-      "answer": "Kalokagathia to ideał jedności piękna ciała i szlachetności duszy. Achilles jest waleczny, ale też zdolny do głębokiego żalu po Patroklosie. Antyczny bohater nie mógł być tylko silny — musiał łączyć sprawność fizyczną z doskonałością moralną."
+      "text": "Czym jest {{kalokagathia}} i jak widać ją w antycznych bohaterach?",
+      "answer": "{{Kalokagathia}} to ideał jedności piękna ciała i szlachetności duszy. Achilles jest waleczny, ale też zdolny do głębokiego żalu po Patroklosie. Antyczny bohater nie mógł być tylko silny — musiał łączyć sprawność fizyczną z doskonałością moralną."
     }
   }
 ]

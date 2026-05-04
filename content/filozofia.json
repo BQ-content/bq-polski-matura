@@ -12,7 +12,7 @@
     "parentRef": "filozofia",
     "data": {
       "contentType": "text",
-      "text": "## Stoik, epikurejczyk, mnich\n\n**Stoicyzm** — znoś los godnie. Kochanowski w *Pieśni IX*. **Epikureizm** — rozsądna przyjemność. Horacy: \"Carpe diem\".\n\nŚredniowiecze: **św. Augustyn** — zło to brak dobra. **Św. Tomasz** — wiara + rozum, **scholastyka**.\n\nRenesans: **humanizm**. Oświecenie: **racjonalizm** (Kartezjusz: \"Myślę, więc jestem\")."
+      "text": "## Stoik, epikurejczyk, mnich\n\n**{{Stoicyzm}}** — znoś los godnie. Kochanowski w *Pieśni IX*. **{{Epikureizm}}** — rozsądna przyjemność. Horacy: \"Carpe diem\".\n\nŚredniowiecze: **św. Augustyn** — zło to brak dobra. **Św. Tomasz** — wiara + rozum, **{{scholastyka}}**.\n\nRenesans: **{{humanizm}}**. Oświecenie: **{{racjonalizm}}** (Kartezjusz: \"Myślę, więc jestem\")."
     }
   },
   {
@@ -28,7 +28,7 @@
     "parentRef": "filozofia",
     "data": {
       "contentType": "text",
-      "text": "## Wyobraź sobie: nie ma gotowego sensu życia\n\nXX wiek. **Egzystencjalizm** — Sartre i Camus. Człowiek jest **wolny i skazany na wybór**. Sens nie jest dany — tworzysz go sam.\n\nCamus w *Micie Syzyfa*: istnienie jest absurdalne, ale trzeba żyć. Na maturze zawsze wskaż filozoficzny kontekst epoki — to prosty sposób na punkty."
+      "text": "## Wyobraź sobie: nie ma gotowego sensu życia\n\nXX wiek. **{{Egzystencjalizm}}** — Sartre i Camus. Człowiek jest **wolny i skazany na wybór**. Sens nie jest dany — tworzysz go sam.\n\nCamus w *Micie Syzyfa*: istnienie jest absurdalne, ale trzeba żyć. Na maturze zawsze wskaż filozoficzny kontekst epoki — to prosty sposób na punkty."
     }
   },
   {

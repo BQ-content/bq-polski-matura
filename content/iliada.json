@@ -12,7 +12,7 @@
     "parentRef": "iliada",
     "data": {
       "contentType": "text",
-      "text": "## Wyobraź sobie: wróg klęka i płacze razem z tobą\n\nKról **Priam** klęczy przed Achillesem — mordercą jego syna Hektora — i błaga o ciało. Achilles płacze razem z nim. Homer nie gloryfikuje wojny. Pokazuje cenę: ból matek, strach wojowników. **Fatum** rządzi — Achilles wie, że zginie młodo, ale wybiera wieczną sławę."
+      "text": "## Wyobraź sobie: wróg klęka i płacze razem z tobą\n\nKról **Priam** klęczy przed Achillesem — mordercą jego syna Hektora — i błaga o ciało. Achilles płacze razem z nim. Homer nie gloryfikuje wojny. Pokazuje cenę: ból matek, strach wojowników. **{{Fatum}}** rządzi — Achilles wie, że zginie młodo, ale wybiera wieczną sławę."
     }
   },
   {
@@ -20,7 +20,7 @@
     "parentRef": "iliada",
     "data": {
       "contentType": "text",
-      "text": "## Dlaczego co drugi epos wygląda jak *Iliada*?\n\nBo Homer stworzył matrycę: **inwokacja** (wezwanie muzy), **in medias res** (start w środku akcji), **narrator wszechwiedzący**, **stały epitet** (Achilles \"szybkonogi\"), **porównanie homeryckie** (rozbudowane). Mickiewicz w *Panu Tadeuszu* świadomie powtarza te chwyty. Hołd, nie plagiat."
+      "text": "## Dlaczego co drugi {{epos}} wygląda jak *Iliada*?\n\nBo Homer stworzył matrycę: **{{inwokacja}}** (wezwanie muzy), **{{in medias res}}** (start w środku akcji), **narrator wszechwiedzący**, **{{stały epitet}}** (Achilles \"szybkonogi\"), **{{porównanie homeryckie}}** (rozbudowane). Mickiewicz w *Panu Tadeuszu* świadomie powtarza te chwyty. Hołd, nie plagiat."
     }
   },
   {
@@ -28,7 +28,7 @@
     "parentRef": "iliada",
     "data": {
       "contentType": "quiz",
-      "text": "Co oznacza **in medias res** i jak Homer stosuje tę technikę w *Iliadzie*?",
+      "text": "Co oznacza **{{in medias res}}** i jak Homer stosuje tę technikę w *Iliadzie*?",
       "answer": "Dosłownie: \"w środek rzeczy\". *Iliada* nie zaczyna od wybuchu wojny — wskakujemy w jej dziewiąty rok. Przeszłość poznajemy z retrospekcji. To buduje napięcie i stało się wzorcem dla późniejszych eposów."
     }
   }
