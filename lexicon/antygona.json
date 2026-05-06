@@ -13,17 +13,6 @@
   {
     "type": "lexicon",
     "data": {
-      "term": "hybris",
-      "nodes": "[\"antygona\",\"dziady3\",\"mitologia\",\"makbet\"]",
-      "relation": "poetyka",
-      "definition": "Pycha wobec bogów lub losu — zawsze kończy się źle.",
-      "quiz": "{\"question\":\"Kreon nie słucha nikogo, bo wierzy w własną nieomylność. Jakim terminem to określamy?\",\"wrong\":[\"hamartia\",\"fatum\",\"prometeizm\"],\"answer\":\"Hybris — pycha wobec bogów, losu lub ludzi. Prowadzi do upadku bohatera.\"}",
-      "category": "poetyka"
-    }
-  },
-  {
-    "type": "lexicon",
-    "data": {
       "term": "hamartia",
       "nodes": "[\"antygona\"]",
       "relation": "poetyka",

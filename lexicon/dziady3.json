@@ -2,32 +2,10 @@
   {
     "type": "lexicon",
     "data": {
-      "term": "prometeizm",
-      "nodes": "[\"dziady3\",\"romantyzm\",\"mitologia\"]",
-      "definition": "Samotny buntownik cierpi za ludzkość — jak Prometeusz, jak Konrad.",
-      "quiz": "{\"question\":\"Konrad żąda od Boga władzy nad duszami, gotowy cierpieć za naród. Jaką postawę reprezentuje?\",\"wrong\":[\"mesjanizm\",\"hybris\",\"stoicyzm\"],\"answer\":\"Prometeizm — postawa buntu jednostki przeciw siłom wyższym w imię zbiorowości.\"}",
-      "category": "epoki",
-      "relation": "epoki"
-    }
-  },
-  {
-    "type": "lexicon",
-    "data": {
-      "term": "mesjanizm",
-      "nodes": "[\"dziady3\",\"romantyzm\",\"historia\"]",
-      "definition": "Polska to Chrystus narodów — cierpi, ale zmartwychwstanie.",
-      "quiz": "{\"question\":\"Ksiądz Piotr widzi Polskę jak Chrystusa: ukrzyżowaną, ale zmartwychwstającą. Jaka to idea?\",\"wrong\":[\"prometeizm\",\"humanizm\",\"pozytywizm\"],\"answer\":\"Mesjanizm — wiara, że cierpienie narodu polskiego ma sens zbawczy dla całej ludzkości.\"}",
-      "category": "epoki",
-      "relation": "epoki"
-    }
-  },
-  {
-    "type": "lexicon",
-    "data": {
       "term": "Wielka Improwizacja",
       "nodes": "[\"dziady3\"]",
       "definition": "Konrad w celi krzyczy na Boga — monolog-bunt, serce *Dziadów cz. III*.",
-      "quiz": "{\"question\":\"Konrad w celi wileńskiego więzienia wygasza monolog-bunt wobec Boga. Jak nazywamy tę scenę?\",\"wrong\":[\"Wielka Emigracja\",\"Wielka Pokuta\",\"Wielki Monolog\"],\"answer\":\"Wielka Improwizacja — centralny monolog *Dziadów cz. III*, w którym Konrad żąda władzy od Boga.\"}",
+      "quiz": "{\"question\":\"Konrad w celi wileńskiego więzienia wygłasza monolog-bunt wobec Boga. Jak nazywamy tę scenę?\",\"wrong\":[\"Wielka Emigracja\",\"Wielka Pokuta\",\"Wielki Monolog\"],\"answer\":\"Wielka Improwizacja — centralny monolog *Dziadów cz. III*, w którym Konrad żąda władzy od Boga.\"}",
       "category": "lektury",
       "relation": "lektury"
     }

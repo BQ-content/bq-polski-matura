@@ -46,17 +46,6 @@
   {
     "type": "lexicon",
     "data": {
-      "term": "fatum",
-      "nodes": "[\"antyk\",\"iliada\",\"mitologia\"]",
-      "definition": "Los, którego nie oszukasz — nawet Achilles przegrał z przeznaczeniem.",
-      "quiz": "{\"question\":\"Achilles wie, że zginie młodo, ale wybiera sławę. Jaka siła rządzi jego losem?\",\"wrong\":[\"hybris\",\"hamartia\",\"katharsis\"],\"answer\":\"Fatum — nieodwracalne przeznaczenie, któremu nie mogą się oprzeć ani ludzie, ani bogowie.\"}",
-      "category": "poetyka",
-      "relation": "poetyka"
-    }
-  },
-  {
-    "type": "lexicon",
-    "data": {
       "term": "epos",
       "nodes": "[\"antyk\",\"iliada\"]",
       "definition": "Wielka opowieść wierszem o bohaterach i bogach — Homer to wymyślił.",

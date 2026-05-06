@@ -31,16 +31,5 @@
       "category": "poetyka",
       "relation": "poetyka"
     }
-  },
-  {
-    "type": "lexicon",
-    "data": {
-      "term": "Lady Makbet",
-      "nodes": "[\"makbet\"]",
-      "definition": "Planuje zbrodnię, ale łamie się pierwsza — ironia: im mąż twardnieje, tym ona się rozpada.",
-      "quiz": "{\"question\":\"Początkowo zimna i zdecydowana, potem lunatykuje i myje ręce. Która postać pokazuje, że zbrodnia niszczy planującego?\",\"wrong\":[\"Antygona\",\"Izabela Łęcka\",\"Balladyna\"],\"answer\":\"Lady Makbet — współautorka zbrodni, która załamuje się pod ciężarem wyrzutów sumienia.\"}",
-      "category": "lektury",
-      "relation": "lektury"
-    }
   }
 ]

@@ -2,17 +2,6 @@
   {
     "type": "lexicon",
     "data": {
-      "term": "vanitas",
-      "nodes": "[\"barok\",\"biblia\"]",
-      "definition": "Marność — wszystko przemija, życie jest ulotne jak dym.",
-      "quiz": "{\"question\":\"Naborowski przypomina: życie to mgnienie. Jaki motyw z *Koheleta* dominuje w baroku?\",\"wrong\":[\"mesjanizm\",\"prometeizm\",\"humanizm\"],\"answer\":\"Vanitas — motyw przemijania i marności życia, centralny dla baroku.\"}",
-      "category": "epoki",
-      "relation": "epoki"
-    }
-  },
-  {
-    "type": "lexicon",
-    "data": {
       "term": "konceptyzm",
       "nodes": "[\"barok\"]",
       "definition": "Zaskocz czytelnika — paradoks, zagadka, zaskakujący pomysł poetycki.",
