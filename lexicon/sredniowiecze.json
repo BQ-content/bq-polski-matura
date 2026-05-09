@@ -3,60 +3,55 @@
     "type": "term",
     "data": {
       "term": "teocentryzm",
-      "forms": [
-        "teocentryzmu",
-        "teocentryzmem",
-        "teocentryczny"
-      ],
+      "definition": "Bóg = centrum świata. Średniowieczna wizja: wszystko ma sens przez relację do Stwórcy. Człowiek to droga do Boga, ziemia — przedsionek nieba.",
+      "category": "konteksty",
+      "forms": "[\"teocentryzm\", \"teocentryzmu\", \"teocentryczny\"]",
       "nodes": "[\"bogurodzica\", \"renesans\", \"sredniowiecze\"]",
-      "definition": "Bóg w centrum wszystkiego — średniowiecze kręciło się wokół wiary.",
-      "quiz": {
-        "question": "W średniowieczu Bóg był miarą wszystkich rzeczy, a sztuka służyła wierze. Jakim terminem to określamy?",
-        "hint": "Światopogląd z Bogiem w centrum — wszystko służy wierze.",
-        "wrong": [
-          "antropocentryzm",
-          "humanizm",
-          "scholastyka",
-          "racjonalizm"
-        ],
-        "answer": "Teocentryzm to światopogląd stawiający Boga w centrum wszystkiego. Sztuka, nauka, życie codzienne — wszystko podporządkowane wierze. Bogurodzica to doskonały przykład: modlitwa do Maryi jako pośredniczki. Przeciwieństwo renesansowego antropocentryzmu."
-      },
-      "content": null
+      "quiz": "{\"question\": \"Czym jest teocentryzm?\", \"answer\": \"Pogląd, że Bóg jest centrum świata i miarą wszelkich rzeczy. Charakterystyczny dla średniowiecza.\", \"wrong\": [\"kult człowieka\", \"racjonalizm\", \"naturalizm\"], \"hint\": \"Theos = Bóg.\"}"
     }
   },
   {
     "type": "term",
     "data": {
       "term": "wzorce osobowe",
-      "forms": [
-        "wzorców osobowych",
-        "wzorcami osobowymi",
-        "wzorzec osobowy"
-      ],
+      "definition": "Średniowieczne ideały człowieka: święty (asceta), rycerz (Roland), władca (Chrobry). Każdy wzorzec to inna droga do Boga i społeczna rola.",
+      "category": "motywy",
+      "forms": "[\"wzorce osobowe\", \"wzorców osobowych\", \"wzorzec osobowy\"]",
       "nodes": "[\"sredniowiecze\"]",
-      "definition": "3 średniowieczne ideały: święty, rycerz i władca. Każdy prowadził do Boga.",
-      "quiz": {
-        "question": "Średniowiecze stawiało za przykład świętego, rycerza i władcę. Jakim terminem nazywamy te ideały?",
-        "hint": "Trzy średniowieczne ideały do naśladowania: święty, rycerz, władca.",
-        "wrong": [
-          "teocentryzm",
-          "kalokagathia",
-          "archetyp",
-          "arete"
-        ],
-        "answer": "Wzorce osobowe średniowiecza to trzy ideały: święty (np. św. Franciszek), rycerz (np. Roland) i władca (np. Karol Wielki). Każdy prowadził do Boga inną drogą — przez modlitwę, walkę lub sprawiedliwe rządy."
-      },
-      "content": null
+      "quiz": "{\"question\": \"Jakie były 3 średniowieczne wzorce osobowe?\", \"answer\": \"Święty (asceta), rycerz (etos rycerski), władca (sprawiedliwy król). Trzy modele życia chrześcijańskiego.\", \"wrong\": [\"kupiec, chłop, rycerz\", \"mnich, król, biskup\", \"ojciec, syn, duch\"], \"hint\": \"Trzy stany doskonałości.\"}"
     }
   },
   {
-    "type": "lexicon",
+    "type": "term",
     "data": {
       "term": "asceta",
+      "definition": "Średniowieczny święty wyrzekający się świata — św. Aleksy opuszcza ślubną żonę by żebrać pod schodami rodzinnego domu. Im głębsze cierpienie, tym bliżej Boga.",
+      "category": "motywy",
+      "forms": "[\"asceta\", \"ascety\", \"ascetę\", \"ascetą\", \"ascetyzm\"]",
+      "nodes": "[\"bogurodzica\", \"sredniowiecze\"]",
+      "quiz": "{\"question\": \"Czym charakteryzował się asceta jako wzorzec średniowieczny?\", \"answer\": \"Wyrzeczenie się świata, dóbr, ciała — przez cierpienie zbliża się do Boga. *Legenda o św. Aleksym*, mnisi pustelnicy.\", \"wrong\": [\"walka z poganami\", \"pielgrzymowanie\", \"studiowanie\"], \"hint\": \"Wyrzeczenie i cierpienie.\"}"
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "hierarchia pośredników",
+      "definition": "W *Bogurodzicy* drabina: ludzie → Maryja → Chrystus → Bóg Ojciec. Człowiek nie modli się do Boga wprost — prosi pośredników. Tak działała średniowieczna teologia.",
+      "category": "motywy",
+      "forms": "[\"hierarchia pośredników\", \"hierarchii pośredników\"]",
       "nodes": "[\"sredniowiecze\"]",
-      "definition": "Wyrzeka się świata dla Boga — św. Aleksy spał pod schodami własnego domu.",
-      "quiz": "{\"question\":\"Św. Aleksy porzucił bogactwo i żył w skrajnej nędzy dla Boga. Jaki średniowieczny wzorzec realizuje?\",\"wrong\":[\"rycerz\",\"władca\",\"wieszcz\"],\"answer\":\"Asceta — człowiek wyrzekający się dóbr doczesnych w imię życia duchowego.\"}",
-      "category": "epoki"
+      "quiz": "{\"question\": \"O co prosi się w *Bogurodzicy*?\", \"answer\": \"Prosi się Maryję, by wstawiła się u Syna, a Syn u Boga Ojca. Hierarchiczna prośba przez pośredników — średniowieczny model wiary.\", \"wrong\": [\"o zwycięstwo\", \"o łaskę bezpośrednio od Boga\", \"o pokój\"], \"hint\": \"Drabina próśb.\"}"
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "hymn",
+      "definition": "Pieśń pochwalna ku czci bóstwa, ojczyzny lub ideału. *Bogurodzica* — hymn do Maryi i Chrystusa. Ton uroczysty, wzniosły, modlitewny.",
+      "category": "gatunki",
+      "forms": "[\"hymn\", \"hymnu\", \"hymnem\", \"hymny\"]",
+      "nodes": "[\"bogurodzica\", \"sredniowiecze\"]",
+      "quiz": "{\"question\": \"Czym jest hymn jako gatunek?\", \"answer\": \"Pieśń uroczysta na cześć bóstwa, ojczyzny lub ideału. *Bogurodzica*, *Hymn do miłości ojczyzny* Krasickiego.\", \"wrong\": [\"krótki wiersz osobisty\", \"opowieść epicka\", \"satyra\"], \"hint\": \"Uroczysty, wzniosły, ku czci.\"}"
     }
   }
 ]

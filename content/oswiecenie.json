@@ -1,0 +1,16 @@
+[
+  {
+    "type": "content",
+    "data": {
+      "contentType": "intro",
+      "text": "## Wiek Świateł\n\nOświecenie odrzuca barokową przesadę — wraca {{klasycyzm}}, antyczne formy. Hasło: {{racjonalizm}} — rozum rozwiąże wszystko. Krasicki pisze {{satyra}} przeciw szlacheckim wadom, {{bajka}} z {{morał}} dydaktyzuje społeczeństwo."
+    }
+  },
+  {
+    "type": "content",
+    "data": {
+      "contentType": "concept",
+      "text": "## Uczyć śmiejąc się\n\nOświeceniowy program: pouczyć przez śmiech. Krasicki w „Pijaństwie\" wyśmiewa szlachecką chorobę. W bajkach lis i kruk — alegoryczne typy ludzkie. „Świat zepsuty\" — dosadna diagnoza."
+    }
+  }
+]

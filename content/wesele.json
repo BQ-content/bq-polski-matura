@@ -1,0 +1,16 @@
+[
+  {
+    "type": "content",
+    "data": {
+      "contentType": "intro",
+      "text": "## Wesele Wyspiańskiego\n\nW Bronowicach poeta z miasta żeni się z chłopką. Na weselu schodzą się klasy: inteligencja i chłopstwo. To {{dramat symboliczny}} — postacie nie są ludźmi, są {{symbol}}-ami polskiego losu."
+    }
+  },
+  {
+    "type": "content",
+    "data": {
+      "contentType": "concept",
+      "text": "## Chochoł\n\nPojawiają się duchy: Stańczyk, Wernyhora, Chochoł. Każda postać to inna idea. Końcowa scena to {{chocholi taniec}} — wszyscy krążą w transie, nikt nie chwyta złotego rogu. {{Metafora}} polskiej niemocy. {{Modernizm}} w pełnej ostrości."
+    }
+  }
+]

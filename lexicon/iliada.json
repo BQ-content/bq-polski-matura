@@ -2,127 +2,56 @@
   {
     "type": "term",
     "data": {
-      "term": "fatum",
-      "forms": [
-        "fata",
-        "fatalizm",
-        "fatalny"
-      ],
-      "nodes": "[\"antyk\", \"iliada\"]",
-      "definition": "Los wyznaczony przez bogów, którego nie da się uniknąć. Napędza tragedie.",
-      "quiz": {
-        "question": "Achilles wie, że zginie pod Troją, ale i tak walczy. Co nim rządzi?",
-        "hint": "Nieuchronny los wyznaczony przez bogów — nie da się go uniknąć.",
-        "wrong": [
-          "hybris",
-          "hamartia",
-          "arete",
-          "katharsis"
-        ],
-        "answer": "Fatum to przeznaczenie, los wyznaczony przez siły wyższe, którego nie można uniknąć. Achilles wie, że zginie pod Troją — i walczy mimo to. Edyp ucieka od przepowiedni — i wpada prosto w nią. Fatum napędza tragedie greckie."
-      },
-      "content": null
-    }
-  },
-  {
-    "type": "term",
-    "data": {
-      "term": "epos",
-      "forms": [
-        "eposu",
-        "eposem",
-        "epopeja",
-        "epopei"
-      ],
-      "nodes": "[\"antyk\", \"iliada\"]",
-      "definition": "Długi poemat o wielkich bohaterach i bitwach — Homer wymyślił reguły.",
-      "quiz": {
-        "question": "Homer napisał obszerny poemat o bohaterach i bogach, z inwokacją i stałymi epitetami. Jaki to gatunek?",
-        "hint": "Wielki poemat wierszem o bohaterach, bitwach i losach narodu.",
-        "wrong": [
-          "tragedia",
-          "ballada",
-          "sonet",
-          "oda"
-        ],
-        "answer": "Epos to rozbudowany poemat epicki o bohaterach i ich czynach. Homer ustalił konwencje: inwokacja, in medias res, narrator wszechwiedzący, stałe epitety. Mickiewicz w Panu Tadeuszu napisał ostatni wielki epos europejski."
-      },
-      "content": [
-        "## Każdy naród potrzebuje historii o sobie\n\nGrecy mieli *Iliadę*. Rzymianie *Eneidę*. Polacy — *Pana Tadeusza*. **Epos** to wielka opowieść wierszem: \"Oto kim jesteśmy jako wspólnota\".\n\nBohaterowie walczą i umierają, ale prawdziwy temat to **tożsamość narodu**.",
-        "## Zasady eposu — złam je i to nie epos\n\n- **Inwokacja** — wezwanie muzy. \"Litwo! Ojczyzno moja!\"\n- **In medias res** — start w środku akcji\n- **Narrator wszechwiedzący** — zna myśli bohaterów\n- **Stały epitet** — Achilles \"szybkonogi\"\n- **Porównanie homeryckie** — rozbudowane, wielopoziomowe",
-        "## Ostatni epos Europy — i najbardziej dziwny\n\nMickiewicz pisał *Pana Tadeusza* w Paryżu, tęskniąc za światem, który zniknął. Zachował **inwokację**, opisy przyrody, uczty — ale nasycił je **nostalgią emigranta**.\n\nHomer opiewał wojnę. Mickiewicz opiewa codzienność — bo wie, że jest cenniejsza."
-      ]
-    }
-  },
-  {
-    "type": "term",
-    "data": {
       "term": "in medias res",
-      "forms": [],
+      "definition": "Wpadasz w środek akcji — bez wstępu, bez „dawno temu\". *Iliada* zaczyna się od gniewu Achillesa, a wojna już trwa 9 lat. Czytelnik dogania pociąg w biegu.",
+      "category": "środki",
+      "forms": "[\"in medias res\"]",
       "nodes": "[\"iliada\"]",
-      "definition": "Zaczynam od środka akcji — Iliada nie od początku wojny, lecz 9. roku.",
-      "quiz": {
-        "question": "Iliada zaczyna się od 9. roku wojny trojańskiej, nie od porwania Heleny. Jaki to zabieg narracyjny?",
-        "hint": "Zabieg narracyjny — zaczynamy od środka akcji, nie od początku.",
-        "wrong": [
-          "inwokacja",
-          "retrospekcja",
-          "narracja ramowa",
-          "stały epitet"
-        ],
-        "answer": "In medias res (łac. w środek rzeczy) to rozpoczęcie opowieści od środka akcji. Iliada nie zaczyna od porwania Heleny, lecz od gniewu Achillesa w 9. roku wojny. Wcześniejsze wydarzenia poznajemy z retrospekcji."
-      },
-      "content": null
+      "quiz": "{\"question\": \"Co oznacza technika \\\"in medias res\\\"?\", \"answer\": \"Rozpoczęcie utworu od środka akcji, bez wprowadzenia. Klasyczna otwartość eposu — Homer od gniewu, Mickiewicz od wozów na drodze.\", \"wrong\": [\"retrospekcja\", \"inwokacja\", \"dygresja\"], \"hint\": \"Z łaciny: \\\"w środku rzeczy\\\".\"}"
     }
   },
   {
     "type": "term",
     "data": {
-      "term": "stały epitet",
-      "forms": [
-        "stałego epitetu",
-        "stałym epitetem",
-        "stałe epitety"
-      ],
+      "term": "inwokacja",
+      "definition": "Wezwanie muzy na początku eposu — autor prosi boginię o pomoc. „Gniew, bogini, opiewaj…\" otwiera *Iliadę*. Mickiewicz powtarza chwyt: „Litwo, ojczyzno moja…\".",
+      "category": "środki",
+      "forms": "[\"inwokacja\", \"inwokacji\", \"inwokację\", \"inwokacją\"]",
       "nodes": "[\"iliada\"]",
-      "definition": "Powtarzany opis postaci w eposie — Achilles \"szybkonogi\", Odys \"przebiegły\".",
-      "quiz": {
-        "question": "Homer powtarza: \"szybkonogi\" Achilles, \"różanopalca\" Eos. Jakim terminem określamy ten zabieg?",
-        "hint": "Powtarzany przymiotnik przypisany do postaci w eposie.",
-        "wrong": [
-          "porównanie homeryckie",
-          "inwokacja",
-          "epitet",
-          "metafora"
-        ],
-        "answer": "Stały epitet to powtarzany przymiotnik charakteryzujący postać w eposie: \"szybkonogi\" Achilles, \"przebiegły\" Odys, \"różanopalca\" Eos. Ułatwiał zapamiętywanie w tradycji ustnej i nadawał bohaterom stałą tożsamość."
-      },
-      "content": null
+      "quiz": "{\"question\": \"Jak nazwać otwarcie *Iliady* i *Pana Tadeusza* — apostrofę do muzy/ojczyzny?\", \"answer\": \"Inwokacja — wezwanie bóstwa lub muzy o natchnienie. Klasyczne otwarcie eposu, sygnalizuje gatunek.\", \"wrong\": [\"apostrofa\", \"inwersja\", \"dygresja\"], \"hint\": \"Otwiera *Iliadę* i *Pana Tadeusza*.\"}"
     }
   },
   {
     "type": "term",
     "data": {
       "term": "porównanie homeryckie",
-      "forms": [
-        "porównania homeryckiego",
-        "porównaniem homeryckim",
-        "porównania homeryckie"
-      ],
+      "definition": "Rozbudowane, kilkulinijkowe porównanie. „Jak lew, gdy spotka stado owiec…\" — Homer rozwija obraz przez pół strony, zanim wraca do akcji. Rozciąga czas, buduje napięcie.",
+      "category": "środki",
+      "forms": "[\"porównanie homeryckie\", \"porównania homeryckiego\", \"porównaniu homeryckim\"]",
       "nodes": "[\"iliada\"]",
-      "definition": "Mega-rozbudowane porównanie: wojownik jak lew, lew jak burza, burza jak gniew.",
-      "quiz": {
-        "question": "Homer rozbudowuje porównanie na kilkanaście wersów, tworząc odrębny obrazek. Jaki to typ porównania?",
-        "hint": "Rozbudowane, wielopoziomowe porównanie w eposie — osobny obrazek.",
-        "wrong": [
-          "stały epitet",
-          "metafora",
-          "hiperbola",
-          "inwokacja"
-        ],
-        "answer": "Porównanie homeryckie to rozbudowane porównanie w eposie — kilka-kilkanaście wersów tworzących odrębny obraz. Wojownik jak lew, lew jak burza, burza jak gniew bogów. Homer buduje z nich poetyckie miniatury wewnątrz Iliady."
-      },
-      "content": null
+      "quiz": "{\"question\": \"Czym charakteryzuje się porównanie homeryckie?\", \"answer\": \"Rozbudowane, wielowersowe porównanie z bogatym obrazowaniem. Spowalnia narrację i dodaje epickiego rozmachu.\", \"wrong\": [\"krótkie porównanie\", \"metafora\", \"epitet stały\"], \"hint\": \"Klucz: „rozbudowane\\\" — kilka linijek, nie jedno słowo.\"}"
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "stały epitet",
+      "definition": "Powtarzające się określenie postaci. Achilles jest zawsze „szybkonogi\", Atena „sowiooka\". Pomaga zapamiętać bohatera — to spadek po tradycji ustnej.",
+      "category": "środki",
+      "forms": "[\"stały epitet\", \"stałe epitety\", \"stałego epitetu\", \"stałym epitetem\"]",
+      "nodes": "[\"iliada\"]",
+      "quiz": "{\"question\": \"Achilles „szybkonogi\\\", Atena „sowiooka\\\" — jak nazwać te określenia?\", \"answer\": \"Stałe epitety — powtarzane określenia postaci eposu, pomagające zapamiętać bohatera. Pochodzą z tradycji ustnej.\", \"wrong\": [\"metafora\", \"oksymoron\", \"porównanie homeryckie\"], \"hint\": \"Klucz: „stały\\\" — powtarza się.\"}"
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "metafora",
+      "definition": "Przeniesienie znaczenia — coś nazywamy słowem które znaczy co innego, żeby pokazać podobieństwo. „Życie to taniec\" — życie nie tańczy, ale ma rytm i krok jak taniec.",
+      "category": "środki",
+      "forms": "[\"metafora\", \"metafory\", \"metaforę\", \"metaforą\", \"metaforyczny\", \"metaforyczna\"]",
+      "nodes": "[\"bogurodzica\", \"dziady3\", \"dzuma\", \"iliada\", \"lalka\", \"mloda-polska\", \"renesans\", \"romantyzm\", \"wesele\"]",
+      "quiz": "{\"question\": \"Jak nazwać zdanie „Czas to złodziej, kradnie nam dni\\\"?\", \"answer\": \"Metafora — czas dosłownie nie kradnie, ale działa jak złodziej. Przeniesienie znaczenia z dziedziny przedmiotów na dziedzinę abstrakcji.\", \"wrong\": [\"porównanie\", \"epitet\", \"metonimia\"], \"hint\": \"Brak słówka „jak\\\" — dlatego nie porównanie.\"}"
     }
   }
 ]

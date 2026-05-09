@@ -2,75 +2,56 @@
   {
     "type": "term",
     "data": {
-      "term": "prometeizm",
-      "forms": [
-        "prometeizmu",
-        "prometeizmem",
-        "prometejski"
-      ],
+      "term": "mesjanizm",
+      "definition": "Wiara że Polska to „Chrystus narodów\" — cierpi by zbawić inne narody. Mickiewicz w *Dziadach III*: rozbiory to ukrzyżowanie, zmartwychwstanie nadejdzie. Idea XIX-wiecznej emigracji.",
+      "category": "motywy",
+      "forms": "[\"mesjanizm\", \"mesjanizmu\", \"mesjanizmem\", \"mesjanistyczny\", \"mesjanistyczna\"]",
       "nodes": "[\"dziady3\", \"romantyzm\"]",
-      "definition": "Bunt jednostki przeciw Bogu w imię ludzi — jak Konrad w Dziadach.",
-      "quiz": {
-        "question": "Konrad w Dziadach buntuje się przeciw Bogu, żądając władzy dla dobra narodu. Jaką postawę reprezentuje?",
-        "hint": "Bunt jednostki przeciw Bogu w imię dobra ludzkości.",
-        "wrong": [
-          "mesjanizm",
-          "egzystencjalizm",
-          "stoicyzm",
-          "dekadentyzm"
-        ],
-        "answer": "Prometeizm to postawa buntu jednostki przeciw Bogu w imię dobra ludzi — jak Prometeusz, który ukradł ogień bogom. Konrad w Wielkiej Improwizacji żąda od Boga władzy nad duszami, by zbawić naród. Postawa heroiczna, ale skazana na klęskę."
-      },
-      "content": null
+      "quiz": "{\"question\": \"Co głosi polski mesjanizm romantyczny?\", \"answer\": \"Polska cierpi za inne narody jak Chrystus, by je odkupić — a po cierpieniu nadejdzie zmartwychwstanie. Mickiewicz, Słowacki, Krasiński.\", \"wrong\": [\"walka klasowa\", \"powrót do antyku\", \"krytyka Kościoła\"], \"hint\": \"Polska = Chrystus narodów.\"}"
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "prometeizm",
+      "definition": "Bunt jednostki dla dobra ogółu — Prometeusz ukradł bogom ogień, Konrad chce „rządu dusz\", by uratować naród. Cierpienie jednego dla wielu.",
+      "category": "motywy",
+      "forms": "[\"prometeizm\", \"prometeizmu\", \"prometejski\", \"prometejska\"]",
+      "nodes": "[\"dziady3\", \"romantyzm\"]",
+      "quiz": "{\"question\": \"Czym jest prometeizm?\", \"answer\": \"Bunt jednostki przeciw bogom/władzy w imię dobra zbiorowości. Prometeusz dla ludzi, Konrad dla narodu. Klasyczny motyw romantyczny.\", \"wrong\": [\"indywidualizm\", \"kult silnej jednostki\", \"pacyfizm\"], \"hint\": \"Cierpienie dla innych.\"}"
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "wieszcz",
+      "definition": "Poeta-prorok prowadzący naród. Trzej wieszcze polskiego romantyzmu: Mickiewicz, Słowacki, Krasiński. Konrad w *Dziadach III*: „Ja kocham cały naród!\".",
+      "category": "motywy",
+      "forms": "[\"wieszcz\", \"wieszcza\", \"wieszczem\", \"wieszczowie\"]",
+      "nodes": "[\"dziady3\", \"romantyzm\"]",
+      "quiz": "{\"question\": \"Kim był „wieszcz\\\" w polskim romantyzmie?\", \"answer\": \"Poeta-prorok, duchowy przywódca narodu — Mickiewicz, Słowacki, Krasiński. Wieszcz „rządzi duszami\\\", odczytuje los narodu.\", \"wrong\": [\"kapłan\", \"rycerz\", \"mąż stanu\"], \"hint\": \"Poeta + prorok.\"}"
     }
   },
   {
     "type": "term",
     "data": {
       "term": "hybris",
-      "forms": [
-        "hybris"
-      ],
-      "nodes": "[\"antygona\", \"dziady3\"]",
-      "definition": "Pycha bohatera, który myśli, że jest nieomylny — i przez to traci wszystko.",
-      "quiz": {
-        "question": "Kreon uważa się za nieomylnego władcę i nie słucha ostrzeżeń — przez co traci rodzinę. Jaka to wina?",
-        "hint": "Pycha wobec bogów lub losu — bohater myśli, że jest ponad reguły.",
-        "wrong": [
-          "hamartia",
-          "fatum",
-          "ironia tragiczna",
-          "katharsis"
-        ],
-        "answer": "Hybris to pycha wobec bogów lub porządku świata. Kreon nie słucha syna, wieszczka ani chóru — traci syna i żonę. Makbet po pierwszym morderstwie wierzy w swoją nietykalność. Na maturze hybris pojawia się przy Antygonie i Makbecie."
-      },
-      "content": null
+      "definition": "Pycha która prowadzi do upadku — bohater myśli że jest większy od bogów, prawa, losu. Antygona pogardza Kreonem, Makbet pogardza naturalnym porządkiem. Hybris zawsze ma cenę.",
+      "category": "motywy",
+      "forms": "[\"hybris\", \"hybrys\", \"hybridy\"]",
+      "nodes": "[\"antygona\", \"dziady3\", \"makbet\"]",
+      "quiz": "{\"question\": \"Czym jest hybris w tragedii?\", \"answer\": \"Pycha — przekonanie bohatera że jest większy od bogów lub prawa. Prowadzi do nemezis (kary) i upadku. Klasyczne motywy: Antygona, Makbet, Konrad.\", \"wrong\": [\"litość\", \"sprawiedliwość\", \"mądrość\"], \"hint\": \"Pycha która nie kończy się dobrze.\"}"
     }
   },
   {
     "type": "term",
     "data": {
-      "term": "mesjanizm",
-      "forms": [
-        "mesjanizmu",
-        "mesjanizmem",
-        "mesjanistyczny",
-        "mesjański"
-      ],
-      "nodes": "[\"dziady3\", \"romantyzm\"]",
-      "definition": "Polska cierpi jak Chrystus za inne narody i kiedyś je wyzwoli.",
-      "quiz": {
-        "question": "Polska jako Chrystus narodów — cierpi, by inne ludy mogły zmartwychwstać. Jaka to idea?",
-        "hint": "Polska jako Chrystus — cierpienie narodu ma sens zbawczy.",
-        "wrong": [
-          "prometeizm",
-          "egzystencjalizm",
-          "stoicyzm",
-          "patriotyzm"
-        ],
-        "answer": "Mesjanizm to przekonanie, że cierpienie narodu ma sens zbawczy — Polska przez rozbiory odkupia winy Europy. Mickiewicz w Widzeniu ks. Piotra: Polska jak Chrystus — ukrzyżowana, ale zmartwychwstanie. Centralna idea Dziadów cz. III."
-      },
-      "content": null
+      "term": "metafora",
+      "definition": "Przeniesienie znaczenia — coś nazywamy słowem które znaczy co innego, żeby pokazać podobieństwo. „Życie to taniec\" — życie nie tańczy, ale ma rytm i krok jak taniec.",
+      "category": "środki",
+      "forms": "[\"metafora\", \"metafory\", \"metaforę\", \"metaforą\", \"metaforyczny\", \"metaforyczna\"]",
+      "nodes": "[\"bogurodzica\", \"dziady3\", \"dzuma\", \"iliada\", \"lalka\", \"mloda-polska\", \"renesans\", \"romantyzm\", \"wesele\"]",
+      "quiz": "{\"question\": \"Jak nazwać zdanie „Czas to złodziej, kradnie nam dni\\\"?\", \"answer\": \"Metafora — czas dosłownie nie kradnie, ale działa jak złodziej. Przeniesienie znaczenia z dziedziny przedmiotów na dziedzinę abstrakcji.\", \"wrong\": [\"porównanie\", \"epitet\", \"metonimia\"], \"hint\": \"Brak słówka „jak\\\" — dlatego nie porównanie.\"}"
     }
   }
 ]

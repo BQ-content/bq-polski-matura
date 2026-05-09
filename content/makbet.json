@@ -1,35 +1,16 @@
 [
   {
     "type": "content",
-    "parentRef": "makbet",
     "data": {
-      "contentType": "text",
-      "text": "## Ile trzeba, żeby przyzwoity człowiek zaczął zabijać?\n\nPrzepowiednia trzech wiedźm i żona z żelazną wolą. Tyle wystarczy. Makbet to odważny, szanowany wódz. Ale gdy słyszy, że będzie królem, zaczyna się **{{degeneracja moralna}}**: wahanie → zbrodnia → eskalacja → nihilizm. Na końcu nie czuje już nic."
+      "contentType": "intro",
+      "text": "## Krew rodzi krew\n\nMakbet to {{tragedia}} szekspirowska: lojalny rycerz słucha przepowiedni, zabija króla, sięga po koronę. Później musi zabijać dalej. To {{degeneracja moralna}} — spirala, z której nie ma wyjścia."
     }
   },
   {
     "type": "content",
-    "parentRef": "makbet",
     "data": {
-      "contentType": "text",
-      "text": "## \"Jutro i jutro, i jutro...\" — czyli dno\n\nPo serii morderstw Makbet mówi: życie to *\"opowieść idioty, pełna wrzasku i wściekłości, nic nie znacząca\"*. Szekspir nie usprawiedliwia go, ale **rozumie**. Zło nie potrzebuje potworów. Potrzebuje ambicji bez hamulców moralnych. To dlatego *Makbet* przeraża — bo ta droga jest krótka."
-    }
-  },
-  {
-    "type": "content",
-    "parentRef": "makbet",
-    "data": {
-      "contentType": "text",
-      "text": "## *\"Precz, przeklęta plamo!\"* — symbole, które musisz znać\n\n**{{Lady Makbet}}** planuje zbrodnię, ale potem łamie się pierwsza. Lunatykuje i myje ręce z niewidzialnej krwi. Kluczowe symbole: **krew** = wina, **sen** = spokój sumienia (Makbet \"zamordował sen\"), **ciemność** = osłona zła, **ręce** = narzędzie zbrodni i sumienie."
-    }
-  },
-  {
-    "type": "content",
-    "parentRef": "makbet",
-    "data": {
-      "contentType": "quiz",
-      "text": "Co symbolizuje scena mycia rąk **{{Lady Makbet}}** i jak pokazuje **degenerację moralną**?",
-      "answer": "Niezmywalna plama krwi to metafora winy, której nie da się cofnąć. {{Lady Makbet}} — początkowo zimna i zdecydowana — łamie się pod ciężarem wyrzutów sumienia. Ironia: im Makbet twardnieje, tym ona się rozpada. Oboje płacą cenę, ale odwrotnie."
+      "contentType": "concept",
+      "text": "## Druga ręka\n\n{{Lady Makbet}} pcha męża do zbrodni — wyśmiewa wahania. Później szaleje, obsesyjnie myje ręce: „Out, damned spot!\". Klasyczna {{hybris}} — pycha sięgnięcia po to, co nie należy. {{Vanitas}} — władza okazuje się próżnością."
     }
   }
 ]

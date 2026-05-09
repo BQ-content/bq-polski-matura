@@ -1,43 +1,16 @@
 [
   {
     "type": "content",
-    "parentRef": "barok",
     "data": {
-      "contentType": "text",
-      "text": "## \"Świat jest harmonijny.\" — \"To czemu wszystko umiera?\"\n\nRenesans wierzył w ład. Barok zobaczył chaos. XVII wiek: wojny, zarazy, religijne rzezie. Stąd kluczowy motyw — **{{vanitas}}**. Marność. Wszystko przemija. Daniel Naborowski w *Krótkości żywota* przypomina: życie jest ulotne jak dym."
+      "contentType": "intro",
+      "text": "## Wszystko jest pyłem\n\nBarokowy motyw {{vanitas}}: czaszka, świeca dopalająca się, klepsydra. „Marność nad marnościami\" — mówi Eklezjastes, powtarzają poeci. Luksus ma datę ważności."
     }
   },
   {
     "type": "content",
-    "parentRef": "barok",
     "data": {
-      "contentType": "text",
-      "text": "## Jak zaskoczyć czytelnika? {{Koncept}}.\n\n**{{Konceptyzm}}** — barokowy poeta nie mówił prosto. Budował **{{koncept}}**: paradoks, zaskoczenie, zagadkę. **{{Marinizm}}** poszedł dalej — wirtuozeria słowa jako cel sam w sobie. Jan Andrzej Morsztyn w *Do trupa* porównał zakochanego do trupa. Kto ma gorzej? Zakochany."
-    }
-  },
-  {
-    "type": "content",
-    "parentRef": "barok",
-    "data": {
-      "contentType": "text",
-      "text": "## Sarmata — bohater pełen sprzeczności\n\n**{{Sarmatyzm}}**: polska szlachta wierzyła, że pochodzi od starożytnych Sarmatów. Odważni, ale zaściankowi. Pobożni, ale kochający ucztować. Patrioci broniący swoich przywilejów ponad wszystko. **Jan Chryzostom Pasek** w *Pamiętnikach* portretuje sarmatę z dumą — i nieświadomą autoironią."
-    }
-  },
-  {
-    "type": "content",
-    "parentRef": "barok",
-    "data": {
-      "contentType": "text",
-      "text": "## Krytyk i piewca w jednym\n\n**Wacław Potocki** — fascynujący paradoks. W *Moraliach* grzmi na wady szlachty: pijaństwo, ksenofobię, korupcję. W *Wojnie chocimskiej* pisze epos gloryfikujący rycerskie cnoty. Jeden autor, dwa oblicza. Barok kochał sprzeczności — nawet u swoich twórców."
-    }
-  },
-  {
-    "type": "content",
-    "parentRef": "barok",
-    "data": {
-      "contentType": "quiz",
-      "text": "Czym jest {{konceptyzm}}? Podaj przykład.",
-      "answer": "{{Konceptyzm}} to nurt oparty na koncepcie — zaskakującym pomyśle poetyckim, paradoksie, zestawieniu odległych rzeczy. Morsztyn w *Do trupa* porównuje zakochanego do trupa: obaj leżą bez ruchu, ale trup nie cierpi. Cel: olśnić czytelnika intelektualną grą."
+      "contentType": "concept",
+      "text": "## Polska droga\n\n{{Sarmatyzm}} — szlachta wierzyła, że pochodzi od Sarmatów. Kontusz, wolność złota, religijność. {{Konceptyzm}} (Morsztyn) i włoski {{marinizm}} grały kunsztem. {{Koncept}} — zaskakujący pomysł literacki — był ważniejszy niż prawda."
     }
   }
 ]

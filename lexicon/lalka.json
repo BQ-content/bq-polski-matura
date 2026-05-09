@@ -1,60 +1,57 @@
 [
   {
-    "type": "lexicon",
-    "data": {
-      "term": "metafora",
-      "nodes": "[\"lalka\"]",
-      "definition": "Miłość Wokulskiego to nie melodramat — to metafora energii kontra stagnacji.",
-      "quiz": "{\"question\":\"Miłość Wokulskiego do Izabeli to nie romans — symbolizuje zderzenie nowoczesności z feudalizmem. Jaki środek stylistyczny to opisuje?\",\"wrong\":[\"alegoria\",\"symbol\",\"porównanie\"],\"answer\":\"Metafora — przeniesienie znaczenia: miłość jako obraz społecznego konfliktu.\"}",
-      "category": "poetyka"
-    }
-  },
-  {
     "type": "term",
     "data": {
-      "term": "powieść realistyczna",
-      "forms": [
-        "powieści realistycznej",
-        "powieścią realistyczną"
-      ],
-      "nodes": "[\"lalka\", \"pozytywizm\"]",
-      "definition": "Lustro społeczeństwa — szczegółowe opisy, psychologia, narrator wie wszystko.",
-      "quiz": {
-        "question": "Narrator wszechwiedzący, szczegółowe opisy środowiska, psychologia postaci — jak nazywamy taki typ powieści?",
-        "hint": "Typ powieści z narratorem wszechwiedzącym i szczegółowym opisem społeczeństwa.",
-        "wrong": [
-          "powieść historyczna",
-          "powieść tendencyjna",
-          "powieść psychologiczna",
-          "powieść epistolarna"
-        ],
-        "answer": "Powieść realistyczna to dominujący gatunek pozytywizmu: narrator wszechwiedzący, szczegółowe opisy, pogłębiona psychologia, tło społeczne. Lalka Prusa to arcydzieło gatunku — Warszawa jak pod mikroskopem, Wokulski pełen sprzeczności."
-      },
-      "content": null
+      "term": "metafora",
+      "definition": "Przeniesienie znaczenia — coś nazywamy słowem które znaczy co innego, żeby pokazać podobieństwo. „Życie to taniec\" — życie nie tańczy, ale ma rytm i krok jak taniec.",
+      "category": "środki",
+      "forms": "[\"metafora\", \"metafory\", \"metaforę\", \"metaforą\", \"metaforyczny\", \"metaforyczna\"]",
+      "nodes": "[\"bogurodzica\", \"dziady3\", \"dzuma\", \"iliada\", \"lalka\", \"mloda-polska\", \"renesans\", \"romantyzm\", \"wesele\"]",
+      "quiz": "{\"question\": \"Jak nazwać zdanie „Czas to złodziej, kradnie nam dni\\\"?\", \"answer\": \"Metafora — czas dosłownie nie kradnie, ale działa jak złodziej. Przeniesienie znaczenia z dziedziny przedmiotów na dziedzinę abstrakcji.\", \"wrong\": [\"porównanie\", \"epitet\", \"metonimia\"], \"hint\": \"Brak słówka „jak\\\" — dlatego nie porównanie.\"}"
     }
   },
   {
     "type": "term",
     "data": {
       "term": "narrator wszechwiedzący",
-      "forms": [
-        "narratora wszechwiedzącego",
-        "narratorem wszechwiedzącym"
-      ],
+      "definition": "Narrator wie wszystko — co bohaterowie myślą, co stanie się na końcu, co zostało wcześniej. Jest jak oko Boga nad fabułą. Klasyczny w XIX-wiecznej powieści realistycznej.",
+      "category": "środki",
+      "forms": "[\"narrator wszechwiedzący\", \"narratora wszechwiedzącego\"]",
+      "nodes": "[\"granica\", \"lalka\"]",
+      "quiz": "{\"question\": \"Kim jest narrator wszechwiedzący?\", \"answer\": \"Narrator znający myśli, uczucia i przyszłość wszystkich bohaterów. Klasyk powieści realistycznej XIX wieku — Prus, Tołstoj.\", \"wrong\": [\"narrator pierwszoosobowy\", \"narrator behawiorystyczny\", \"narrator subiektywny\"], \"hint\": \"Wie więcej niż bohaterowie.\"}"
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "powieść realistyczna",
+      "definition": "Powieść XIX-wieczna pokazująca życie społeczeństwa „takim jakie jest\" — szczegółowy opis środowisk, narrator wszechwiedzący, panorama klas. *Lalka*, *Anna Karenina*, *Pani Bovary*.",
+      "category": "gatunki",
+      "forms": "[\"powieść realistyczna\", \"powieści realistycznej\", \"powieścią realistyczną\"]",
+      "nodes": "[\"lalka\", \"pozytywizm\"]",
+      "quiz": "{\"question\": \"Co odróżnia powieść realistyczną od fantastycznej?\", \"answer\": \"Realizm — szczegółowe pokazanie społeczeństwa „takim jakie jest\\\", typowe postacie w typowych okolicznościach. Prus, Balzac, Tołstoj.\", \"wrong\": [\"rym\", \"narrator pierwszoosobowy\", \"krótka forma\"], \"hint\": \"Życie jak prawdziwe.\"}"
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "idealista",
+      "definition": "Bohater który wierzy w ideały i przegrywa z rzeczywistością. Wokulski w *Lalce* kocha ponad miarę, inwestuje fortunę w bezsensowny pomysł, znika. Klasyczny pozytywistyczny upadek romantyka.",
+      "category": "motywy",
+      "forms": "[\"idealista\", \"idealisty\", \"idealistę\", \"idealistą\", \"idealizm\"]",
+      "nodes": "[\"lalka\", \"pozytywizm\"]",
+      "quiz": "{\"question\": \"Dlaczego Wokulski w *Lalce* przegrywa?\", \"answer\": \"Jest idealistą — kocha bezgranicznie, wierzy w głębokie czucia w czasach pragmatyzmu. Pozytywizm pokazuje upadek romantycznego idealisty.\", \"wrong\": [\"brakuje mu pieniędzy\", \"jest stary\", \"nie zna języków\"], \"hint\": \"Romantyzm w epoce pragmatyzmu.\"}"
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "klęska idealizmu",
+      "definition": "Pozytywistyczny wątek: romantyczne ideały giną w starciu z rzeczywistością. Wokulski kocha Izabelę — ona kocha tytuł i pieniądze. Praca u podstaw idealisty pozostaje samotna.",
+      "category": "motywy",
+      "forms": "[\"klęska idealizmu\", \"klęski idealizmu\", \"klęskę idealizmu\"]",
       "nodes": "[\"lalka\"]",
-      "definition": "Wie wszystko: myśli bohaterów, plany bogów, obie strony konfliktu.",
-      "quiz": {
-        "question": "W Lalce opowiadacz zna myśli wszystkich postaci i komentuje ich działania. Jaki to typ narratora?",
-        "hint": "Narrator który zna myśli bohaterów i komentuje wydarzenia.",
-        "wrong": [
-          "narrator pierwszoosobowy",
-          "narrator niewiarygodny",
-          "in medias res",
-          "narracja ramowa"
-        ],
-        "answer": "Narrator wszechwiedzący zna myśli wszystkich postaci, komentuje wydarzenia i wie więcej niż bohaterowie. W Iliadzie — pokazuje jednocześnie obóz grecki i mury Troi. W Lalce — wnika w psychikę Wokulskiego i ocenia społeczeństwo."
-      },
-      "content": null
+      "quiz": "{\"question\": \"Co jest „klęską idealizmu\\\" w *Lalce*?\", \"answer\": \"Wokulski wierzy w wielką miłość i pracę dla narodu — Izabela go gardzi, społeczeństwo zostaje obojętne. Romantyzm przegrywa z pragmatyzmem.\", \"wrong\": [\"klęska finansowa\", \"klęska polityczna\", \"klęska zdrowotna\"], \"hint\": \"Romantyzm vs pragmatyzm.\"}"
     }
   }
 ]

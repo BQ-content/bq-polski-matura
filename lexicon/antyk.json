@@ -2,128 +2,56 @@
   {
     "type": "term",
     "data": {
-      "term": "ironia tragiczna",
-      "forms": [
-        "ironii tragicznej",
-        "ironią tragiczną",
-        "ironię tragiczną"
-      ],
-      "nodes": "[\"antyk\"]",
-      "definition": "Widz wie więcej niż bohater — Edyp szuka mordercy, a to on sam.",
-      "quiz": {
-        "question": "Widz wie, że Edyp zabił ojca — bohater nie wie. Jak nazywamy tę sytuację dramatyczną?",
-        "hint": "Widz zna prawdę, bohater nie — ta rozbieżność napędza dramat.",
-        "wrong": [
-          "hamartia",
-          "katharsis",
-          "hybris",
-          "fatum"
-        ],
-        "answer": "Ironia tragiczna to sytuacja, gdy widz wie więcej niż bohater — np. Edyp szuka mordercy ojca, nie wiedząc, że to on sam. Ten zabieg potęguje napięcie i litość widza. Na maturze pojawia się przy Antygonie i Królu Edypie."
-      },
-      "content": null
-    }
-  },
-  {
-    "type": "term",
-    "data": {
       "term": "epos",
-      "forms": [
-        "eposu",
-        "eposem",
-        "epopeja",
-        "epopei"
-      ],
+      "definition": "Wielki utwór wierszowany o czynach bohaterów. *Iliada*, *Odyseja*, *Pan Tadeusz*. Epos ma styl wysoki, inwokację, narratora wszechwiedzącego, porównania homeryckie.",
+      "category": "gatunki",
+      "forms": "[\"epos\", \"eposu\", \"eposem\", \"epicki\", \"epicka\"]",
       "nodes": "[\"antyk\", \"iliada\"]",
-      "definition": "Długi poemat o wielkich bohaterach i bitwach — Homer wymyślił reguły.",
-      "quiz": {
-        "question": "Homer napisał obszerny poemat o bohaterach i bogach, z inwokacją i stałymi epitetami. Jaki to gatunek?",
-        "hint": "Wielki poemat wierszem o bohaterach, bitwach i losach narodu.",
-        "wrong": [
-          "tragedia",
-          "ballada",
-          "sonet",
-          "oda"
-        ],
-        "answer": "Epos to rozbudowany poemat epicki o bohaterach i ich czynach. Homer ustalił konwencje: inwokacja, in medias res, narrator wszechwiedzący, stałe epitety. Mickiewicz w Panu Tadeuszu napisał ostatni wielki epos europejski."
-      },
-      "content": [
-        "## Każdy naród potrzebuje historii o sobie\n\nGrecy mieli *Iliadę*. Rzymianie *Eneidę*. Polacy — *Pana Tadeusza*. **Epos** to wielka opowieść wierszem: \"Oto kim jesteśmy jako wspólnota\".\n\nBohaterowie walczą i umierają, ale prawdziwy temat to **tożsamość narodu**.",
-        "## Zasady eposu — złam je i to nie epos\n\n- **Inwokacja** — wezwanie muzy. \"Litwo! Ojczyzno moja!\"\n- **In medias res** — start w środku akcji\n- **Narrator wszechwiedzący** — zna myśli bohaterów\n- **Stały epitet** — Achilles \"szybkonogi\"\n- **Porównanie homeryckie** — rozbudowane, wielopoziomowe",
-        "## Ostatni epos Europy — i najbardziej dziwny\n\nMickiewicz pisał *Pana Tadeusza* w Paryżu, tęskniąc za światem, który zniknął. Zachował **inwokację**, opisy przyrody, uczty — ale nasycił je **nostalgią emigranta**.\n\nHomer opiewał wojnę. Mickiewicz opiewa codzienność — bo wie, że jest cenniejsza."
-      ]
+      "quiz": "{\"question\": \"Który utwór NIE jest eposem?\", \"answer\": \"Antygona — to tragedia. Epos to długi utwór wierszowany o czynach bohaterów: *Iliada*, *Odyseja*, *Pan Tadeusz*.\", \"wrong\": [\"*Iliada*\", \"*Pan Tadeusz*\", \"*Odyseja*\"], \"hint\": \"Epos ≠ dramat.\"}"
     }
   },
   {
     "type": "term",
     "data": {
-      "term": "kalokagathia",
-      "forms": [
-        "kalokagathii",
-        "kalokagathią"
-      ],
-      "nodes": "[\"antyk\"]",
-      "definition": "Grecki ideał: piękne ciało + szlachetna dusza = pełny człowiek.",
-      "quiz": {
-        "question": "Grecy wierzyli, że piękno ciała i szlachetność duszy muszą iść w parze. Jakim terminem to określali?",
-        "hint": "Grecki ideał harmonii piękna fizycznego i moralnego.",
-        "wrong": [
-          "arete",
-          "katharsis",
-          "hybris",
-          "antropocentryzm"
-        ],
-        "answer": "Kalokagathia to grecki ideał łączący piękno fizyczne (kalos) z dobrem moralnym (kagathos). Pełny człowiek musi być piękny i szlachetny jednocześnie. Ten ideał wraca w renesansie jako wzorzec człowieka wszechstronnego."
-      },
-      "content": null
-    }
-  },
-  {
-    "type": "term",
-    "data": {
-      "term": "arete",
-      "forms": [
-        "aretę"
-      ],
-      "nodes": "[\"antyk\"]",
-      "definition": "Grecka cnota — bycie najlepszym w tym, co robisz: w walce, mowie, myśli.",
-      "quiz": {
-        "question": "Achilles dążył do doskonałości w walce, Odys — w sprycie. Jakim greckim pojęciem określamy tę cnotę?",
-        "hint": "Grecka cnota — dążenie do doskonałości w swoim działaniu.",
-        "wrong": [
-          "kalokagathia",
-          "hybris",
-          "fatum",
-          "katharsis"
-        ],
-        "answer": "Arete to grecka cnota oznaczająca dążenie do doskonałości — Achilles w walce, Odys w sprycie, Hektor w honorze. Każdy bohater Iliady realizuje arete na swój sposób. To fundament greckiego systemu wartości."
-      },
-      "content": null
+      "term": "tragedia",
+      "definition": "Dramat o upadku szlachetnego bohatera — Antygona, Makbet. Kończy się katastrofą, widz przeżywa katharsis. Bohater pada przez własną winę (hamartia) i przeznaczenie.",
+      "category": "gatunki",
+      "forms": "[\"tragedia\", \"tragedii\", \"tragedię\", \"tragedią\", \"tragiczny\", \"tragiczna\"]",
+      "nodes": "[\"antyk\", \"makbet\"]",
+      "quiz": "{\"question\": \"Co charakteryzuje tragedię antyczną?\", \"answer\": \"Upadek szlachetnego bohatera (hamartia + hybris), nieuchronność losu (fatum), katharsis widza. Arystoteles opisał reguły w *Poetyce*.\", \"wrong\": [\"szczęśliwe zakończenie\", \"zwykły bohater\", \"humor\"], \"hint\": \"Bohater wzniosły, koniec zły.\"}"
     }
   },
   {
     "type": "term",
     "data": {
       "term": "fatum",
-      "forms": [
-        "fata",
-        "fatalizm",
-        "fatalny"
-      ],
-      "nodes": "[\"antyk\", \"iliada\"]",
-      "definition": "Los wyznaczony przez bogów, którego nie da się uniknąć. Napędza tragedie.",
-      "quiz": {
-        "question": "Achilles wie, że zginie pod Troją, ale i tak walczy. Co nim rządzi?",
-        "hint": "Nieuchronny los wyznaczony przez bogów — nie da się go uniknąć.",
-        "wrong": [
-          "hybris",
-          "hamartia",
-          "arete",
-          "katharsis"
-        ],
-        "answer": "Fatum to przeznaczenie, los wyznaczony przez siły wyższe, którego nie można uniknąć. Achilles wie, że zginie pod Troją — i walczy mimo to. Edyp ucieka od przepowiedni — i wpada prosto w nią. Fatum napędza tragedie greckie."
-      },
-      "content": null
+      "definition": "Nieuchronny los — w tragedii antycznej fatum jest silniejsze od bohatera. Edyp ucieka przed przepowiednią i wpada wprost w nią. Achilles wybiera krótkie życie pełne sławy.",
+      "category": "motywy",
+      "forms": "[\"fatum\", \"fatumu\"]",
+      "nodes": "[\"antyk\"]",
+      "quiz": "{\"question\": \"Czym jest fatum w tragedii antycznej?\", \"answer\": \"Nieuchronny los, którego bohater nie może uniknąć — wpisany w narodzenie. Edyp i Antygona giną przez fatum.\", \"wrong\": [\"szczęście\", \"wybór bohatera\", \"kara boża\"], \"hint\": \"Los którego nie unikniesz.\"}"
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "katharsis",
+      "definition": "Oczyszczenie emocji widza tragedii — Arystoteles tak nazwał efekt który tragedia wywołuje przez litość i trwogę. Po wstrząsie odchodzisz lżejszy.",
+      "category": "motywy",
+      "forms": "[\"katharsis\"]",
+      "nodes": "[\"antygona\", \"antyk\"]",
+      "quiz": "{\"question\": \"Co Arystoteles nazwał „katharsis\\\"?\", \"answer\": \"Oczyszczenie emocjonalne widza po obejrzeniu tragedii — przez litość i trwogę. Tragedia wstrząsa, by widz „odbudował się\\\" wewnętrznie.\", \"wrong\": [\"hamartia\", \"hybris\", \"mimesis\"], \"hint\": \"Greckie „oczyszczenie\\\".\"}"
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "ironia tragiczna",
+      "definition": "Widz wie więcej niż bohater — Edyp szuka mordercy, a to on sam. Ten dystans między wiedzą widza i bohatera potęguje napięcie i litość.",
+      "category": "środki",
+      "forms": "[\"ironia tragiczna\", \"ironii tragicznej\", \"ironię tragiczną\", \"ironią tragiczną\"]",
+      "nodes": "[\"antyk\"]",
+      "quiz": "{\"question\": \"Edyp szuka mordercy króla, nie wiedząc, że to on sam. Jak nazywamy ten zabieg?\", \"answer\": \"Ironia tragiczna — widz zna prawdę, bohater nie. Sofokles użył jej w *Królu Edypie* i *Antygonie*.\", \"wrong\": [\"hamartia\", \"katharsis\", \"hybris\"], \"hint\": \"Widz zna prawdę, bohater nie.\"}"
     }
   }
 ]

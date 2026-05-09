@@ -1,0 +1,57 @@
+[
+  {
+    "type": "term",
+    "data": {
+      "term": "katastrofizm",
+      "definition": "Międzywojenne przeczucie katastrofy — Witkacy, Czechowicz przewidują koniec cywilizacji. Mieli rację: 1939, Auschwitz. Nastrój: idziemy nad krawędź.",
+      "category": "konteksty",
+      "forms": "[\"katastrofizm\", \"katastrofizmu\", \"katastroficzny\"]",
+      "nodes": "[\"miedzywojnie\"]",
+      "quiz": "{\"question\": \"Co głosił katastrofizm międzywojenny?\", \"answer\": \"Przeczucie zbliżającej się katastrofy cywilizacji. Witkacy, Czechowicz, Miłosz. Po 1939 okazało się prorocze.\", \"wrong\": [\"optymizm\", \"wiara w postęp\", \"powrót do antyku\"], \"hint\": \"Idziemy do końca.\"}"
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "awangarda",
+      "definition": "Międzywojenne eksperymenty: futuryzm Jasieńskiego, awangarda krakowska Peipera. „Miasto, masa, maszyna\". Rwanie z formą, aby pokazać tempo XX wieku.",
+      "category": "konteksty",
+      "forms": "[\"awangarda\", \"awangardy\", \"awangardę\", \"awangardowy\"]",
+      "nodes": "[\"miedzywojnie\"]",
+      "quiz": "{\"question\": \"Co cechowało awangardę międzywojenną?\", \"answer\": \"Eksperyment formalny — futuryzm, awangarda krakowska. Hasło: „miasto, masa, maszyna\\\". Rwanie z tradycją w imię nowego wieku.\", \"wrong\": [\"powrót do klasyki\", \"romantyzm\", \"realizm\"], \"hint\": \"Eksperyment, miasto, maszyna.\"}"
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "groteska",
+      "definition": "Mieszanka tragedii i komedii, piękna i brzydoty — coś co śmieszy i jednocześnie przeraża. Mrożek w *Tangu*: paradna scena gdzie Edek tańczy z trupem.",
+      "category": "środki",
+      "forms": "[\"groteska\", \"groteski\", \"grotesce\", \"groteskowy\", \"groteskowa\"]",
+      "nodes": "[\"miedzywojnie\", \"wspolczesnosc\"]",
+      "quiz": "{\"question\": \"Czym jest groteska w literaturze?\", \"answer\": \"Połączenie elementów tragicznych i komicznych, pięknych i odrażających. Tworzy efekt absurdu — Witkacy, Mrożek, Gombrowicz.\", \"wrong\": [\"gatunek dramatu\", \"odmiana metafory\", \"styl klasyczny\"], \"hint\": \"Śmiech i przerażenie naraz.\"}"
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "parabola",
+      "definition": "Historia która znaczy więcej niż mówi — *Dżuma* Camusa to parabola: epidemia w Oranie to każdy faszyzm, każde zło. Konkretna fabuła + uniwersalny przekaz.",
+      "category": "środki",
+      "forms": "[\"parabola\", \"paraboli\", \"parabolę\", \"parabolą\", \"paraboliczny\"]",
+      "nodes": "[\"dzuma\", \"granica\", \"miedzywojnie\", \"wspolczesnosc\"]",
+      "quiz": "{\"question\": \"Co odróżnia parabolę od zwykłej powieści?\", \"answer\": \"Parabola ma uniwersalne, ponadczasowe znaczenie ukryte za konkretną fabułą. *Dżuma* Camusa, *Folwark zwierzęcy* Orwella.\", \"wrong\": [\"długość\", \"humor\", \"narrator pierwszoosobowy\"], \"hint\": \"Konkretna historia + uniwersalna prawda.\"}"
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "symbol",
+      "definition": "Obraz który NIE ma jednego znaczenia — chocholi taniec w *Weselu* to bezruch, otępienie, klątwa, narodowa choroba… Każdy widz odkrywa swoje znaczenie. Inaczej niż alegoria.",
+      "category": "środki",
+      "forms": "[\"symbol\", \"symbolu\", \"symbolem\", \"symbole\", \"symboliczny\", \"symboliczna\"]",
+      "nodes": "[\"granica\", \"miedzywojnie\", \"mloda-polska\", \"wesele\"]",
+      "quiz": "{\"question\": \"Symbol różni się od alegorii tym że:\", \"answer\": \"Symbol ma WIELE możliwych znaczeń, alegoria JEDNO ustalone. Wieniec laurowy może symbolizować zwycięstwo, nieśmiertelność, sławę — w alegorii byłby tylko jednym.\", \"wrong\": [\"nie różni się\", \"jest krótszy\", \"jest tylko religijny\"], \"hint\": \"Wielość znaczeń.\"}"
+    }
+  }
+]

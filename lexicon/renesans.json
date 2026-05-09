@@ -2,98 +2,56 @@
   {
     "type": "term",
     "data": {
-      "term": "antropocentryzm",
-      "forms": [
-        "antropocentryzmu",
-        "antropocentryzmem",
-        "antropocentryczny"
-      ],
+      "term": "humanizm",
+      "definition": "Renesansowa wiara że człowiek jest miarą wszystkich rzeczy. „Człowiekiem jestem, nic co ludzkie nie jest mi obce\" — Terencjusz odgrzany przez Erazma. Centrum: człowiek, nie Bóg.",
+      "category": "konteksty",
+      "forms": "[\"humanizm\", \"humanizmu\", \"humanistyczny\", \"humanistyczna\"]",
       "nodes": "[\"renesans\"]",
-      "definition": "Renesans postawił człowieka w centrum — rozum i twórczość zamiast Boga.",
-      "quiz": {
-        "question": "Renesans przesunął centrum zainteresowania z Boga na człowieka i jego możliwości. Jaka to postawa?",
-        "hint": "Człowiek w centrum zainteresowania — jego rozum i godność.",
-        "wrong": [
-          "teocentryzm",
-          "humanizm",
-          "racjonalizm",
-          "empiryzm"
-        ],
-        "answer": "Antropocentryzm to postawa stawiająca człowieka w centrum zainteresowania. Renesans przesunął punkt ciężkości z Boga (teocentryzm) na ludzki rozum i twórczość. Leonardo da Vinci, Michał Anioł — ich dzieła celebrują ludzkie ciało i umysł."
-      },
-      "content": null
+      "quiz": "{\"question\": \"Co głosił renesansowy humanizm?\", \"answer\": \"Człowiek jest miarą wszystkich rzeczy — godność i wolność jednostki. Powrót do antyku, krytyka średniowiecznej teocentryczności.\", \"wrong\": [\"kult Boga\", \"walka z Kościołem\", \"idealizm\"], \"hint\": \"Człowiek w centrum.\"}"
     }
   },
   {
     "type": "term",
     "data": {
-      "term": "teocentryzm",
-      "forms": [
-        "teocentryzmu",
-        "teocentryzmem",
-        "teocentryczny"
-      ],
-      "nodes": "[\"bogurodzica\", \"renesans\", \"sredniowiecze\"]",
-      "definition": "Bóg w centrum wszystkiego — średniowiecze kręciło się wokół wiary.",
-      "quiz": {
-        "question": "W średniowieczu Bóg był miarą wszystkich rzeczy, a sztuka służyła wierze. Jakim terminem to określamy?",
-        "hint": "Światopogląd z Bogiem w centrum — wszystko służy wierze.",
-        "wrong": [
-          "antropocentryzm",
-          "humanizm",
-          "scholastyka",
-          "racjonalizm"
-        ],
-        "answer": "Teocentryzm to światopogląd stawiający Boga w centrum wszystkiego. Sztuka, nauka, życie codzienne — wszystko podporządkowane wierze. Bogurodzica to doskonały przykład: modlitwa do Maryi jako pośredniczki. Przeciwieństwo renesansowego antropocentryzmu."
-      },
-      "content": null
+      "term": "antropocentryzm",
+      "definition": "Człowiek = centrum świata (anthropos = człowiek + kentron = środek). W renesansie przeciwieństwo średniowiecznej teocentryczności (Bóg w centrum).",
+      "category": "konteksty",
+      "forms": "[\"antropocentryzm\", \"antropocentryzmu\", \"antropocentryczny\"]",
+      "nodes": "[\"renesans\"]",
+      "quiz": "{\"question\": \"Antropocentryzm to:\", \"answer\": \"Pogląd, że człowiek jest centrum świata. Charakterystyczny dla renesansu, przeciwstawia się teocentryczności średniowiecza.\", \"wrong\": [\"kult zwierząt\", \"wiara w Boga\", \"racjonalizm\"], \"hint\": \"Anthropos = człowiek.\"}"
     }
   },
   {
     "type": "term",
     "data": {
       "term": "ad fontes",
-      "forms": [],
+      "definition": "Renesansowe „wracajmy do źródeł\" — czytajmy Platona, Cycerona, Biblię w oryginale, nie przez średniowieczne komentarze. Erazm tłumaczy Nowy Testament z greki.",
+      "category": "konteksty",
+      "forms": "[\"ad fontes\"]",
       "nodes": "[\"renesans\"]",
-      "definition": "\"Do źródeł!\" — renesansowe hasło: wracamy do starożytnych mistrzów.",
-      "quiz": {
-        "question": "Humaniści renesansu postulowali powrót do dzieł starożytnych jako wzorców. Jakie łacińskie hasło to wyrażało?",
-        "hint": "Łacińskie hasło renesansu — powrót do źródeł antycznych.",
-        "wrong": [
-          "docere et movere",
-          "homo viator",
-          "vanitas",
-          "carpe diem"
-        ],
-        "answer": "Ad fontes (\"do źródeł\") to hasło renesansowych humanistów wzywające do powrotu do dzieł starożytnych. Zamiast średniowiecznych komentarzy — czytaj oryginały: Platona, Cycerona, Horacego. To fundament renesansowej rewolucji intelektualnej."
-      },
-      "content": null
+      "quiz": "{\"question\": \"Co znaczy renesansowe hasło „ad fontes\\\"?\", \"answer\": \"„Do źródeł\\\" — powrót do oryginalnych tekstów antycznych i biblijnych, omijając średniowieczne komentarze. Erazm, Petrarka.\", \"wrong\": [\"naprzód!\", \"pokój ludziom\", \"wszystko płynie\"], \"hint\": \"Łacina: do źródeł.\"}"
     }
   },
   {
     "type": "term",
     "data": {
-      "term": "humanizm",
-      "forms": [
-        "humanizmu",
-        "humanizmem",
-        "humanistyczny",
-        "humanista"
-      ],
-      "nodes": "[\"renesans\"]",
-      "definition": "Renesansowa wiara w rozum i godność człowieka. Humanista znał klasyków.",
-      "quiz": {
-        "question": "Erazm z Rotterdamu głosił wiarę w rozum i godność człowieka, czytał klasyków. Jaki to nurt?",
-        "hint": "Renesansowy nurt — wiara w rozum, godność i możliwości człowieka.",
-        "wrong": [
-          "antropocentryzm",
-          "racjonalizm",
-          "empiryzm",
-          "scholastyka"
-        ],
-        "answer": "Humanizm to renesansowy nurt intelektualny głoszący wiarę w rozum i godność człowieka. Humaniści (Erazm, Kochanowski) czytali klasyków, szukali mądrości w antyku. Kochanowski łączył humanistyczną erudycję ze stoickim spokojem."
-      },
-      "content": null
+      "term": "metafora",
+      "definition": "Przeniesienie znaczenia — coś nazywamy słowem które znaczy co innego, żeby pokazać podobieństwo. „Życie to taniec\" — życie nie tańczy, ale ma rytm i krok jak taniec.",
+      "category": "środki",
+      "forms": "[\"metafora\", \"metafory\", \"metaforę\", \"metaforą\", \"metaforyczny\", \"metaforyczna\"]",
+      "nodes": "[\"bogurodzica\", \"dziady3\", \"dzuma\", \"iliada\", \"lalka\", \"mloda-polska\", \"renesans\", \"romantyzm\", \"wesele\"]",
+      "quiz": "{\"question\": \"Jak nazwać zdanie „Czas to złodziej, kradnie nam dni\\\"?\", \"answer\": \"Metafora — czas dosłownie nie kradnie, ale działa jak złodziej. Przeniesienie znaczenia z dziedziny przedmiotów na dziedzinę abstrakcji.\", \"wrong\": [\"porównanie\", \"epitet\", \"metonimia\"], \"hint\": \"Brak słówka „jak\\\" — dlatego nie porównanie.\"}"
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "teocentryzm",
+      "definition": "Bóg = centrum świata. Średniowieczna wizja: wszystko ma sens przez relację do Stwórcy. Człowiek to droga do Boga, ziemia — przedsionek nieba.",
+      "category": "konteksty",
+      "forms": "[\"teocentryzm\", \"teocentryzmu\", \"teocentryczny\"]",
+      "nodes": "[\"bogurodzica\", \"renesans\", \"sredniowiecze\"]",
+      "quiz": "{\"question\": \"Czym jest teocentryzm?\", \"answer\": \"Pogląd, że Bóg jest centrum świata i miarą wszelkich rzeczy. Charakterystyczny dla średniowiecza.\", \"wrong\": [\"kult człowieka\", \"racjonalizm\", \"naturalizm\"], \"hint\": \"Theos = Bóg.\"}"
     }
   }
 ]

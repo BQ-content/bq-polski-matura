@@ -1,0 +1,57 @@
+[
+  {
+    "type": "term",
+    "data": {
+      "term": "dramat symboliczny",
+      "definition": "Dramat z postaciami będącymi symbolami abstrakcyjnych idei. *Wesele* Wyspiańskiego: Stańczyk, Wernyhora, Chochoł — to nie ludzie, to znaki polskiej historii i niemocy.",
+      "category": "gatunki",
+      "forms": "[\"dramat symboliczny\", \"dramatu symbolicznego\"]",
+      "nodes": "[\"wesele\"]",
+      "quiz": "{\"question\": \"Czym dramat symboliczny różni się od realistycznego?\", \"answer\": \"Symboliczny używa postaci-symboli (Chochoł, Stańczyk) reprezentujących idee. Realistyczny pokazuje konkretnych ludzi. *Wesele* — przykład symbolicznego.\", \"wrong\": [\"niczym\", \"jest krótszy\", \"jest komiczny\"], \"hint\": \"Postacie reprezentują idee, nie ludzi.\"}"
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "symbol",
+      "definition": "Obraz który NIE ma jednego znaczenia — chocholi taniec w *Weselu* to bezruch, otępienie, klątwa, narodowa choroba… Każdy widz odkrywa swoje znaczenie. Inaczej niż alegoria.",
+      "category": "środki",
+      "forms": "[\"symbol\", \"symbolu\", \"symbolem\", \"symbole\", \"symboliczny\", \"symboliczna\"]",
+      "nodes": "[\"granica\", \"miedzywojnie\", \"mloda-polska\", \"wesele\"]",
+      "quiz": "{\"question\": \"Symbol różni się od alegorii tym że:\", \"answer\": \"Symbol ma WIELE możliwych znaczeń, alegoria JEDNO ustalone. Wieniec laurowy może symbolizować zwycięstwo, nieśmiertelność, sławę — w alegorii byłby tylko jednym.\", \"wrong\": [\"nie różni się\", \"jest krótszy\", \"jest tylko religijny\"], \"hint\": \"Wielość znaczeń.\"}"
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "chocholi taniec",
+      "definition": "Końcowa scena *Wesela*: postacie tańczą w transie, nikt nie potrafi się zatrzymać. Symbol polskiej niemocy — zaczarowane krążenie zamiast działania.",
+      "category": "motywy",
+      "forms": "[\"chocholi taniec\", \"chocholego tańca\", \"chocholim tańcem\"]",
+      "nodes": "[\"wesele\"]",
+      "quiz": "{\"question\": \"Co symbolizuje chocholi taniec w *Weselu* Wyspiańskiego?\", \"answer\": \"Polską niemoc — zamiast walki o niepodległość, naród krąży w transie, zaczarowany. Diagnostyka klęski powstania.\", \"wrong\": [\"radość\", \"tradycję ludową\", \"jedność klas\"], \"hint\": \"Trans, niemoc, zaczarowanie.\"}"
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "modernizm",
+      "definition": "Młodopolskie zmęczenie pozytywizmem — sztuka dla sztuki, dekadentyzm, symbol. „Żaglomania\" Tetmajera, „Hymny\" Kasprowicza. Powrót poetyckiej wrażliwości.",
+      "category": "konteksty",
+      "forms": "[\"modernizm\", \"modernizmu\", \"modernistyczny\"]",
+      "nodes": "[\"mloda-polska\", \"wesele\"]",
+      "quiz": "{\"question\": \"Czym charakteryzował się modernizm Młodej Polski?\", \"answer\": \"Bunt przeciw pozytywistycznemu utylitaryzmowi — kult sztuki, dekadentyzm, symbolizm, melancholia. Tetmajer, Kasprowicz, Wyspiański.\", \"wrong\": [\"pochwała pracy\", \"realizm społeczny\", \"kult Kościoła\"], \"hint\": \"Sztuka dla sztuki.\"}"
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "metafora",
+      "definition": "Przeniesienie znaczenia — coś nazywamy słowem które znaczy co innego, żeby pokazać podobieństwo. „Życie to taniec\" — życie nie tańczy, ale ma rytm i krok jak taniec.",
+      "category": "środki",
+      "forms": "[\"metafora\", \"metafory\", \"metaforę\", \"metaforą\", \"metaforyczny\", \"metaforyczna\"]",
+      "nodes": "[\"bogurodzica\", \"dziady3\", \"dzuma\", \"iliada\", \"lalka\", \"mloda-polska\", \"renesans\", \"romantyzm\", \"wesele\"]",
+      "quiz": "{\"question\": \"Jak nazwać zdanie „Czas to złodziej, kradnie nam dni\\\"?\", \"answer\": \"Metafora — czas dosłownie nie kradnie, ale działa jak złodziej. Przeniesienie znaczenia z dziedziny przedmiotów na dziedzinę abstrakcji.\", \"wrong\": [\"porównanie\", \"epitet\", \"metonimia\"], \"hint\": \"Brak słówka „jak\\\" — dlatego nie porównanie.\"}"
+    }
+  }
+]

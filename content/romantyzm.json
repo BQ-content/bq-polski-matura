@@ -1,43 +1,16 @@
 [
   {
     "type": "content",
-    "parentRef": "romantyzm",
     "data": {
-      "contentType": "text",
-      "text": "## Rozum miał zbawić świat. Przyniósł gilotynę.\n\nEuropa po rewolucji francuskiej. Racjonalizm zawiódł. Eksplodował romantyzm. Hasło numer jeden: **{{uczucie ponad rozum}}**. Mickiewicz w *Romantyczności*: *\"Czucie i wiara silniej mówi do mnie / Niż mędrca szkiełko i oko\"*. Serce widzi to, czego nauka nie ogarnia."
+      "contentType": "intro",
+      "text": "## Serce ma rację\n\nRomantyzm odrzuca oświeceniowy rozum — „prawda żywa, jeno czuciem dochodzona\". {{Uczucie ponad rozum}}, intuicja, mistycyzm. Polska szuka w romantyzmie odpowiedzi na rozbiory."
     }
   },
   {
     "type": "content",
-    "parentRef": "romantyzm",
     "data": {
-      "contentType": "text",
-      "text": "## Polska zniknęła z mapy. Poeci walczyli słowem.\n\nPo **rozbiorach** (1772–1795) nie ma państwa. Wielcy tworzą na **emigracji**. I rodzi się **{{mesjanizm}}** — Polska to \"Chrystus narodów\". Cierpi, ale zmartwychwstanie i wyzwoli wszystkich. Szaleństwo? Może. Ale dało nadzieję pokoleniu, które nie miało powodów do nadziei."
-    }
-  },
-  {
-    "type": "content",
-    "parentRef": "romantyzm",
-    "data": {
-      "contentType": "text",
-      "text": "## Trzech gigantów. Trzech emigrantów.\n\n**Mickiewicz**: *Dziady cz. III* — cierpienie narodu, **{{prometeizm}}** Konrada. *Pan Tadeusz* — tęsknota za utraconą ojczyzną. **Słowacki**: *Kordian* — patriota, który nie potrafi działać. *Balladyna* — baśń o władzy i zbrodni. **Krasiński**: *Nie-Boska Komedia* — rewolucja niszczy, nie buduje."
-    }
-  },
-  {
-    "type": "content",
-    "parentRef": "romantyzm",
-    "data": {
-      "contentType": "text",
-      "text": "## Pisali, jakby od ich słów zależał los narodu.\n\nI w pewnym sensie — zależał. Mickiewicz miał siłę proroka. Słowacki pisał piękniej, ale nie tak potężnie. Krasiński widział przyszłość (rewolucja!). Każdy podchodził do romantyzmu inaczej, ale wszyscy wierzyli: poeta to {{wieszcz}} — przywódca duchowy narodu."
-    }
-  },
-  {
-    "type": "content",
-    "parentRef": "romantyzm",
-    "data": {
-      "contentType": "quiz",
-      "text": "Czym się różni {{mesjanizm}} od prometeizmu?",
-      "answer": "{{Mesjanizm}} — Polska cierpi za inne narody jak Chrystus, przez cierpienie dojdzie do zmartwychwstania. Pokora. {{Prometeizm}} — jednostka (Konrad) buntuje się przeciw Bogu w imię ludzkości, żąda władzy nad duszami. Bunt. {{Mesjanizm}} akceptuje cierpienie, {{prometeizm}} je odrzuca."
+      "contentType": "concept",
+      "text": "## Naród pod krzyżem\n\n{{Mesjanizm}}: Polska to Chrystus narodów, cierpi by zbawić Europę. {{Prometeizm}}: jednostka cierpi za naród. Trzej {{wieszcz}}: Mickiewicz, Słowacki, Krasiński. {{Metafora}} narodu jako żywej istoty."
     }
   }
 ]

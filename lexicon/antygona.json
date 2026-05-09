@@ -2,96 +2,56 @@
   {
     "type": "term",
     "data": {
-      "term": "prawo boskie",
-      "forms": [
-        "prawa boskiego",
-        "prawem boskim"
-      ],
-      "nodes": "[\"antygona\"]",
-      "definition": "W Antygonie — moralne prawo do pochówku brata, ważniejsze niż dekret króla.",
-      "quiz": {
-        "question": "Antygona powołuje się na odwieczne nakazy moralne, wyższe niż prawo stanowione przez Kreona. Na co?",
-        "hint": "Odwieczne nakazy moralne wyższe niż prawo ludzkie.",
-        "wrong": [
-          "konflikt tragiczny",
-          "fatum",
-          "hybris",
-          "teocentryzm"
-        ],
-        "answer": "Prawo boskie w Antygonie to odwieczne nakazy moralne — pochówek bliskich, szacunek dla zmarłych. Antygona stawia je ponad dekret Kreona. To fundament konfliktu tragicznego: prawo naturalne vs prawo stanowione."
-      },
-      "content": null
-    }
-  },
-  {
-    "type": "term",
-    "data": {
       "term": "konflikt tragiczny",
-      "forms": [
-        "konfliktu tragicznego",
-        "konfliktem tragicznym"
-      ],
+      "definition": "Sytuacja w której bohater musi wybrać między dwiema racjami — i obie są słuszne. Antygona: prawo ludzkie (Kreon) vs prawo boskie (pogrzeb brata). Każdy wybór kończy się tragedią.",
+      "category": "motywy",
+      "forms": "[\"konflikt tragiczny\", \"konfliktu tragicznego\", \"konfliktem tragicznym\"]",
       "nodes": "[\"antygona\"]",
-      "definition": "Dwie słuszne racje zderzają się i nie da się wybrać bez katastrofy.",
-      "quiz": {
-        "question": "Antygona musi wybrać: prawo boskie czy rozkaz Kreona — obie racje są słuszne. Jak nazywamy taką sytuację?",
-        "hint": "Zderzenie dwóch równie słusznych racji — każdy wybór to katastrofa.",
-        "wrong": [
-          "ironia tragiczna",
-          "hamartia",
-          "hybris",
-          "fatum"
-        ],
-        "answer": "Konflikt tragiczny to zderzenie dwóch równorzędnych racji: Antygona broni prawa boskiego (pochówek brata), Kreon — prawa państwowego. Obie racje są uzasadnione, ale realizacja jednej łamie drugą. Rozwiązanie bez tragedii jest niemożliwe."
-      },
-      "content": null
+      "quiz": "{\"question\": \"Czym jest konflikt tragiczny w *Antygonie*?\", \"answer\": \"Wybór między prawem boskim (pogrzeb brata) a prawem państwa (zakaz Kreona). Obie racje są słuszne — każdy wybór niesie zgubę.\", \"wrong\": [\"walka z bogami\", \"spór miłosny\", \"kara boża\"], \"hint\": \"Dwie racje, oba wybory tragiczne.\"}"
     }
   },
   {
     "type": "term",
     "data": {
       "term": "hybris",
-      "forms": [
-        "hybris"
-      ],
-      "nodes": "[\"antygona\", \"dziady3\"]",
-      "definition": "Pycha bohatera, który myśli, że jest nieomylny — i przez to traci wszystko.",
-      "quiz": {
-        "question": "Kreon uważa się za nieomylnego władcę i nie słucha ostrzeżeń — przez co traci rodzinę. Jaka to wina?",
-        "hint": "Pycha wobec bogów lub losu — bohater myśli, że jest ponad reguły.",
-        "wrong": [
-          "hamartia",
-          "fatum",
-          "ironia tragiczna",
-          "katharsis"
-        ],
-        "answer": "Hybris to pycha wobec bogów lub porządku świata. Kreon nie słucha syna, wieszczka ani chóru — traci syna i żonę. Makbet po pierwszym morderstwie wierzy w swoją nietykalność. Na maturze hybris pojawia się przy Antygonie i Makbecie."
-      },
-      "content": null
+      "definition": "Pycha która prowadzi do upadku — bohater myśli że jest większy od bogów, prawa, losu. Antygona pogardza Kreonem, Makbet pogardza naturalnym porządkiem. Hybris zawsze ma cenę.",
+      "category": "motywy",
+      "forms": "[\"hybris\", \"hybrys\", \"hybridy\"]",
+      "nodes": "[\"antygona\", \"dziady3\", \"makbet\"]",
+      "quiz": "{\"question\": \"Czym jest hybris w tragedii?\", \"answer\": \"Pycha — przekonanie bohatera że jest większy od bogów lub prawa. Prowadzi do nemezis (kary) i upadku. Klasyczne motywy: Antygona, Makbet, Konrad.\", \"wrong\": [\"litość\", \"sprawiedliwość\", \"mądrość\"], \"hint\": \"Pycha która nie kończy się dobrze.\"}"
     }
   },
   {
     "type": "term",
     "data": {
       "term": "hamartia",
-      "forms": [
-        "hamartii",
-        "hamartią"
-      ],
+      "definition": "Tragiczny błąd bohatera — nie zbrodnia, ale błędna decyzja wynikająca z charakteru. Antygona pogrzebała brata wiedząc, że to oznacza śmierć. Decyzja słuszna moralnie, samobójcza praktycznie.",
+      "category": "motywy",
+      "forms": "[\"hamartia\", \"hamartii\", \"hamartię\"]",
       "nodes": "[\"antygona\"]",
-      "definition": "Błąd tragiczny z niewiedzy, nie ze złości — Edyp nie wie, że to on zabił.",
-      "quiz": {
-        "question": "Edyp popełnia zbrodnię nieświadomie — nie ze złej woli, lecz z niewiedzy. Jakim terminem to określamy?",
-        "hint": "Błąd tragiczny wynikający z niewiedzy, nie ze złych intencji.",
-        "wrong": [
-          "hybris",
-          "fatum",
-          "ironia tragiczna",
-          "katharsis"
-        ],
-        "answer": "Hamartia to błąd tragiczny wynikający z niewiedzy, nie z intencji. Edyp nie chciał zabić ojca — nie wiedział, kim jest nieznajomy na drodze. W Antygonie hamartię mają oboje: Kreon zbyt wierzy w państwo, Antygona — w swoje racje."
-      },
-      "content": null
+      "quiz": "{\"question\": \"Czym hamartia różni się od zbrodni?\", \"answer\": \"Hamartia to tragiczny błąd wynikający z charakteru, nie zła wola. Antygona postępuje zgodnie z sumieniem — i właśnie dlatego ginie.\", \"wrong\": [\"niczym\", \"jest cięższa\", \"dotyczy bogów\"], \"hint\": \"Błąd nie zła wola.\"}"
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "prawo boskie",
+      "definition": "Niespisane, odwieczne prawo wyższe od prawa ludzkiego. Antygona: „Nie dziś, nie wczoraj, ale ono żyje wiecznie\". Pogrzeb brata to obowiązek wobec bogów, niezależny od edyktu Kreona.",
+      "category": "motywy",
+      "forms": "[\"prawo boskie\", \"prawa boskiego\", \"prawem boskim\"]",
+      "nodes": "[\"antygona\"]",
+      "quiz": "{\"question\": \"Czym jest „prawo boskie\\\" w *Antygonie*?\", \"answer\": \"Odwieczne, naturalne prawo (nakaz pogrzebania zmarłych) wyższe od prawa stanowionego przez władcę. Antygona je broni przeciw Kreonowi.\", \"wrong\": [\"edykt Kreona\", \"prawo zwyczajowe Teb\", \"prawo wojny\"], \"hint\": \"Powyżej władzy ludzkiej.\"}"
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "katharsis",
+      "definition": "Oczyszczenie emocji widza tragedii — Arystoteles tak nazwał efekt który tragedia wywołuje przez litość i trwogę. Po wstrząsie odchodzisz lżejszy.",
+      "category": "motywy",
+      "forms": "[\"katharsis\"]",
+      "nodes": "[\"antygona\", \"antyk\"]",
+      "quiz": "{\"question\": \"Co Arystoteles nazwał „katharsis\\\"?\", \"answer\": \"Oczyszczenie emocjonalne widza po obejrzeniu tragedii — przez litość i trwogę. Tragedia wstrząsa, by widz „odbudował się\\\" wewnętrznie.\", \"wrong\": [\"hamartia\", \"hybris\", \"mimesis\"], \"hint\": \"Greckie „oczyszczenie\\\".\"}"
     }
   }
 ]

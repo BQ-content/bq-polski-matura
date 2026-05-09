@@ -1,0 +1,57 @@
+[
+  {
+    "type": "term",
+    "data": {
+      "term": "egzystencjalizm",
+      "definition": "Powojenny ruch filozoficzny: człowiek jest skazany na wolność wyboru, sam tworzy sens. Camus, Sartre. Po Auschwitz Bóg nie wystarcza — człowiek sam musi wybrać.",
+      "category": "konteksty",
+      "forms": "[\"egzystencjalizm\", \"egzystencjalizmu\", \"egzystencjalny\"]",
+      "nodes": "[\"dzuma\", \"wspolczesnosc\"]",
+      "quiz": "{\"question\": \"Co głosi egzystencjalizm Camusa i Sartrea?\", \"answer\": \"Człowiek skazany na wolność — sam tworzy sens życia w absurdalnym świecie. Wybór i odpowiedzialność jednostki.\", \"wrong\": [\"determinizm\", \"pochwała losu\", \"kult Boga\"], \"hint\": \"Wolność i absurd.\"}"
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "absurd",
+      "definition": "Świat bez sensu — Camus: dżuma przychodzi nie wiadomo dlaczego, zabija sprawiedliwych i niesprawiedliwych. Człowiek może tylko się buntować przeciw bezsensowi.",
+      "category": "motywy",
+      "forms": "[\"absurd\", \"absurdu\", \"absurdem\", \"absurdalny\"]",
+      "nodes": "[\"dzuma\", \"wspolczesnosc\"]",
+      "quiz": "{\"question\": \"Czym jest „absurd\\\" w filozofii egzystencjalizmu?\", \"answer\": \"Konfrontacja człowieka z bezsensem świata — Camus, Sartre. Człowiek buntem nadaje sens życiu.\", \"wrong\": [\"humor\", \"sprzeczność logiczna\", \"nadnaturalność\"], \"hint\": \"Świat bez sensu, człowiek buntuje się.\"}"
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "parabola",
+      "definition": "Historia która znaczy więcej niż mówi — *Dżuma* Camusa to parabola: epidemia w Oranie to każdy faszyzm, każde zło. Konkretna fabuła + uniwersalny przekaz.",
+      "category": "środki",
+      "forms": "[\"parabola\", \"paraboli\", \"parabolę\", \"parabolą\", \"paraboliczny\"]",
+      "nodes": "[\"dzuma\", \"granica\", \"miedzywojnie\", \"wspolczesnosc\"]",
+      "quiz": "{\"question\": \"Co odróżnia parabolę od zwykłej powieści?\", \"answer\": \"Parabola ma uniwersalne, ponadczasowe znaczenie ukryte za konkretną fabułą. *Dżuma* Camusa, *Folwark zwierzęcy* Orwella.\", \"wrong\": [\"długość\", \"humor\", \"narrator pierwszoosobowy\"], \"hint\": \"Konkretna historia + uniwersalna prawda.\"}"
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "groteska",
+      "definition": "Mieszanka tragedii i komedii, piękna i brzydoty — coś co śmieszy i jednocześnie przeraża. Mrożek w *Tangu*: paradna scena gdzie Edek tańczy z trupem.",
+      "category": "środki",
+      "forms": "[\"groteska\", \"groteski\", \"grotesce\", \"groteskowy\", \"groteskowa\"]",
+      "nodes": "[\"miedzywojnie\", \"wspolczesnosc\"]",
+      "quiz": "{\"question\": \"Czym jest groteska w literaturze?\", \"answer\": \"Połączenie elementów tragicznych i komicznych, pięknych i odrażających. Tworzy efekt absurdu — Witkacy, Mrożek, Gombrowicz.\", \"wrong\": [\"gatunek dramatu\", \"odmiana metafory\", \"styl klasyczny\"], \"hint\": \"Śmiech i przerażenie naraz.\"}"
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "alegoria",
+      "definition": "Obraz który ma JEDNO konkretne znaczenie ukryte — w bajce „Lis i kruk\" lis to spryt, kruk to próżność. Każda alegoria ma „klucz\" — czytelnik musi go znaleźć.",
+      "category": "środki",
+      "forms": "[\"alegoria\", \"alegorii\", \"alegorię\", \"alegoryczny\", \"alegoryczna\"]",
+      "nodes": "[\"bajki\", \"dzuma\", \"wspolczesnosc\"]",
+      "quiz": "{\"question\": \"Czym alegoria różni się od symbolu?\", \"answer\": \"Alegoria ma JEDNO konkretne znaczenie (lis = spryt). Symbol ma WIELE możliwych odczytań (krzyż = wiara, ofiara, śmierć).\", \"wrong\": [\"niczym\", \"jest dłuższa\", \"jest zawsze religijna\"], \"hint\": \"Alegoria = jedno znaczenie. Symbol = wiele.\"}"
+    }
+  }
+]

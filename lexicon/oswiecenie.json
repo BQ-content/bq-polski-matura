@@ -1,0 +1,57 @@
+[
+  {
+    "type": "term",
+    "data": {
+      "term": "klasycyzm",
+      "definition": "Oświeceniowa moda na powrót do antycznych form — porządek, miary, gatunki klasyczne (oda, satyra, bajka). Przeciwieństwo barokowej przesady.",
+      "category": "konteksty",
+      "forms": "[\"klasycyzm\", \"klasycyzmu\", \"klasyczny\", \"klasyczna\"]",
+      "nodes": "[\"oswiecenie\"]",
+      "quiz": "{\"question\": \"Co charakteryzowało klasycyzm oświeceniowy?\", \"answer\": \"Powrót do antycznych form, porządku i umiaru. Klasyczne gatunki (oda, satyra, bajka), reguły poprawności. Krasicki, Niemcewicz.\", \"wrong\": [\"nadmiar emocji\", \"romantyczne uniesienia\", \"kult chłopa\"], \"hint\": \"Powrót do antyku, porządek.\"}"
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "racjonalizm",
+      "definition": "Rozum jako jedyna miara prawdy. Kartezjusz: „Myślę, więc jestem\". Oświecenie wierzyło, że rozumem rozwiążemy problemy społeczne, religijne, naukowe. Wiek Świateł.",
+      "category": "konteksty",
+      "forms": "[\"racjonalizm\", \"racjonalizmu\", \"racjonalny\", \"racjonalna\"]",
+      "nodes": "[\"oswiecenie\"]",
+      "quiz": "{\"question\": \"Co głosił oświeceniowy racjonalizm?\", \"answer\": \"Rozum jest najwyższą wartością i miarą prawdy. Kartezjusz: „Cogito ergo sum\\\". Oświecenie zaufało rozumowi w nauce, polityce, religii.\", \"wrong\": [\"kult uczuć\", \"mistyka\", \"kult tradycji\"], \"hint\": \"Rozum przede wszystkim.\"}"
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "satyra",
+      "definition": "Utwór ostro krytykujący wady społeczne. Krasicki „Pijaństwo\" — szyderczy obraz szlachcica. Ton gorzki, ironiczny — śmiejemy się, ale gorzko.",
+      "category": "gatunki",
+      "forms": "[\"satyra\", \"satyry\", \"satyrę\", \"satyrą\", \"satyryczny\"]",
+      "nodes": "[\"bajki\", \"oswiecenie\"]",
+      "quiz": "{\"question\": \"Czym satyra różni się od bajki?\", \"answer\": \"Satyra otwarcie krytykuje wady społeczne i konkretne grupy. Bajka uczy przez alegorię. Satyra jest ostra, bajka — łagodniejsza.\", \"wrong\": [\"niczym\", \"satyra jest dłuższa\", \"satyra ma morał\"], \"hint\": \"Ostra krytyka społeczna.\"}"
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "bajka",
+      "definition": "Krótki utwór z morałem i często ze zwierzętami w roli ludzi. „Lis i kruk\" Krasickiego — kruk traci ser, bo dał się chwalić. Klasyczny gatunek dydaktyczny.",
+      "category": "gatunki",
+      "forms": "[\"bajka\", \"bajki\", \"bajce\", \"bajką\"]",
+      "nodes": "[\"bajki\", \"oswiecenie\"]",
+      "quiz": "{\"question\": \"Co odróżnia bajkę od opowiadania?\", \"answer\": \"Bajka jest krótka, ma morał i często wykorzystuje antropomorfizację (zwierzęta jako ludzie). Cel: dydaktyczny.\", \"wrong\": [\"długość\", \"realizm\", \"narrator pierwszoosobowy\"], \"hint\": \"Krótka, z morałem, ze zwierzętami.\"}"
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "morał",
+      "definition": "Pouczenie na końcu bajki — wprost wyłożona lekcja. „Niech się nie chwali, kto się ma chwalić\" — autor mówi czytelnikowi co ma zrozumieć.",
+      "category": "środki",
+      "forms": "[\"morał\", \"morału\", \"morałem\", \"morały\"]",
+      "nodes": "[\"bajki\", \"oswiecenie\"]",
+      "quiz": "{\"question\": \"Krótka pointa wyłożona na końcu bajki to:\", \"answer\": \"Morał — wyłożona wprost lekcja moralna. Krasicki używał morału na końcu lub na początku każdej bajki.\", \"wrong\": [\"puenta\", \"epigramat\", \"dygresja\"], \"hint\": \"Lekcja na końcu bajki.\"}"
+    }
+  }
+]

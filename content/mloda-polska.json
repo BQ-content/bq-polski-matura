@@ -1,0 +1,16 @@
+[
+  {
+    "type": "content",
+    "data": {
+      "contentType": "intro",
+      "text": "## Bunt przeciw pracy u podstaw\n\nMłoda Polska zmęczona pozytywizmem: {{modernizm}} odrzuca utylitaryzm. Sztuka dla sztuki. {{Dekadentyzm}} — nastrój „końca wieku\", melancholia. Tetmajer pisze o nirwanie, opium, śmierci."
+    }
+  },
+  {
+    "type": "content",
+    "data": {
+      "contentType": "concept",
+      "text": "## Świat w symbolach\n\n{{Symbolizm}} (Mallarmé, Wyspiański): poeta nie opisuje, lecz przywołuje. Każdy {{symbol}} ma wiele znaczeń. {{Metafora}} przestaje być ozdobą — staje się sposobem mówienia o rzeczach niewyrażalnych."
+    }
+  }
+]

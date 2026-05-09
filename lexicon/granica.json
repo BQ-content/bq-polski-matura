@@ -1,0 +1,57 @@
+[
+  {
+    "type": "term",
+    "data": {
+      "term": "granica moralna",
+      "definition": "Niewidzialna linia, za którą człowiek staje się obcy sobie. Zenon w *Granicy* Nałkowskiej zaczyna jako idealista, kończy jako kolaboracyjny rektor uderzający robotników. „Jest się takim, jak miejsce, w którym się jest\".",
+      "category": "motywy",
+      "forms": "[\"granica moralna\", \"granicy moralnej\", \"granicę moralną\"]",
+      "nodes": "[\"granica\"]",
+      "quiz": "{\"question\": \"Czym jest „granica moralna\\\" w powieści Nałkowskiej?\", \"answer\": \"Punkt po którym człowiek przestaje być sobą. Zenon Ziembiewicz traci ideały, gdy wchodzi w establishment — środowisko go zmienia.\", \"wrong\": [\"granica państwa\", \"wiek dojrzały\", \"śmierć\"], \"hint\": \"Niewidzialna linia w człowieku.\"}"
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "alienacja",
+      "definition": "Wyobcowanie — bohater jest obcy w swoim świecie. Justyna z *Granicy* (kobieta służąca z dzieckiem Zenona) — odrzucona przez społeczeństwo, samotna nawet wśród ludzi.",
+      "category": "motywy",
+      "forms": "[\"alienacja\", \"alienacji\", \"alienację\", \"alienacją\"]",
+      "nodes": "[\"granica\"]",
+      "quiz": "{\"question\": \"Czym jest „alienacja\\\" w literaturze?\", \"answer\": \"Wyobcowanie człowieka z otoczenia, społeczeństwa, samego siebie. Klasyczny temat XX wieku — Kafka, Camus, Nałkowska.\", \"wrong\": [\"emigracja\", \"samotność fizyczna\", \"depresja\"], \"hint\": \"Obcość wśród ludzi.\"}"
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "narrator wszechwiedzący",
+      "definition": "Narrator wie wszystko — co bohaterowie myślą, co stanie się na końcu, co zostało wcześniej. Jest jak oko Boga nad fabułą. Klasyczny w XIX-wiecznej powieści realistycznej.",
+      "category": "środki",
+      "forms": "[\"narrator wszechwiedzący\", \"narratora wszechwiedzącego\"]",
+      "nodes": "[\"granica\", \"lalka\"]",
+      "quiz": "{\"question\": \"Kim jest narrator wszechwiedzący?\", \"answer\": \"Narrator znający myśli, uczucia i przyszłość wszystkich bohaterów. Klasyk powieści realistycznej XIX wieku — Prus, Tołstoj.\", \"wrong\": [\"narrator pierwszoosobowy\", \"narrator behawiorystyczny\", \"narrator subiektywny\"], \"hint\": \"Wie więcej niż bohaterowie.\"}"
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "parabola",
+      "definition": "Historia która znaczy więcej niż mówi — *Dżuma* Camusa to parabola: epidemia w Oranie to każdy faszyzm, każde zło. Konkretna fabuła + uniwersalny przekaz.",
+      "category": "środki",
+      "forms": "[\"parabola\", \"paraboli\", \"parabolę\", \"parabolą\", \"paraboliczny\"]",
+      "nodes": "[\"dzuma\", \"granica\", \"miedzywojnie\", \"wspolczesnosc\"]",
+      "quiz": "{\"question\": \"Co odróżnia parabolę od zwykłej powieści?\", \"answer\": \"Parabola ma uniwersalne, ponadczasowe znaczenie ukryte za konkretną fabułą. *Dżuma* Camusa, *Folwark zwierzęcy* Orwella.\", \"wrong\": [\"długość\", \"humor\", \"narrator pierwszoosobowy\"], \"hint\": \"Konkretna historia + uniwersalna prawda.\"}"
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "symbol",
+      "definition": "Obraz który NIE ma jednego znaczenia — chocholi taniec w *Weselu* to bezruch, otępienie, klątwa, narodowa choroba… Każdy widz odkrywa swoje znaczenie. Inaczej niż alegoria.",
+      "category": "środki",
+      "forms": "[\"symbol\", \"symbolu\", \"symbolem\", \"symbole\", \"symboliczny\", \"symboliczna\"]",
+      "nodes": "[\"granica\", \"miedzywojnie\", \"mloda-polska\", \"wesele\"]",
+      "quiz": "{\"question\": \"Symbol różni się od alegorii tym że:\", \"answer\": \"Symbol ma WIELE możliwych znaczeń, alegoria JEDNO ustalone. Wieniec laurowy może symbolizować zwycięstwo, nieśmiertelność, sławę — w alegorii byłby tylko jednym.\", \"wrong\": [\"nie różni się\", \"jest krótszy\", \"jest tylko religijny\"], \"hint\": \"Wielość znaczeń.\"}"
+    }
+  }
+]

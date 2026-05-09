@@ -3,123 +3,55 @@
     "type": "term",
     "data": {
       "term": "vanitas",
-      "forms": [
-        "vanitas vanitatum"
-      ],
-      "nodes": "[\"barok\"]",
-      "definition": "Motyw marności — wszystko przemija, nic nie jest trwałe. Ulubiony temat baroku.",
-      "quiz": {
-        "question": "Barokowi poeci pisali o marności dóbr ziemskich i nieuchronności śmierci. Jaki to motyw?",
-        "hint": "Motyw marności — wszystko przemija, śmierć jest pewna.",
-        "wrong": [
-          "koncept",
-          "marinizm",
-          "konceptyzm",
-          "memento mori"
-        ],
-        "answer": "Vanitas (łac. marność) to motyw barokowy — wszystko jest przemijające, bogactwo i sława to złudzenie. Naborowski w Marności pisał o znikomości dóbr ziemskich. Powiązany z memento mori — pamiętaj o śmierci."
-      },
-      "content": null
-    }
-  },
-  {
-    "type": "term",
-    "data": {
-      "term": "koncept",
-      "forms": [
-        "konceptu",
-        "konceptem",
-        "koncepty"
-      ],
-      "nodes": "[\"barok\"]",
-      "definition": "Zaskakujący paradoks w wierszu barokowym — np. zakochany jak trup u Morsztyna.",
-      "quiz": {
-        "question": "Morsztyn porównuje zakochanego do trupa — zaskakuje czytelnika paradoksem. Jakim terminem to określamy?",
-        "hint": "Zaskakujący paradoks poetycki — nietypowe zestawienie.",
-        "wrong": [
-          "konceptyzm",
-          "marinizm",
-          "metafora",
-          "oksymoron"
-        ],
-        "answer": "Koncept to zaskakujący pomysł poetycki — paradoksalne zestawienie, które zmusza czytelnika do myślenia. Morsztyn w Do trupa: zakochany = trup (obaj bladzi, obaj nieczuli). Fundamentalny zabieg poezji barokowej."
-      },
-      "content": null
-    }
-  },
-  {
-    "type": "term",
-    "data": {
-      "term": "konceptyzm",
-      "forms": [
-        "konceptyzmu",
-        "konceptyzmem",
-        "konceptystyczny"
-      ],
-      "nodes": "[\"barok\"]",
-      "definition": "Barokowy nurt: zaskocz czytelnika paradoksem i błyskotliwym zestawieniem.",
-      "quiz": {
-        "question": "Barokowy nurt poetycki opierał się na zaskakujących paradoksach i błyskotliwych zestawieniach. Jaki?",
-        "hint": "Nurt barokowy oparty na paradoksie i zaskakującym zestawieniu.",
-        "wrong": [
-          "marinizm",
-          "koncept",
-          "sarmatyzm",
-          "manieryzm"
-        ],
-        "answer": "Konceptyzm to nurt poetycki baroku oparty na zaskakujących paradoksach i pomysłowych zestawieniach (konceptach). Morsztyn w Do trupa porównuje zakochanego do nieboszczyka. Celem jest intelektualna gra z czytelnikiem."
-      },
-      "content": null
-    }
-  },
-  {
-    "type": "term",
-    "data": {
-      "term": "marinizm",
-      "forms": [
-        "marinizmu",
-        "marinizmem"
-      ],
-      "nodes": "[\"barok\"]",
-      "definition": "Barokowa poezja: ozdobna, kunsztowna, pełna efektownych metafor. W PL: Morsztyn.",
-      "quiz": {
-        "question": "Morsztyn wzorował się na włoskim poecie, pisząc kunsztowne, ozdobne wiersze pełne metafor. Jaki to nurt?",
-        "hint": "Nurt barokowej poezji — ozdobna, kunsztowna, pełna metafor.",
-        "wrong": [
-          "konceptyzm",
-          "sarmatyzm",
-          "manieryzm",
-          "klasycyzm"
-        ],
-        "answer": "Marinizm to nurt poetycki baroku, wzorowany na włoskim poecie Marinim. Cechuje go bogactwo metafor, ozdobność i wirtuozeria formalna. W Polsce Morsztyn — jego wiersze to poetyckie klejnoty, efektowne i kunsztowne."
-      },
-      "content": null
+      "definition": "Wszystko przemija — czaszka, świeca, zegar. Barokowi malarze i poeci przypominali: luksus ma datę ważności. „Vanitas vanitatum et omnia vanitas\" — marność nad marnościami.",
+      "category": "motywy",
+      "forms": "[\"vanitas\"]",
+      "nodes": "[\"barok\", \"makbet\"]",
+      "quiz": "{\"question\": \"Co oznacza motyw vanitas w sztuce barokowej?\", \"answer\": \"Marność życia ziemskiego, przemijalność. Symbole: czaszka, klepsydra, zwiędły kwiat. Kontrapunkt do bogactwa epoki.\", \"wrong\": [\"radość życia\", \"pochwała natury\", \"kult władzy\"], \"hint\": \"Czaszka, klepsydra, zegar.\"}"
     }
   },
   {
     "type": "term",
     "data": {
       "term": "sarmatyzm",
-      "forms": [
-        "sarmatyzmu",
-        "sarmatyzmem",
-        "sarmacki",
-        "sarmata"
-      ],
+      "definition": "Polska szlachta wierzyła, że pochodzi od starożytnych Sarmatów — wojowniczego ludu. Strój kontuszowy, kult wolności złotej, religijność. Świetność — i izolacja od reszty Europy.",
+      "category": "konteksty",
+      "forms": "[\"sarmatyzm\", \"sarmatyzmu\", \"sarmacki\", \"sarmacka\"]",
       "nodes": "[\"barok\"]",
-      "definition": "Ideologia szlachty XVII w. — patriotyzm, wiara i mit o przodkach Sarmatach.",
-      "quiz": {
-        "question": "Szlachta XVII w. wierzyła w pochodzenie od starożytnych Sarmatów i kultywowała tradycję. Jaka to ideologia?",
-        "hint": "Ideologia polskiej szlachty — mit o sarmackich przodkach, wiara i tradycja.",
-        "wrong": [
-          "konceptyzm",
-          "marinizm",
-          "mesjanizm",
-          "patriotyzm"
-        ],
-        "answer": "Sarmatyzm to ideologia polskiej szlachty XVII w. oparta na micie o pochodzeniu od starożytnych Sarmatów. Łączyła patriotyzm, katolicyzm i ksenofobię. Pasek w Pamiętnikach — typowy sarmata. Mickiewicz w Panu Tadeuszu idealizuje ten świat."
-      },
-      "content": null
+      "quiz": "{\"question\": \"Co charakteryzowało sarmatyzm szlachecki?\", \"answer\": \"Mit pochodzenia od Sarmatów, kult wolności szlacheckiej, kontusz, religijność, megalomania narodowa. Specyficzna polska wersja baroku.\", \"wrong\": [\"kult antyku\", \"racjonalizm\", \"kult cesarza\"], \"hint\": \"Polska szlachta i mit sarmacki.\"}"
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "konceptyzm",
+      "definition": "Barokowa moda na intelektualne, zaskakujące koncepty — wyszukane porównania, paradoksy. „Niestatek\" Morsztyna: wirtuozerska wyliczanka „raczej…\".",
+      "category": "konteksty",
+      "forms": "[\"konceptyzm\", \"konceptyzmu\", \"konceptystyczny\"]",
+      "nodes": "[\"barok\"]",
+      "quiz": "{\"question\": \"Czym był barokowy konceptyzm?\", \"answer\": \"Moda na intelektualnie wyrafinowane utwory pełne paradoksów, antytez, niezwykłych porównań. Polska — Morsztyn, włoska — Marino.\", \"wrong\": [\"prosta szczerość\", \"kult natury\", \"nawrót do antyku\"], \"hint\": \"Wyrafinowane pomysły.\"}"
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "koncept",
+      "definition": "Zaskakujący, kunsztowny pomysł literacki — barokowi poeci szukali konceptu, który zachwyci. „Niestatek\" Morsztyna to wirtuozerska wyliczanka „raczej…\" zaskakujących porównań.",
+      "category": "środki",
+      "forms": "[\"koncept\", \"konceptu\", \"koncepcie\", \"konceptem\"]",
+      "nodes": "[\"barok\"]",
+      "quiz": "{\"question\": \"Czym jest „koncept\\\" w poezji barokowej?\", \"answer\": \"Wymyślny, zaskakujący pomysł literacki — zachwycić niezwykłym porównaniem, paradoksem, antytezą. Charakterystyczny dla baroku.\", \"wrong\": [\"rym\", \"morał\", \"metafora prosta\"], \"hint\": \"Coś co ma zaskoczyć kunsztem.\"}"
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "marinizm",
+      "definition": "Włoski styl barokowy od poety Giambattisty Marino — przepych, nadmiar metafor, zmysłowość. „Ach, jak słodko cierpieć!\" — przesada uczuciowa stała się normą.",
+      "category": "konteksty",
+      "forms": "[\"marinizm\", \"marinizmu\", \"mariński\"]",
+      "nodes": "[\"barok\"]",
+      "quiz": "{\"question\": \"Czym charakteryzuje się marinizm?\", \"answer\": \"Przepych, nadmiar metafor, kult zmysłowości i przesada w wyrażaniu uczuć. Włoski styl barokowy od Giambattisty Marino.\", \"wrong\": [\"prostota\", \"racjonalizm\", \"klasyczna harmonia\"], \"hint\": \"Włoski przepych poetycki.\"}"
     }
   }
 ]

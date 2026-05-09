@@ -1,35 +1,16 @@
 [
   {
     "type": "content",
-    "parentRef": "bogurodzica",
     "data": {
-      "contentType": "text",
-      "text": "## Pierwszy tekst po polsku — i to od razu banger\n\n*Bogurodzica* to najstarszy zachowany utwór poetycki w języku polskim. XIII wiek. Dowód, że po polsku da się nie tylko gadać na targu, ale też śpiewać i modlić się. Dla współczesnego ucha brzmi dziwnie — ale w swoim czasie? Rewolucja."
+      "contentType": "intro",
+      "text": "## Najstarsza polska pieśń\n\nXIII-wieczny {{hymn}} maryjny — prosimy Maryję, by „pozyskała nam Syna\". Klasyczna {{hierarchia pośredników}}: my → ona → Chrystus. Tekst jest archaiczny, ale działa do dziś."
     }
   },
   {
     "type": "content",
-    "parentRef": "bogurodzica",
     "data": {
-      "contentType": "text",
-      "text": "## Dlaczego nie mówisz wprost do Boga?\n\nBo średniowiecze tak nie działa. W *Bogurodzicy* człowiek prosi Maryję (strofa 1), Maryja prosi Chrystusa przez **Jana Chrzciciela** (strofa 2). Między tobą a Stwórcą stoi **{{hierarchia pośredników}}**. To **{{teocentryzm}}** w pigułce — nawet modlitwa ma strukturę władzy."
-    }
-  },
-  {
-    "type": "content",
-    "parentRef": "bogurodzica",
-    "data": {
-      "contentType": "text",
-      "text": "## Modlitwa, {{hymn}} bojowy i {{hymn}} narodowy — w jednym\n\nRycerze śpiewali *Bogurodzicę* przed bitwą pod **Grunwaldem** (1410). Jan Długosz nazwał ją *{{carmen patrium}}* — pieśnią ojczystą. Funkcja religijna + patriotyczna + literacka. Dlaczego {{hymn}} bojowy jest modlitwą? Bo w średniowieczu walka i wiara to jedno. Na wojnę idzie się z Bogiem na ustach."
-    }
-  },
-  {
-    "type": "content",
-    "parentRef": "bogurodzica",
-    "data": {
-      "contentType": "quiz",
-      "text": "Jakie trzy funkcje pełniła *Bogurodzica* i co mówią o **teocentryzmie** epoki?",
-      "answer": "Religijną (modlitwa do Maryi jako pośredniczki), patriotyczną ({{hymn}} bojowy spod Grunwaldu) i literacką (pierwszy polski utwór poetycki). Wszystkie łączy {{teocentryzm}}: nawet walka o ojczyznę jest aktem wiary."
+      "contentType": "concept",
+      "text": "## Pieśń bojowa\n\n*Bogurodzica* to nie tylko modlitwa — to {{carmen patrium}}, pieśń ojczysta. Śpiewana przed bitwą pod Grunwaldem (1410). {{Metafora}} Maryi jako matki narodu. Łączy religię z polityką, modlitwę z męstwem."
     }
   }
 ]

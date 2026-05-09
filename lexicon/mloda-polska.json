@@ -1,0 +1,57 @@
+[
+  {
+    "type": "term",
+    "data": {
+      "term": "modernizm",
+      "definition": "Młodopolskie zmęczenie pozytywizmem — sztuka dla sztuki, dekadentyzm, symbol. „Żaglomania\" Tetmajera, „Hymny\" Kasprowicza. Powrót poetyckiej wrażliwości.",
+      "category": "konteksty",
+      "forms": "[\"modernizm\", \"modernizmu\", \"modernistyczny\"]",
+      "nodes": "[\"mloda-polska\", \"wesele\"]",
+      "quiz": "{\"question\": \"Czym charakteryzował się modernizm Młodej Polski?\", \"answer\": \"Bunt przeciw pozytywistycznemu utylitaryzmowi — kult sztuki, dekadentyzm, symbolizm, melancholia. Tetmajer, Kasprowicz, Wyspiański.\", \"wrong\": [\"pochwała pracy\", \"realizm społeczny\", \"kult Kościoła\"], \"hint\": \"Sztuka dla sztuki.\"}"
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "dekadentyzm",
+      "definition": "Modernistyczny nastrój zmęczenia, melancholii, „końca wieku\". „Nirwanę chcę osiągnąć i pijaństwo\" — wiersze Tetmajera. Ucieczka w sen, opium, śmierć.",
+      "category": "konteksty",
+      "forms": "[\"dekadentyzm\", \"dekadentyzmu\", \"dekadencki\", \"dekadent\"]",
+      "nodes": "[\"mloda-polska\"]",
+      "quiz": "{\"question\": \"Co charakteryzował dekadentyzm Młodej Polski?\", \"answer\": \"Nastrój zmęczenia, pesymizm „końca wieku\\\", ucieczka w sen, opium, sztukę. Tetmajer, Przybyszewski, „Confiteor\\\".\", \"wrong\": [\"radość\", \"kult pracy\", \"religijność\"], \"hint\": \"Zmęczenie, melancholia, koniec wieku.\"}"
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "symbolizm",
+      "definition": "Modernistyczna szkoła: poeta nie opisuje świata, lecz przywołuje go symbolami. Wyspiański w *Weselu*: Chochoł, Wernyhora, Stańczyk to nie postacie — to znaki. Czytaj między wierszami.",
+      "category": "konteksty",
+      "forms": "[\"symbolizm\", \"symbolizmu\", \"symboliczny\", \"symboliczna\"]",
+      "nodes": "[\"mloda-polska\"]",
+      "quiz": "{\"question\": \"Czym był symbolizm w sztuce modernistycznej?\", \"answer\": \"Szkoła używająca symboli zamiast bezpośredniego opisu rzeczywistości. Wyspiański, Mallarmé, Verlaine.\", \"wrong\": [\"realizm\", \"naturalizm\", \"klasycyzm\"], \"hint\": \"Świat przez znaki.\"}"
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "symbol",
+      "definition": "Obraz który NIE ma jednego znaczenia — chocholi taniec w *Weselu* to bezruch, otępienie, klątwa, narodowa choroba… Każdy widz odkrywa swoje znaczenie. Inaczej niż alegoria.",
+      "category": "środki",
+      "forms": "[\"symbol\", \"symbolu\", \"symbolem\", \"symbole\", \"symboliczny\", \"symboliczna\"]",
+      "nodes": "[\"granica\", \"miedzywojnie\", \"mloda-polska\", \"wesele\"]",
+      "quiz": "{\"question\": \"Symbol różni się od alegorii tym że:\", \"answer\": \"Symbol ma WIELE możliwych znaczeń, alegoria JEDNO ustalone. Wieniec laurowy może symbolizować zwycięstwo, nieśmiertelność, sławę — w alegorii byłby tylko jednym.\", \"wrong\": [\"nie różni się\", \"jest krótszy\", \"jest tylko religijny\"], \"hint\": \"Wielość znaczeń.\"}"
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "metafora",
+      "definition": "Przeniesienie znaczenia — coś nazywamy słowem które znaczy co innego, żeby pokazać podobieństwo. „Życie to taniec\" — życie nie tańczy, ale ma rytm i krok jak taniec.",
+      "category": "środki",
+      "forms": "[\"metafora\", \"metafory\", \"metaforę\", \"metaforą\", \"metaforyczny\", \"metaforyczna\"]",
+      "nodes": "[\"bogurodzica\", \"dziady3\", \"dzuma\", \"iliada\", \"lalka\", \"mloda-polska\", \"renesans\", \"romantyzm\", \"wesele\"]",
+      "quiz": "{\"question\": \"Jak nazwać zdanie „Czas to złodziej, kradnie nam dni\\\"?\", \"answer\": \"Metafora — czas dosłownie nie kradnie, ale działa jak złodziej. Przeniesienie znaczenia z dziedziny przedmiotów na dziedzinę abstrakcji.\", \"wrong\": [\"porównanie\", \"epitet\", \"metonimia\"], \"hint\": \"Brak słówka „jak\\\" — dlatego nie porównanie.\"}"
+    }
+  }
+]

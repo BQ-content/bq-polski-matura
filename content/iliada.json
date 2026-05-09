@@ -1,35 +1,16 @@
 [
   {
     "type": "content",
-    "parentRef": "iliada",
     "data": {
-      "contentType": "text",
-      "text": "## Pierwsze słowo? \"Gniew\". Nie \"wojna\".\n\n*Iliada* nie jest reportażem z Troi. To historia o tym, co się dzieje, gdy najlepszy wojownik mówi: \"Nie gram\". **Achilles** kłóci się z wodzem **Agamemnonem**, obraża się i przestaje walczyć. Grecy zaczynają przegrywać. Przyjaciel **Patroklos** ginie. Achilles wraca — ale z zemsty, nie z obowiązku."
+      "contentType": "intro",
+      "text": "## Gniew który zaczął wszystko\n\n„Gniew, bogini, opiewaj…\" — pierwsza linijka *Iliady* to {{inwokacja}}: Homer prosi muzę o pomoc. Wpadamy {{in medias res}}: wojna trwa już 9 lat. Achilles obraził się na Agamemnona. Reszta to konsekwencje."
     }
   },
   {
     "type": "content",
-    "parentRef": "iliada",
     "data": {
-      "contentType": "text",
-      "text": "## Wyobraź sobie: wróg klęka i płacze razem z tobą\n\nKról **Priam** klęczy przed Achillesem — mordercą jego syna Hektora — i błaga o ciało. Achilles płacze razem z nim. Homer nie gloryfikuje wojny. Pokazuje cenę: ból matek, strach wojowników. **{{Fatum}}** rządzi — Achilles wie, że zginie młodo, ale wybiera wieczną sławę."
-    }
-  },
-  {
-    "type": "content",
-    "parentRef": "iliada",
-    "data": {
-      "contentType": "text",
-      "text": "## Dlaczego co drugi {{epos}} wygląda jak *Iliada*?\n\nBo Homer stworzył matrycę: **{{inwokacja}}** (wezwanie muzy), **{{in medias res}}** (start w środku akcji), **narrator wszechwiedzący**, **{{stały epitet}}** (Achilles \"szybkonogi\"), **{{porównanie homeryckie}}** (rozbudowane). Mickiewicz w *Panu Tadeuszu* świadomie powtarza te chwyty. Hołd, nie plagiat."
-    }
-  },
-  {
-    "type": "content",
-    "parentRef": "iliada",
-    "data": {
-      "contentType": "quiz",
-      "text": "Co oznacza **{{in medias res}}** i jak Homer stosuje tę technikę w *Iliadzie*?",
-      "answer": "Dosłownie: \"w środek rzeczy\". *Iliada* nie zaczyna od wybuchu wojny — wskakujemy w jej dziewiąty rok. Przeszłość poznajemy z retrospekcji. To buduje napięcie i stało się wzorcem dla późniejszych eposów."
+      "contentType": "concept",
+      "text": "## Maszyneria eposu\n\n*Iliada* zdefiniowała epos na zawsze: {{stały epitet}} (Achilles „szybkonogi\"), {{porównanie homeryckie}} (rozbudowane na pół strony), {{metafora}} bohaterów jako lwów. Każdy ten chwyt powtórzy Mickiewicz w *Panu Tadeuszu*."
     }
   }
 ]

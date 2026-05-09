@@ -2,78 +2,56 @@
   {
     "type": "term",
     "data": {
+      "term": "tragedia",
+      "definition": "Dramat o upadku szlachetnego bohatera — Antygona, Makbet. Kończy się katastrofą, widz przeżywa katharsis. Bohater pada przez własną winę (hamartia) i przeznaczenie.",
+      "category": "gatunki",
+      "forms": "[\"tragedia\", \"tragedii\", \"tragedię\", \"tragedią\", \"tragiczny\", \"tragiczna\"]",
+      "nodes": "[\"antyk\", \"makbet\"]",
+      "quiz": "{\"question\": \"Co charakteryzuje tragedię antyczną?\", \"answer\": \"Upadek szlachetnego bohatera (hamartia + hybris), nieuchronność losu (fatum), katharsis widza. Arystoteles opisał reguły w *Poetyce*.\", \"wrong\": [\"szczęśliwe zakończenie\", \"zwykły bohater\", \"humor\"], \"hint\": \"Bohater wzniosły, koniec zły.\"}"
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "hybris",
+      "definition": "Pycha która prowadzi do upadku — bohater myśli że jest większy od bogów, prawa, losu. Antygona pogardza Kreonem, Makbet pogardza naturalnym porządkiem. Hybris zawsze ma cenę.",
+      "category": "motywy",
+      "forms": "[\"hybris\", \"hybrys\", \"hybridy\"]",
+      "nodes": "[\"antygona\", \"dziady3\", \"makbet\"]",
+      "quiz": "{\"question\": \"Czym jest hybris w tragedii?\", \"answer\": \"Pycha — przekonanie bohatera że jest większy od bogów lub prawa. Prowadzi do nemezis (kary) i upadku. Klasyczne motywy: Antygona, Makbet, Konrad.\", \"wrong\": [\"litość\", \"sprawiedliwość\", \"mądrość\"], \"hint\": \"Pycha która nie kończy się dobrze.\"}"
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "vanitas",
+      "definition": "Wszystko przemija — czaszka, świeca, zegar. Barokowi malarze i poeci przypominali: luksus ma datę ważności. „Vanitas vanitatum et omnia vanitas\" — marność nad marnościami.",
+      "category": "motywy",
+      "forms": "[\"vanitas\"]",
+      "nodes": "[\"barok\", \"makbet\"]",
+      "quiz": "{\"question\": \"Co oznacza motyw vanitas w sztuce barokowej?\", \"answer\": \"Marność życia ziemskiego, przemijalność. Symbole: czaszka, klepsydra, zwiędły kwiat. Kontrapunkt do bogactwa epoki.\", \"wrong\": [\"radość życia\", \"pochwała natury\", \"kult władzy\"], \"hint\": \"Czaszka, klepsydra, zegar.\"}"
+    }
+  },
+  {
+    "type": "term",
+    "data": {
       "term": "degeneracja moralna",
-      "forms": [
-        "degeneracji moralnej",
-        "degeneracją moralną"
-      ],
+      "definition": "Stopniowy upadek bohatera: Makbet zaczyna jako lojalny rycerz, kończy jako tyran. Każdy mord prowadzi do następnego — krew płodzi krew.",
+      "category": "motywy",
+      "forms": "[\"degeneracja moralna\", \"degeneracji moralnej\", \"degenerację moralną\"]",
       "nodes": "[\"makbet\"]",
-      "definition": "Bohater powoli upada: Makbet od wahania, przez mord, do pełnego nihilizmu.",
-      "quiz": {
-        "question": "Makbet stopniowo zmienia się z wahającego rycerza w bezwzględnego tyrana. Jak nazywamy ten proces?",
-        "hint": "Stopniowy upadek moralny bohatera — od wahania do nihilizmu.",
-        "wrong": [
-          "hybris",
-          "hamartia",
-          "fatum",
-          "tragedia"
-        ],
-        "answer": "Degeneracja moralna to stopniowy upadek etyczny bohatera. Makbet przechodzi od wahania przez pierwsze morderstwo po całkowity nihilizm (\"life is a tale told by an idiot\"). Szekspir pokazuje, jak jedno złe działanie uruchamia lawinę."
-      },
-      "content": null
+      "quiz": "{\"question\": \"Co dzieje się z Makbetem w trakcie tragedii?\", \"answer\": \"Stopniowa degeneracja moralna — od lojalnego rycerza do paranoicznego tyrana. Każdy nowy mord pcha go w głąb zła.\", \"wrong\": [\"nawraca się\", \"wycofuje się\", \"pozostaje stały\"], \"hint\": \"Spirala krwi.\"}"
     }
   },
   {
     "type": "term",
     "data": {
       "term": "Lady Makbet",
-      "forms": [
-        "Lady Makbet"
-      ],
+      "definition": "Ambitna żona pchająca męża do zbrodni — wyśmiewa jego wahania, „Out, damned spot!\". Później szaleje obsesyjnym myciem rąk. Symbol manipulacji i wyrzutów sumienia.",
+      "category": "motywy",
+      "forms": "[\"Lady Makbet\"]",
       "nodes": "[\"makbet\"]",
-      "definition": "Pcha męża do zbrodni, potem łamie się z winy — słynne mycie rąk we śnie.",
-      "quiz": {
-        "question": "Żona namawia go do królobójstwa, a potem myje ręce we śnie, dręczona wyrzutami. Która to postać?",
-        "hint": "Żona Makbeta — pcha do zbrodni, potem myje ręce we śnie.",
-        "wrong": [
-          "Antygona",
-          "Ofelia",
-          "Izolda",
-          "Kleopatra"
-        ],
-        "answer": "Lady Makbet to żona tytułowego bohatera — namawia go do zabójstwa króla Dunkana, ale potem łamie się pod ciężarem winy. Słynna scena mycia rąk we śnie: nie może zmyć niewidzialnej krwi. Symbol wyrzutów sumienia."
-      },
-      "content": null
-    }
-  },
-  {
-    "type": "term",
-    "data": {
-      "term": "tragedia",
-      "forms": [
-        "tragedii",
-        "tragedię",
-        "tragiczny",
-        "tragiczna"
-      ],
-      "nodes": "[\"makbet\"]",
-      "definition": "Sztuka o upadku bohatera — kończy się źle, widz płacze i czuje ulgę.",
-      "quiz": {
-        "question": "Sofokles pisał sztuki, w których szlachetny bohater upada — widz przeżywa litość i trwogę. Jaki to gatunek?",
-        "hint": "Gatunek dramatyczny o upadku szlachetnego bohatera, kończy się katastrofą.",
-        "wrong": [
-          "epos",
-          "komedia",
-          "ballada",
-          "dramat"
-        ],
-        "answer": "Tragedia to gatunek dramatyczny, w którym bohater o wysokim statusie popada w nieszczęście przez hamartię. Cel: katharsis — oczyszczenie emocji widza. Arystoteles opisał reguły w Poetyce. Sofokles, Szekspir — wszyscy stosowali ten wzorzec."
-      },
-      "content": [
-        "## 15 000 ludzi płacze i wychodzi lepszych?\n\nAteny, V w. p.n.e. Tłum na kamiennych ławach. Aktor w masce mówi coś strasznego. Widzowie płaczą. I wychodzą oczyszczeni.\n\n**Arystoteles** nazwał to **katharsis**. Tragedia budzi **litość** i **trwogę**. Przeżywasz horror w bezpiecznych warunkach — i wychodzisz wolny.",
-        "## Trzy reguły, zero dygresji\n\nKlasyczna tragedia grecka = **trzy jedności**:\n- **Czasu** — maks 24h\n- **Miejsca** — jedna lokalizacja\n- **Akcji** — jeden wątek\n\nTo nie kaprys. Chodzi o **intensywność**. Jeden dzień. Jedno miejsce. Jeden problem. Pełna moc.",
-        "## Szlachetny i mądry — a jednak skazany\n\nBohater tragiczny nie jest zły. Ma **hamartię** — błąd z ludzkiej ślepoty. Edyp szuka mordercy, nie wiedząc, że to on.\n\n**Hybris** — pycha wobec losu. **Konflikt tragiczny** — dwie równe racje, każdy wybór = katastrofa. **Ironia tragiczna** — widz wie więcej niż bohater."
-      ]
+      "quiz": "{\"question\": \"Jaką rolę gra Lady Makbet w tragedii Szekspira?\", \"answer\": \"Inspiratorka morderstwa Duncana — wyśmiewa wahania Makbeta. Później jej psychika załamuje się przez wyrzuty sumienia (obsesja mycia rąk).\", \"wrong\": [\"niewinna ofiara\", \"pasywna obserwatorka\", \"doradczyni króla\"], \"hint\": \"Pcha do zbrodni, później szaleje.\"}"
     }
   }
 ]

@@ -1,35 +1,16 @@
 [
   {
     "type": "content",
-    "parentRef": "lalka",
     "data": {
-      "contentType": "text",
-      "text": "## Buduje imperium — i marnuje je na dziewczynę, która go olewa\n\n**Wokulski** to paradoks. Kupiec, ale walczył w powstaniu. Naukowiec, ale rzucił naukę. Realista, ale **romantycznie zakochany** w arystokratce **Izabeli Łęckiej**. Ona go nie kocha. Ta miłość to nie melodramat — to **{{metafora}}**: energia kontra stagnacja. Nowoczesność kontra pozory."
+      "contentType": "intro",
+      "text": "## Romantyk w epoce kasy\n\nWokulski kocha Izabelę Łęcką jak żywa {{metafora}} ideału. Ona kocha tytuł, kapelusz i pojedynki. To {{klęska idealizmu}} — pozytywizm pokazuje, że romantyk przegrywa z pragmatyzmem."
     }
   },
   {
     "type": "content",
-    "parentRef": "lalka",
     "data": {
-      "contentType": "text",
-      "text": "## Trzy pokolenia idealistów. Każde przegrywa inaczej.\n\n**Rzecki** — wierzy w Napoleona. W 1879 roku. Żyje przeszłością. **Wokulski** — ma energię, żeby zmieniać Polskę, ale traci ją na beznadziejną miłość. **Ochocki** — młody naukowiec, ucieka w czyste teorie. Trzy pokolenia, trzy klęski. Każdy idealizm rozbija się o mur polskiego społeczeństwa."
-    }
-  },
-  {
-    "type": "content",
-    "parentRef": "lalka",
-    "data": {
-      "contentType": "text",
-      "text": "## Rentgen społeczeństwa — 130 lat i wciąż aktualny\n\nPrus jest bezlitosny. Arystokracja — pasożytnicza, zadłużona, żyjąca pozorami. Burżuazja — energiczna, ale pogardzana. Biedota — niewidoczna. Trzy narracje to odsłaniają: pamiętnik Rzeckiego, narrator trzecioosobowy, myśli Wokulskiego. *Lalka* to nie lektura — to diagnoza."
-    }
-  },
-  {
-    "type": "content",
-    "parentRef": "lalka",
-    "data": {
-      "contentType": "quiz",
-      "text": "Dlaczego *Lalka* jest nazywana powieścią o trzech pokoleniach idealistów?",
-      "answer": "Rzecki żyje przeszłością (napoleońskie złudzenia), Wokulski ma energię do zmian, ale traci ją na miłość do Izabeli, Ochocki ucieka w naukę. Każdy ponosi klęskę — ich ideały rozbijają się o stanowe bariery i stagnację polskiego społeczeństwa."
+      "contentType": "concept",
+      "text": "## Panorama epoki\n\n*Lalka* to klasyczna {{powieść realistyczna}} — narrator znaja wszystko ({{narrator wszechwiedzący}}). Pokazuje Warszawę: arystokrację, kupców, biednych. {{Idealista}} Wokulski znika — może wysadza się dynamitem, może wyjeżdża na Wschód. Prus zostawia otwarte zakończenie."
     }
   }
 ]

@@ -1,0 +1,16 @@
+[
+  {
+    "type": "content",
+    "data": {
+      "contentType": "intro",
+      "text": "## „Lis i kruk\" — szkoła sprytu\n\nKrasicki w 4 wersach uczy całe pokolenie: {{bajka}} z prostym {{morał}}: „Niech się nie chwali, kto się ma chwalić\". Lis dostaje ser przez {{antropomorfizacja}} — zwierzęta myślą jak ludzie."
+    }
+  },
+  {
+    "type": "content",
+    "data": {
+      "contentType": "concept",
+      "text": "## Krytyka pod warstwą uśmiechu\n\nKażda bajka to {{alegoria}} — lis = spryt, kruk = próżność. {{Satyra}} społeczna ukryta pod prostym opowiadaniem. Krasicki nie pisze wprost: „szlachta jest głupia\" — pokazuje to przez bajki."
+    }
+  }
+]

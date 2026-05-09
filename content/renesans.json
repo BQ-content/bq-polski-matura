@@ -1,43 +1,16 @@
 [
   {
     "type": "content",
-    "parentRef": "renesans",
     "data": {
-      "contentType": "text",
-      "text": "## A gdyby to człowiek był najważniejszy?\n\nPo wiekach patrzenia w niebo ludzie spojrzeli na siebie — i im się spodobało. **{{Antropocentryzm}}** zastąpił **{{teocentryzm}}**. Nie rzucili wiary, ale zaczęli wierzyć też w rozum i godność. Hasło: **{{ad fontes}}** — wracamy do Greków i Rzymian. Oni wiedzieli, jak żyć."
+      "contentType": "intro",
+      "text": "## Człowiek zamiast Boga\n\nRenesans odwraca średniowieczny {{teocentryzm}}: teraz {{antropocentryzm}}, człowiek w centrum. {{Humanizm}} mówi „nic co ludzkie nie jest mi obce\". Hasło {{ad fontes}} — wracajmy do antyku, do Platona, do Cycerona."
     }
   },
   {
     "type": "content",
-    "parentRef": "renesans",
     "data": {
-      "contentType": "text",
-      "text": "## {{Humanizm}} — filozofia, która zmieniła wszystko\n\n**{{Humanizm}}**: czytaj klasyków, poznawaj języki, ciesz się pięknem. Pico della Mirandola napisał, że Bóg dał człowiekowi wolność kształtowania siebie. Rewolucja. W Polsce złoty wiek Zygmuntów. I wtedy pojawił się ktoś, kto zmienił polską literaturę na zawsze..."
-    }
-  },
-  {
-    "type": "content",
-    "parentRef": "renesans",
-    "data": {
-      "contentType": "text",
-      "text": "## Rej mówi po polsku. Kochanowski — genialnie.\n\n**Mikołaj Rej**: *\"Polacy nie gęsi, iż swój język mają\"*. Pierwszy pisał wyłącznie po polsku. Ale geniuszem był **Jan Kochanowski**. *Treny* — 19 utworów po śmierci córki Urszulki. Rozpacz, gniew, pogodzenie. Nie retoryka — **autentyczny ból** w doskonałej formie."
-    }
-  },
-  {
-    "type": "content",
-    "parentRef": "renesans",
-    "data": {
-      "contentType": "text",
-      "text": "## Polska tolerancja? W XVI wieku — tak.\n\nZaskoczenie: **konfederacja warszawska** (1573) to jeden z pierwszych aktów wolności wyznania w Europie. Czas **reformacji**, a Polska zamiast palić heretyków, gwarantuje im prawa. Na tle krwawych wojen religijnych w Europie — ewenement."
-    }
-  },
-  {
-    "type": "content",
-    "parentRef": "renesans",
-    "data": {
-      "contentType": "quiz",
-      "text": "Na czym polegał przełom renesansowy wobec średniowiecza?",
-      "answer": "Średniowiecze — {{teocentryzm}}: Bóg w centrum, człowiek definiowany przez relację z Bogiem. Renesans — {{antropocentryzm}}: człowiek z jego rozumem i godnością stał się centralną wartością. Hasło {{ad fontes}} i {{humanizm}} dowartościowały wiedzę, piękno i doczesne życie."
+      "contentType": "concept",
+      "text": "## Język rośnie\n\nRenesansowa {{metafora}} eksploduje — Kochanowski tworzy polską poezję od zera. *Treny* po śmierci córki, fraszki o miłości, pieśni o przyjaźni. Człowiek odkrywa głos."
     }
   }
 ]

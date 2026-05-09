@@ -1,0 +1,57 @@
+[
+  {
+    "type": "term",
+    "data": {
+      "term": "bajka",
+      "definition": "Krótki utwór z morałem i często ze zwierzętami w roli ludzi. „Lis i kruk\" Krasickiego — kruk traci ser, bo dał się chwalić. Klasyczny gatunek dydaktyczny.",
+      "category": "gatunki",
+      "forms": "[\"bajka\", \"bajki\", \"bajce\", \"bajką\"]",
+      "nodes": "[\"bajki\", \"oswiecenie\"]",
+      "quiz": "{\"question\": \"Co odróżnia bajkę od opowiadania?\", \"answer\": \"Bajka jest krótka, ma morał i często wykorzystuje antropomorfizację (zwierzęta jako ludzie). Cel: dydaktyczny.\", \"wrong\": [\"długość\", \"realizm\", \"narrator pierwszoosobowy\"], \"hint\": \"Krótka, z morałem, ze zwierzętami.\"}"
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "morał",
+      "definition": "Pouczenie na końcu bajki — wprost wyłożona lekcja. „Niech się nie chwali, kto się ma chwalić\" — autor mówi czytelnikowi co ma zrozumieć.",
+      "category": "środki",
+      "forms": "[\"morał\", \"morału\", \"morałem\", \"morały\"]",
+      "nodes": "[\"bajki\", \"oswiecenie\"]",
+      "quiz": "{\"question\": \"Krótka pointa wyłożona na końcu bajki to:\", \"answer\": \"Morał — wyłożona wprost lekcja moralna. Krasicki używał morału na końcu lub na początku każdej bajki.\", \"wrong\": [\"puenta\", \"epigramat\", \"dygresja\"], \"hint\": \"Lekcja na końcu bajki.\"}"
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "alegoria",
+      "definition": "Obraz który ma JEDNO konkretne znaczenie ukryte — w bajce „Lis i kruk\" lis to spryt, kruk to próżność. Każda alegoria ma „klucz\" — czytelnik musi go znaleźć.",
+      "category": "środki",
+      "forms": "[\"alegoria\", \"alegorii\", \"alegorię\", \"alegoryczny\", \"alegoryczna\"]",
+      "nodes": "[\"bajki\", \"dzuma\", \"wspolczesnosc\"]",
+      "quiz": "{\"question\": \"Czym alegoria różni się od symbolu?\", \"answer\": \"Alegoria ma JEDNO konkretne znaczenie (lis = spryt). Symbol ma WIELE możliwych odczytań (krzyż = wiara, ofiara, śmierć).\", \"wrong\": [\"niczym\", \"jest dłuższa\", \"jest zawsze religijna\"], \"hint\": \"Alegoria = jedno znaczenie. Symbol = wiele.\"}"
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "antropomorfizacja",
+      "definition": "Nadanie zwierzętom lub przedmiotom cech ludzkich. W bajkach Krasickiego lis mówi, kruk myśli. Bez tego nie byłoby bajki.",
+      "category": "środki",
+      "forms": "[\"antropomorfizacja\", \"antropomorfizacji\", \"antropomorfizować\"]",
+      "nodes": "[\"bajki\"]",
+      "quiz": "{\"question\": \"Lis prawi morały, owca rozważa filozofię — co to za zabieg?\", \"answer\": \"Antropomorfizacja — nadanie cech ludzkich istotom nieludzkim. Fundament bajki zwierzęcej i mitów.\", \"wrong\": [\"personifikacja\", \"metonimia\", \"alegoria\"], \"hint\": \"Anthropos = człowiek.\"}"
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "satyra",
+      "definition": "Utwór ostro krytykujący wady społeczne. Krasicki „Pijaństwo\" — szyderczy obraz szlachcica. Ton gorzki, ironiczny — śmiejemy się, ale gorzko.",
+      "category": "gatunki",
+      "forms": "[\"satyra\", \"satyry\", \"satyrę\", \"satyrą\", \"satyryczny\"]",
+      "nodes": "[\"bajki\", \"oswiecenie\"]",
+      "quiz": "{\"question\": \"Czym satyra różni się od bajki?\", \"answer\": \"Satyra otwarcie krytykuje wady społeczne i konkretne grupy. Bajka uczy przez alegorię. Satyra jest ostra, bajka — łagodniejsza.\", \"wrong\": [\"niczym\", \"satyra jest dłuższa\", \"satyra ma morał\"], \"hint\": \"Ostra krytyka społeczna.\"}"
+    }
+  }
+]
