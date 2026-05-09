@@ -37,7 +37,7 @@
     "data": {
       "term": "uczucie ponad rozum",
       "definition": "Romantyczna „prawda żywa, jeno czuciem dochodzona\" (Mickiewicz). Rozum oświeceniowy okazał się za mały na cały świat — duchy, przeczucia, wiara w naród przewyższają logikę.",
-      "category": "konteksty",
+      "category": "idee",
       "forms": "[\"uczucie ponad rozum\"]",
       "nodes": "[\"romantyzm\"]",
       "quiz": "{\"question\": \"Co romantycy stawiali ponad rozum?\", \"answer\": \"Uczucie, intuicję, wiarę. Mickiewicz: „prawda żywa, jeno czuciem dochodzona\\\". Oświeceniowy rozum okazał się za ciasny.\", \"wrong\": [\"naukę\", \"logikę\", \"pieniądz\"], \"hint\": \"Romantyczna wartość ponad logiką.\"}"

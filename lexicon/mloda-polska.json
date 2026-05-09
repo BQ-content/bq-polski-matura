@@ -4,7 +4,7 @@
     "data": {
       "term": "modernizm",
       "definition": "Młodopolskie zmęczenie pozytywizmem — sztuka dla sztuki, dekadentyzm, symbol. „Żaglomania\" Tetmajera, „Hymny\" Kasprowicza. Powrót poetyckiej wrażliwości.",
-      "category": "konteksty",
+      "category": "idee",
       "forms": "[\"modernizm\", \"modernizmu\", \"modernistyczny\"]",
       "nodes": "[\"mloda-polska\", \"wesele\"]",
       "quiz": "{\"question\": \"Czym charakteryzował się modernizm Młodej Polski?\", \"answer\": \"Bunt przeciw pozytywistycznemu utylitaryzmowi — kult sztuki, dekadentyzm, symbolizm, melancholia. Tetmajer, Kasprowicz, Wyspiański.\", \"wrong\": [\"pochwała pracy\", \"realizm społeczny\", \"kult Kościoła\"], \"hint\": \"Sztuka dla sztuki.\"}"
@@ -15,7 +15,7 @@
     "data": {
       "term": "dekadentyzm",
       "definition": "Modernistyczny nastrój zmęczenia, melancholii, „końca wieku\". „Nirwanę chcę osiągnąć i pijaństwo\" — wiersze Tetmajera. Ucieczka w sen, opium, śmierć.",
-      "category": "konteksty",
+      "category": "idee",
       "forms": "[\"dekadentyzm\", \"dekadentyzmu\", \"dekadencki\", \"dekadent\"]",
       "nodes": "[\"mloda-polska\"]",
       "quiz": "{\"question\": \"Co charakteryzował dekadentyzm Młodej Polski?\", \"answer\": \"Nastrój zmęczenia, pesymizm „końca wieku\\\", ucieczka w sen, opium, sztukę. Tetmajer, Przybyszewski, „Confiteor\\\".\", \"wrong\": [\"radość\", \"kult pracy\", \"religijność\"], \"hint\": \"Zmęczenie, melancholia, koniec wieku.\"}"
@@ -26,7 +26,7 @@
     "data": {
       "term": "symbolizm",
       "definition": "Modernistyczna szkoła: poeta nie opisuje świata, lecz przywołuje go symbolami. Wyspiański w *Weselu*: Chochoł, Wernyhora, Stańczyk to nie postacie — to znaki. Czytaj między wierszami.",
-      "category": "konteksty",
+      "category": "idee",
       "forms": "[\"symbolizm\", \"symbolizmu\", \"symboliczny\", \"symboliczna\"]",
       "nodes": "[\"mloda-polska\"]",
       "quiz": "{\"question\": \"Czym był symbolizm w sztuce modernistycznej?\", \"answer\": \"Szkoła używająca symboli zamiast bezpośredniego opisu rzeczywistości. Wyspiański, Mallarmé, Verlaine.\", \"wrong\": [\"realizm\", \"naturalizm\", \"klasycyzm\"], \"hint\": \"Świat przez znaki.\"}"

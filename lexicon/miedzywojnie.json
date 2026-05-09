@@ -4,7 +4,7 @@
     "data": {
       "term": "katastrofizm",
       "definition": "Międzywojenne przeczucie katastrofy — Witkacy, Czechowicz przewidują koniec cywilizacji. Mieli rację: 1939, Auschwitz. Nastrój: idziemy nad krawędź.",
-      "category": "konteksty",
+      "category": "idee",
       "forms": "[\"katastrofizm\", \"katastrofizmu\", \"katastroficzny\"]",
       "nodes": "[\"miedzywojnie\"]",
       "quiz": "{\"question\": \"Co głosił katastrofizm międzywojenny?\", \"answer\": \"Przeczucie zbliżającej się katastrofy cywilizacji. Witkacy, Czechowicz, Miłosz. Po 1939 okazało się prorocze.\", \"wrong\": [\"optymizm\", \"wiara w postęp\", \"powrót do antyku\"], \"hint\": \"Idziemy do końca.\"}"
@@ -15,7 +15,7 @@
     "data": {
       "term": "awangarda",
       "definition": "Międzywojenne eksperymenty: futuryzm Jasieńskiego, awangarda krakowska Peipera. „Miasto, masa, maszyna\". Rwanie z formą, aby pokazać tempo XX wieku.",
-      "category": "konteksty",
+      "category": "idee",
       "forms": "[\"awangarda\", \"awangardy\", \"awangardę\", \"awangardowy\"]",
       "nodes": "[\"miedzywojnie\"]",
       "quiz": "{\"question\": \"Co cechowało awangardę międzywojenną?\", \"answer\": \"Eksperyment formalny — futuryzm, awangarda krakowska. Hasło: „miasto, masa, maszyna\\\". Rwanie z tradycją w imię nowego wieku.\", \"wrong\": [\"powrót do klasyki\", \"romantyzm\", \"realizm\"], \"hint\": \"Eksperyment, miasto, maszyna.\"}"

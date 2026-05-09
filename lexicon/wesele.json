@@ -26,7 +26,7 @@
     "data": {
       "term": "modernizm",
       "definition": "Młodopolskie zmęczenie pozytywizmem — sztuka dla sztuki, dekadentyzm, symbol. „Żaglomania\" Tetmajera, „Hymny\" Kasprowicza. Powrót poetyckiej wrażliwości.",
-      "category": "konteksty",
+      "category": "idee",
       "forms": "[\"modernizm\", \"modernizmu\", \"modernistyczny\"]",
       "nodes": "[\"mloda-polska\", \"wesele\"]",
       "quiz": "{\"question\": \"Czym charakteryzował się modernizm Młodej Polski?\", \"answer\": \"Bunt przeciw pozytywistycznemu utylitaryzmowi — kult sztuki, dekadentyzm, symbolizm, melancholia. Tetmajer, Kasprowicz, Wyspiański.\", \"wrong\": [\"pochwała pracy\", \"realizm społeczny\", \"kult Kościoła\"], \"hint\": \"Sztuka dla sztuki.\"}"

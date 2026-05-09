@@ -4,7 +4,7 @@
     "data": {
       "term": "pozytywizm filozoficzny",
       "definition": "Comte: tylko fakty, tylko nauka, tylko to co można zmierzyć. Religia i metafizyka — przeszłość. Polska wersja: praca u podstaw, scjentyzm, organicyzm społeczny.",
-      "category": "konteksty",
+      "category": "idee",
       "forms": "[\"pozytywizm filozoficzny\", \"pozytywizmu filozoficznego\"]",
       "nodes": "[\"pozytywizm\"]",
       "quiz": "{\"question\": \"Co głosił pozytywizm filozoficzny Comtea?\", \"answer\": \"Naukowy obraz świata: tylko fakty, tylko to co empiryczne, tylko to co mierzalne. Krytyka metafizyki i religii.\", \"wrong\": [\"idealizm\", \"religijność\", \"romantyzm\"], \"hint\": \"Tylko fakty, tylko nauka.\"}"
@@ -15,7 +15,7 @@
     "data": {
       "term": "praca organiczna",
       "definition": "Pozytywistyczny program: budujmy społeczeństwo jak żywy organizm — każda część (klasa, grupa) ma swoją rolę. Bez gwałtownych przewrotów, krok po kroku.",
-      "category": "konteksty",
+      "category": "idee",
       "forms": "[\"praca organiczna\", \"pracy organicznej\", \"pracą organiczną\"]",
       "nodes": "[\"pozytywizm\"]",
       "quiz": "{\"question\": \"Czym była „praca organiczna\\\" w pozytywizmie?\", \"answer\": \"Idea, że społeczeństwo to żywy organizm — każda klasa ma swoją funkcję. Rozwój wymaga ewolucji, nie rewolucji.\", \"wrong\": [\"rolnictwo\", \"praca fizyczna\", \"walka klasowa\"], \"hint\": \"Społeczeństwo = organizm.\"}"
@@ -26,7 +26,7 @@
     "data": {
       "term": "praca u podstaw",
       "definition": "Pozytywistyczne hasło: edukujmy chłopów, leczymy biednych, zakładajmy szkoły. Inteligent przestaje walczyć z bronią — pomaga zwykłym ludziom. Wokulski to próbuje.",
-      "category": "konteksty",
+      "category": "idee",
       "forms": "[\"praca u podstaw\", \"pracy u podstaw\", \"pracą u podstaw\"]",
       "nodes": "[\"pozytywizm\"]",
       "quiz": "{\"question\": \"Czym była „praca u podstaw\\\" pozytywistów?\", \"answer\": \"Edukacja i pomoc niższym warstwom społecznym — chłopom, robotnikom. Inteligent zamiast walczyć zbrojnie pomaga ludziom rosnąć.\", \"wrong\": [\"praca fizyczna\", \"praca w fundamentach domu\", \"praca naukowa\"], \"hint\": \"U podstaw = u dolnych warstw.\"}"

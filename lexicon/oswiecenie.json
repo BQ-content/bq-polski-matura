@@ -4,7 +4,7 @@
     "data": {
       "term": "klasycyzm",
       "definition": "Oświeceniowa moda na powrót do antycznych form — porządek, miary, gatunki klasyczne (oda, satyra, bajka). Przeciwieństwo barokowej przesady.",
-      "category": "konteksty",
+      "category": "idee",
       "forms": "[\"klasycyzm\", \"klasycyzmu\", \"klasyczny\", \"klasyczna\"]",
       "nodes": "[\"bajki\", \"oswiecenie\"]",
       "quiz": "{\"question\": \"Co charakteryzowało klasycyzm oświeceniowy?\", \"answer\": \"Powrót do antycznych form, porządku i umiaru. Klasyczne gatunki (oda, satyra, bajka), reguły poprawności. Krasicki, Niemcewicz.\", \"wrong\": [\"nadmiar emocji\", \"romantyczne uniesienia\", \"kult chłopa\"], \"hint\": \"Powrót do antyku, porządek.\"}"
@@ -15,7 +15,7 @@
     "data": {
       "term": "racjonalizm",
       "definition": "Rozum jako jedyna miara prawdy. Kartezjusz: „Myślę, więc jestem\". Oświecenie wierzyło, że rozumem rozwiążemy problemy społeczne, religijne, naukowe. Wiek Świateł.",
-      "category": "konteksty",
+      "category": "idee",
       "forms": "[\"racjonalizm\", \"racjonalizmu\", \"racjonalny\", \"racjonalna\"]",
       "nodes": "[\"oswiecenie\"]",
       "quiz": "{\"question\": \"Co głosił oświeceniowy racjonalizm?\", \"answer\": \"Rozum jest najwyższą wartością i miarą prawdy. Kartezjusz: „Cogito ergo sum\\\". Oświecenie zaufało rozumowi w nauce, polityce, religii.\", \"wrong\": [\"kult uczuć\", \"mistyka\", \"kult tradycji\"], \"hint\": \"Rozum przede wszystkim.\"}"

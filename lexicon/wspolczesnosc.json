@@ -4,7 +4,7 @@
     "data": {
       "term": "egzystencjalizm",
       "definition": "Powojenny ruch filozoficzny: człowiek jest skazany na wolność wyboru, sam tworzy sens. Camus, Sartre. Po Auschwitz Bóg nie wystarcza — człowiek sam musi wybrać.",
-      "category": "konteksty",
+      "category": "idee",
       "forms": "[\"egzystencjalizm\", \"egzystencjalizmu\", \"egzystencjalny\"]",
       "nodes": "[\"dzuma\", \"granica\", \"wspolczesnosc\"]",
       "quiz": "{\"question\": \"Co głosi egzystencjalizm Camusa i Sartrea?\", \"answer\": \"Człowiek skazany na wolność — sam tworzy sens życia w absurdalnym świecie. Wybór i odpowiedzialność jednostki.\", \"wrong\": [\"determinizm\", \"pochwała losu\", \"kult Boga\"], \"hint\": \"Wolność i absurd.\"}"

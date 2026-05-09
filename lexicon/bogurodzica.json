@@ -15,7 +15,7 @@
     "data": {
       "term": "teocentryzm",
       "definition": "Bóg = centrum świata. Średniowieczna wizja: wszystko ma sens przez relację do Stwórcy. Człowiek to droga do Boga, ziemia — przedsionek nieba.",
-      "category": "konteksty",
+      "category": "idee",
       "forms": "[\"teocentryzm\", \"teocentryzmu\", \"teocentryczny\"]",
       "nodes": "[\"bogurodzica\", \"renesans\", \"sredniowiecze\"]",
       "quiz": "{\"question\": \"Czym jest teocentryzm?\", \"answer\": \"Pogląd, że Bóg jest centrum świata i miarą wszelkich rzeczy. Charakterystyczny dla średniowiecza.\", \"wrong\": [\"kult człowieka\", \"racjonalizm\", \"naturalizm\"], \"hint\": \"Theos = Bóg.\"}"

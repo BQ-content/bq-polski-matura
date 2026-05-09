@@ -15,7 +15,7 @@
     "data": {
       "term": "sarmatyzm",
       "definition": "Polska szlachta wierzyła, że pochodzi od starożytnych Sarmatów — wojowniczego ludu. Strój kontuszowy, kult wolności złotej, religijność. Świetność — i izolacja od reszty Europy.",
-      "category": "konteksty",
+      "category": "idee",
       "forms": "[\"sarmatyzm\", \"sarmatyzmu\", \"sarmacki\", \"sarmacka\"]",
       "nodes": "[\"barok\"]",
       "quiz": "{\"question\": \"Co charakteryzowało sarmatyzm szlachecki?\", \"answer\": \"Mit pochodzenia od Sarmatów, kult wolności szlacheckiej, kontusz, religijność, megalomania narodowa. Specyficzna polska wersja baroku.\", \"wrong\": [\"kult antyku\", \"racjonalizm\", \"kult cesarza\"], \"hint\": \"Polska szlachta i mit sarmacki.\"}"
@@ -26,7 +26,7 @@
     "data": {
       "term": "konceptyzm",
       "definition": "Barokowa moda na intelektualne, zaskakujące koncepty — wyszukane porównania, paradoksy. „Niestatek\" Morsztyna: wirtuozerska wyliczanka „raczej…\".",
-      "category": "konteksty",
+      "category": "idee",
       "forms": "[\"konceptyzm\", \"konceptyzmu\", \"konceptystyczny\"]",
       "nodes": "[\"barok\"]",
       "quiz": "{\"question\": \"Czym był barokowy konceptyzm?\", \"answer\": \"Moda na intelektualnie wyrafinowane utwory pełne paradoksów, antytez, niezwykłych porównań. Polska — Morsztyn, włoska — Marino.\", \"wrong\": [\"prosta szczerość\", \"kult natury\", \"nawrót do antyku\"], \"hint\": \"Wyrafinowane pomysły.\"}"
@@ -48,7 +48,7 @@
     "data": {
       "term": "marinizm",
       "definition": "Włoski styl barokowy od poety Giambattisty Marino — przepych, nadmiar metafor, zmysłowość. „Ach, jak słodko cierpieć!\" — przesada uczuciowa stała się normą.",
-      "category": "konteksty",
+      "category": "idee",
       "forms": "[\"marinizm\", \"marinizmu\", \"mariński\"]",
       "nodes": "[\"barok\"]",
       "quiz": "{\"question\": \"Czym charakteryzuje się marinizm?\", \"answer\": \"Przepych, nadmiar metafor, kult zmysłowości i przesada w wyrażaniu uczuć. Włoski styl barokowy od Giambattisty Marino.\", \"wrong\": [\"prostota\", \"racjonalizm\", \"klasyczna harmonia\"], \"hint\": \"Włoski przepych poetycki.\"}"

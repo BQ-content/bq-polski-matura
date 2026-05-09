@@ -4,7 +4,7 @@
     "data": {
       "term": "humanizm",
       "definition": "Renesansowa wiara że człowiek jest miarą wszystkich rzeczy. „Człowiekiem jestem, nic co ludzkie nie jest mi obce\" — Terencjusz odgrzany przez Erazma. Centrum: człowiek, nie Bóg.",
-      "category": "konteksty",
+      "category": "idee",
       "forms": "[\"humanizm\", \"humanizmu\", \"humanistyczny\", \"humanistyczna\"]",
       "nodes": "[\"renesans\"]",
       "quiz": "{\"question\": \"Co głosił renesansowy humanizm?\", \"answer\": \"Człowiek jest miarą wszystkich rzeczy — godność i wolność jednostki. Powrót do antyku, krytyka średniowiecznej teocentryczności.\", \"wrong\": [\"kult Boga\", \"walka z Kościołem\", \"idealizm\"], \"hint\": \"Człowiek w centrum.\"}"
@@ -15,7 +15,7 @@
     "data": {
       "term": "antropocentryzm",
       "definition": "Człowiek = centrum świata (anthropos = człowiek + kentron = środek). W renesansie przeciwieństwo średniowiecznej teocentryczności (Bóg w centrum).",
-      "category": "konteksty",
+      "category": "idee",
       "forms": "[\"antropocentryzm\", \"antropocentryzmu\", \"antropocentryczny\"]",
       "nodes": "[\"renesans\"]",
       "quiz": "{\"question\": \"Antropocentryzm to:\", \"answer\": \"Pogląd, że człowiek jest centrum świata. Charakterystyczny dla renesansu, przeciwstawia się teocentryczności średniowiecza.\", \"wrong\": [\"kult zwierząt\", \"wiara w Boga\", \"racjonalizm\"], \"hint\": \"Anthropos = człowiek.\"}"
@@ -26,7 +26,7 @@
     "data": {
       "term": "ad fontes",
       "definition": "Renesansowe „wracajmy do źródeł\" — czytajmy Platona, Cycerona, Biblię w oryginale, nie przez średniowieczne komentarze. Erazm tłumaczy Nowy Testament z greki.",
-      "category": "konteksty",
+      "category": "idee",
       "forms": "[\"ad fontes\"]",
       "nodes": "[\"renesans\"]",
       "quiz": "{\"question\": \"Co znaczy renesansowe hasło „ad fontes\\\"?\", \"answer\": \"„Do źródeł\\\" — powrót do oryginalnych tekstów antycznych i biblijnych, omijając średniowieczne komentarze. Erazm, Petrarka.\", \"wrong\": [\"naprzód!\", \"pokój ludziom\", \"wszystko płynie\"], \"hint\": \"Łacina: do źródeł.\"}"
@@ -37,7 +37,7 @@
     "data": {
       "term": "teocentryzm",
       "definition": "Bóg = centrum świata. Średniowieczna wizja: wszystko ma sens przez relację do Stwórcy. Człowiek to droga do Boga, ziemia — przedsionek nieba.",
-      "category": "konteksty",
+      "category": "idee",
       "forms": "[\"teocentryzm\", \"teocentryzmu\", \"teocentryczny\"]",
       "nodes": "[\"bogurodzica\", \"renesans\", \"sredniowiecze\"]",
       "quiz": "{\"question\": \"Czym jest teocentryzm?\", \"answer\": \"Pogląd, że Bóg jest centrum świata i miarą wszelkich rzeczy. Charakterystyczny dla średniowiecza.\", \"wrong\": [\"kult człowieka\", \"racjonalizm\", \"naturalizm\"], \"hint\": \"Theos = Bóg.\"}"
