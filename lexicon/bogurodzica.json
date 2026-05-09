@@ -1,22 +1,51 @@
 [
   {
-    "type": "lexicon",
+    "type": "term",
     "data": {
-      "term": "teocentryzm",
-      "nodes": "[\"bogurodzica\",\"sredniowiecze\",\"renesans\"]",
-      "definition": "Bóg w centrum wszystkiego — człowiek ma wartość tylko jako stworzenie Boże.",
-      "quiz": "{\"question\":\"W *Bogurodzicy* człowiek prosi Boga przez pośredników. Jaka wizja świata za tym stoi?\",\"wrong\":[\"antropocentryzm\",\"humanizm\",\"racjonalizm\"],\"answer\":\"Teocentryzm — światopogląd, w którym Bóg jest centrum i miarą wszystkiego.\"}",
-      "category": "epoki"
+      "term": "hierarchia pośredników",
+      "forms": [
+        "hierarchii pośredników",
+        "hierarchią pośredników"
+      ],
+      "nodes": "[\"bogurodzica\"]",
+      "definition": "W Bogurodzicy modlisz się do Maryi, bo do Boga nie zwracasz się wprost.",
+      "quiz": {
+        "question": "W Bogurodzicy prośba biegnie od wiernych do Maryi, od Maryi do Chrystusa. Jaka struktura to obrazuje?",
+        "hint": "Modlitwa przez pośredników — wierny nie zwraca się wprost do Boga.",
+        "wrong": [
+          "teocentryzm",
+          "docere et movere",
+          "wzorce osobowe",
+          "teodyce"
+        ],
+        "answer": "Hierarchia pośredników to średniowieczna struktura modlitwy: wierny → Maryja → Chrystus → Bóg. W Bogurodzicy prośba przechodzi przez kolejne szczeble. Odzwierciedla feudalną hierarchię — do króla też nie szedłeś wprost."
+      },
+      "content": null
     }
   },
   {
-    "type": "lexicon",
+    "type": "term",
     "data": {
-      "term": "hierarchia pośredników",
-      "nodes": "[\"bogurodzica\",\"sredniowiecze\"]",
-      "definition": "Nie mówisz wprost do Boga — prosisz Maryję, Maryja prosi Chrystusa.",
-      "quiz": "{\"question\":\"W *Bogurodzicy* modlitwa idzie: człowiek → Maryja → Jan Chrzciciel → Chrystus. Jaka średniowieczna zasada?\",\"wrong\":[\"teocentryzm\",\"scholastyka\",\"feudalizm\"],\"answer\":\"Hierarchia pośredników — zasada, że człowiek zwraca się do Boga przez świętych, nie bezpośrednio.\"}",
-      "category": "epoki"
+      "term": "teocentryzm",
+      "forms": [
+        "teocentryzmu",
+        "teocentryzmem",
+        "teocentryczny"
+      ],
+      "nodes": "[\"bogurodzica\", \"renesans\", \"sredniowiecze\"]",
+      "definition": "Bóg w centrum wszystkiego — średniowiecze kręciło się wokół wiary.",
+      "quiz": {
+        "question": "W średniowieczu Bóg był miarą wszystkich rzeczy, a sztuka służyła wierze. Jakim terminem to określamy?",
+        "hint": "Światopogląd z Bogiem w centrum — wszystko służy wierze.",
+        "wrong": [
+          "antropocentryzm",
+          "humanizm",
+          "scholastyka",
+          "racjonalizm"
+        ],
+        "answer": "Teocentryzm to światopogląd stawiający Boga w centrum wszystkiego. Sztuka, nauka, życie codzienne — wszystko podporządkowane wierze. Bogurodzica to doskonały przykład: modlitwa do Maryi jako pośredniczki. Przeciwieństwo renesansowego antropocentryzmu."
+      },
+      "content": null
     }
   },
   {

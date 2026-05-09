@@ -1,12 +1,52 @@
 [
   {
-    "type": "lexicon",
+    "type": "term",
+    "data": {
+      "term": "teocentryzm",
+      "forms": [
+        "teocentryzmu",
+        "teocentryzmem",
+        "teocentryczny"
+      ],
+      "nodes": "[\"bogurodzica\", \"renesans\", \"sredniowiecze\"]",
+      "definition": "Bóg w centrum wszystkiego — średniowiecze kręciło się wokół wiary.",
+      "quiz": {
+        "question": "W średniowieczu Bóg był miarą wszystkich rzeczy, a sztuka służyła wierze. Jakim terminem to określamy?",
+        "hint": "Światopogląd z Bogiem w centrum — wszystko służy wierze.",
+        "wrong": [
+          "antropocentryzm",
+          "humanizm",
+          "scholastyka",
+          "racjonalizm"
+        ],
+        "answer": "Teocentryzm to światopogląd stawiający Boga w centrum wszystkiego. Sztuka, nauka, życie codzienne — wszystko podporządkowane wierze. Bogurodzica to doskonały przykład: modlitwa do Maryi jako pośredniczki. Przeciwieństwo renesansowego antropocentryzmu."
+      },
+      "content": null
+    }
+  },
+  {
+    "type": "term",
     "data": {
       "term": "wzorce osobowe",
+      "forms": [
+        "wzorców osobowych",
+        "wzorcami osobowymi",
+        "wzorzec osobowy"
+      ],
       "nodes": "[\"sredniowiecze\"]",
-      "definition": "Trzy drogi do Boga: święty, rycerz, władca.",
-      "quiz": "{\"question\":\"Św. Aleksy, Roland, Chrobry — każdy to inna droga do zbawienia. Jak nazywamy te modele?\",\"wrong\":[\"archetypy\",\"toposy\",\"alegorie\"],\"answer\":\"Wzorce osobowe — idealne modele postaw propagowane w literaturze średniowiecznej.\"}",
-      "category": "epoki"
+      "definition": "3 średniowieczne ideały: święty, rycerz i władca. Każdy prowadził do Boga.",
+      "quiz": {
+        "question": "Średniowiecze stawiało za przykład świętego, rycerza i władcę. Jakim terminem nazywamy te ideały?",
+        "hint": "Trzy średniowieczne ideały do naśladowania: święty, rycerz, władca.",
+        "wrong": [
+          "teocentryzm",
+          "kalokagathia",
+          "archetyp",
+          "arete"
+        ],
+        "answer": "Wzorce osobowe średniowiecza to trzy ideały: święty (np. św. Franciszek), rycerz (np. Roland) i władca (np. Karol Wielki). Każdy prowadził do Boga inną drogą — przez modlitwę, walkę lub sprawiedliwe rządy."
+      },
+      "content": null
     }
   },
   {
@@ -16,26 +56,6 @@
       "nodes": "[\"sredniowiecze\"]",
       "definition": "Wyrzeka się świata dla Boga — św. Aleksy spał pod schodami własnego domu.",
       "quiz": "{\"question\":\"Św. Aleksy porzucił bogactwo i żył w skrajnej nędzy dla Boga. Jaki średniowieczny wzorzec realizuje?\",\"wrong\":[\"rycerz\",\"władca\",\"wieszcz\"],\"answer\":\"Asceta — człowiek wyrzekający się dóbr doczesnych w imię życia duchowego.\"}",
-      "category": "epoki"
-    }
-  },
-  {
-    "type": "lexicon",
-    "data": {
-      "term": "etos rycerski",
-      "nodes": "[\"sredniowiecze\",\"bogurodzica\"]",
-      "definition": "Honor, wierność, walka w imię Boga — Roland ginie, ale nie zdradza.",
-      "quiz": "{\"question\":\"Roland ginie, ale nie trąbi o pomoc — honor ponad życie. Jaki kodeks wartości reprezentuje?\",\"wrong\":[\"sarmatyzm\",\"stoicyzm\",\"prometeizm\"],\"answer\":\"Etos rycerski — średniowieczny kodeks honorowy: odwaga, wierność, walka za wiarę.\"}",
-      "category": "epoki"
-    }
-  },
-  {
-    "type": "lexicon",
-    "data": {
-      "term": "danse macabre",
-      "nodes": "[\"sredniowiecze\",\"barok\"]",
-      "definition": "Taniec śmierci — król i żebrak tańczą razem, bo śmierć równa wszystkich.",
-      "quiz": "{\"question\":\"Śmierć prowadzi do tańca i króla, i żebraka. Jaki średniowieczny motyw to wyraża?\",\"wrong\":[\"vanitas\",\"memento mori\",\"fatum\"],\"answer\":\"Danse macabre — taniec śmierci, motyw równości wobec śmierci niezależnie od stanu.\"}",
       "category": "epoki"
     }
   }

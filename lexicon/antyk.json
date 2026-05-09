@@ -1,62 +1,129 @@
 [
   {
-    "type": "lexicon",
+    "type": "term",
     "data": {
       "term": "ironia tragiczna",
-      "nodes": "[\"antyk\",\"antygona\"]",
+      "forms": [
+        "ironii tragicznej",
+        "ironią tragiczną",
+        "ironię tragiczną"
+      ],
+      "nodes": "[\"antyk\"]",
       "definition": "Widz wie więcej niż bohater — Edyp szuka mordercy, a to on sam.",
-      "quiz": "{\"question\":\"Widz wie, że Edyp zabił ojca — bohater nie wie. Jak nazywamy tę sytuację dramatyczną?\",\"wrong\":[\"katharsis\",\"konflikt tragiczny\",\"hamartia\"],\"answer\":\"Ironia tragiczna — widz zna prawdę, której bohater nie zna. Buduje napięcie i litość.\"}",
-      "category": "poetyka"
+      "quiz": {
+        "question": "Widz wie, że Edyp zabił ojca — bohater nie wie. Jak nazywamy tę sytuację dramatyczną?",
+        "hint": "Widz zna prawdę, bohater nie — ta rozbieżność napędza dramat.",
+        "wrong": [
+          "hamartia",
+          "katharsis",
+          "hybris",
+          "fatum"
+        ],
+        "answer": "Ironia tragiczna to sytuacja, gdy widz wie więcej niż bohater — np. Edyp szuka mordercy ojca, nie wiedząc, że to on sam. Ten zabieg potęguje napięcie i litość widza. Na maturze pojawia się przy Antygonie i Królu Edypie."
+      },
+      "content": null
     }
   },
   {
-    "type": "lexicon",
-    "data": {
-      "term": "katharsis",
-      "nodes": "[\"antyk\",\"antygona\"]",
-      "definition": "Oczyszczenie przez litość i trwogę — po to chodzisz do teatru.",
-      "quiz": "{\"question\":\"Arystoteles opisał emocjonalne oczyszczenie widza tragedii. Jakim terminem?\",\"wrong\":[\"hamartia\",\"hybris\",\"fatum\"],\"answer\":\"Katharsis — widz przeżywa litość i trwogę, co prowadzi do emocjonalnego oczyszczenia.\"}",
-      "category": "poetyka"
-    }
-  },
-  {
-    "type": "lexicon",
-    "data": {
-      "term": "kalokagathia",
-      "nodes": "[\"antyk\"]",
-      "definition": "Piękne ciało + piękna dusza = pełnia człowieczeństwa.",
-      "quiz": "{\"question\":\"Jak nazywa się antyczny ideał jedności piękna fizycznego i duchowego?\",\"wrong\":[\"arete\",\"humanizm\",\"antropocentryzm\"],\"answer\":\"Kalokagathia — ideał harmonii ciała i ducha, fundament greckiego wychowania.\"}",
-      "category": "poetyka"
-    }
-  },
-  {
-    "type": "lexicon",
-    "data": {
-      "term": "arete",
-      "nodes": "[\"antyk\"]",
-      "definition": "Bądź najlepszy — w walce, mowie, myśleniu.",
-      "quiz": "{\"question\":\"Jakim terminem Grecy określali dążenie do doskonałości we wszystkim?\",\"wrong\":[\"kalokagathia\",\"fatum\",\"katharsis\"],\"answer\":\"Arete — cnota jako dążenie do bycia najlepszym w każdej dziedzinie.\"}",
-      "category": "poetyka"
-    }
-  },
-  {
-    "type": "lexicon",
+    "type": "term",
     "data": {
       "term": "epos",
-      "nodes": "[\"antyk\",\"iliada\"]",
-      "definition": "Wielka opowieść wierszem o bohaterach i bogach — Homer to wymyślił.",
-      "quiz": "{\"question\":\"Homer stworzył matrycę gatunku: inwokacja, narrator wszechwidzący, stały epitet. Jaki to gatunek?\",\"wrong\":[\"tragedia\",\"oda\",\"ballada\"],\"answer\":\"Epos — rozbudowany utwór epicki o czynach bohaterów, z inwokacją i narratorem wszechwidzącym.\"}",
-      "category": "poetyka"
+      "forms": [
+        "eposu",
+        "eposem",
+        "epopeja",
+        "epopei"
+      ],
+      "nodes": "[\"antyk\", \"iliada\"]",
+      "definition": "Długi poemat o wielkich bohaterach i bitwach — Homer wymyślił reguły.",
+      "quiz": {
+        "question": "Homer napisał obszerny poemat o bohaterach i bogach, z inwokacją i stałymi epitetami. Jaki to gatunek?",
+        "hint": "Wielki poemat wierszem o bohaterach, bitwach i losach narodu.",
+        "wrong": [
+          "tragedia",
+          "ballada",
+          "sonet",
+          "oda"
+        ],
+        "answer": "Epos to rozbudowany poemat epicki o bohaterach i ich czynach. Homer ustalił konwencje: inwokacja, in medias res, narrator wszechwiedzący, stałe epitety. Mickiewicz w Panu Tadeuszu napisał ostatni wielki epos europejski."
+      },
+      "content": [
+        "## Każdy naród potrzebuje historii o sobie\n\nGrecy mieli *Iliadę*. Rzymianie *Eneidę*. Polacy — *Pana Tadeusza*. **Epos** to wielka opowieść wierszem: \"Oto kim jesteśmy jako wspólnota\".\n\nBohaterowie walczą i umierają, ale prawdziwy temat to **tożsamość narodu**.",
+        "## Zasady eposu — złam je i to nie epos\n\n- **Inwokacja** — wezwanie muzy. \"Litwo! Ojczyzno moja!\"\n- **In medias res** — start w środku akcji\n- **Narrator wszechwiedzący** — zna myśli bohaterów\n- **Stały epitet** — Achilles \"szybkonogi\"\n- **Porównanie homeryckie** — rozbudowane, wielopoziomowe",
+        "## Ostatni epos Europy — i najbardziej dziwny\n\nMickiewicz pisał *Pana Tadeusza* w Paryżu, tęskniąc za światem, który zniknął. Zachował **inwokację**, opisy przyrody, uczty — ale nasycił je **nostalgią emigranta**.\n\nHomer opiewał wojnę. Mickiewicz opiewa codzienność — bo wie, że jest cenniejsza."
+      ]
     }
   },
   {
-    "type": "lexicon",
+    "type": "term",
     "data": {
-      "term": "tragedia",
-      "nodes": "[\"antyk\",\"antygona\"]",
-      "definition": "Gatunek, w którym bohater musi przegrać — bo świat nie ma dobrego wyjścia.",
-      "quiz": "{\"question\":\"Gatunek wymysłony przez Greków, w którym bohater popada w nieuchronną klęskę. Jaki?\",\"wrong\":[\"epos\",\"komedia\",\"ballada\"],\"answer\":\"Tragedia — bohater staje wobec konfliktu bez dobrego rozwiązania, kończy klęską.\"}",
-      "category": "poetyka"
+      "term": "kalokagathia",
+      "forms": [
+        "kalokagathii",
+        "kalokagathią"
+      ],
+      "nodes": "[\"antyk\"]",
+      "definition": "Grecki ideał: piękne ciało + szlachetna dusza = pełny człowiek.",
+      "quiz": {
+        "question": "Grecy wierzyli, że piękno ciała i szlachetność duszy muszą iść w parze. Jakim terminem to określali?",
+        "hint": "Grecki ideał harmonii piękna fizycznego i moralnego.",
+        "wrong": [
+          "arete",
+          "katharsis",
+          "hybris",
+          "antropocentryzm"
+        ],
+        "answer": "Kalokagathia to grecki ideał łączący piękno fizyczne (kalos) z dobrem moralnym (kagathos). Pełny człowiek musi być piękny i szlachetny jednocześnie. Ten ideał wraca w renesansie jako wzorzec człowieka wszechstronnego."
+      },
+      "content": null
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "arete",
+      "forms": [
+        "aretę"
+      ],
+      "nodes": "[\"antyk\"]",
+      "definition": "Grecka cnota — bycie najlepszym w tym, co robisz: w walce, mowie, myśli.",
+      "quiz": {
+        "question": "Achilles dążył do doskonałości w walce, Odys — w sprycie. Jakim greckim pojęciem określamy tę cnotę?",
+        "hint": "Grecka cnota — dążenie do doskonałości w swoim działaniu.",
+        "wrong": [
+          "kalokagathia",
+          "hybris",
+          "fatum",
+          "katharsis"
+        ],
+        "answer": "Arete to grecka cnota oznaczająca dążenie do doskonałości — Achilles w walce, Odys w sprycie, Hektor w honorze. Każdy bohater Iliady realizuje arete na swój sposób. To fundament greckiego systemu wartości."
+      },
+      "content": null
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "fatum",
+      "forms": [
+        "fata",
+        "fatalizm",
+        "fatalny"
+      ],
+      "nodes": "[\"antyk\", \"iliada\"]",
+      "definition": "Los wyznaczony przez bogów, którego nie da się uniknąć. Napędza tragedie.",
+      "quiz": {
+        "question": "Achilles wie, że zginie pod Troją, ale i tak walczy. Co nim rządzi?",
+        "hint": "Nieuchronny los wyznaczony przez bogów — nie da się go uniknąć.",
+        "wrong": [
+          "hybris",
+          "hamartia",
+          "arete",
+          "katharsis"
+        ],
+        "answer": "Fatum to przeznaczenie, los wyznaczony przez siły wyższe, którego nie można uniknąć. Achilles wie, że zginie pod Troją — i walczy mimo to. Edyp ucieka od przepowiedni — i wpada prosto w nią. Fatum napędza tragedie greckie."
+      },
+      "content": null
     }
   }
 ]

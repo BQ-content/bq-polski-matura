@@ -1,22 +1,108 @@
 [
   {
-    "type": "lexicon",
+    "type": "term",
+    "data": {
+      "term": "praca organiczna",
+      "forms": [
+        "pracy organicznej",
+        "pracą organiczną"
+      ],
+      "nodes": "[\"pozytywizm\"]",
+      "definition": "Program pozytywistów: rozwijaj przemysł i handel, bo społeczeństwo to organizm.",
+      "quiz": {
+        "question": "Pozytywiści porównywali społeczeństwo do organizmu i chcieli rozwijać przemysł zamiast walczyć. Jaki program?",
+        "hint": "Program pozytywistów — rozwój przemysłu i handlu zamiast powstań.",
+        "wrong": [
+          "praca u podstaw",
+          "pozytywizm filozoficzny",
+          "utylitaryzm",
+          "empiryzm"
+        ],
+        "answer": "Praca organiczna to program pozytywistów porównujący społeczeństwo do organizmu — każda warstwa ma swoją funkcję, trzeba je rozwijać równomiernie. Zamiast powstań — buduj fabryki, zakłady, handel. Wokulski w Lalce próbuje to realizować."
+      },
+      "content": null
+    }
+  },
+  {
+    "type": "term",
     "data": {
       "term": "praca u podstaw",
+      "forms": [
+        "pracy u podstaw",
+        "pracą u podstaw"
+      ],
       "nodes": "[\"pozytywizm\"]",
-      "definition": "Ucz chłopów czytać, buduj szkoły — rewolucja przez edukację.",
-      "quiz": "{\"question\":\"Pozytyści chcieli podnieść najuboższych: szkoły, szpitale, walka z analfabetyzmem. Jaki to program?\",\"wrong\":[\"praca organiczna\",\"mesjanizm\",\"humanizm\"],\"answer\":\"Praca u podstaw — program edukacji i pomocy najuboższym warstwom społeczeństwa.\"}",
-      "category": "epoki"
+      "definition": "Program pozytywistów: ucz najuboższych, buduj szkoły zamiast walczyć zbrojnie.",
+      "quiz": {
+        "question": "Pozytywiści postulowali szerzenie oświaty wśród najuboższych zamiast powstań zbrojnych. Jaki program?",
+        "hint": "Program pozytywistów — oświata i szkoły dla najuboższych.",
+        "wrong": [
+          "praca organiczna",
+          "pozytywizm filozoficzny",
+          "utylitaryzm",
+          "reformacja"
+        ],
+        "answer": "Praca u podstaw to program pozytywistów zakładający edukację najuboższych warstw społeczeństwa. Szkoły, czytelnie, kółka rolnicze zamiast walki zbrojnej. Orzeszkowa w Nad Niemnem pokazuje realizację tego ideału na wsi."
+      },
+      "content": null
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "pozytywizm filozoficzny",
+      "forms": [
+        "pozytywizmu filozoficznego",
+        "pozytywizmem filozoficznym"
+      ],
+      "nodes": "[\"pozytywizm\"]",
+      "definition": "Comte: liczy się tylko wiedza naukowa oparta na faktach i obserwacji.",
+      "quiz": {
+        "question": "Comte twierdził, że wartościowa jest wyłącznie wiedza oparta na faktach i obserwacji. Jaki to nurt?",
+        "hint": "Nurt filozoficzny Comte'a — tylko wiedza naukowa oparta na faktach.",
+        "wrong": [
+          "empiryzm",
+          "racjonalizm",
+          "utylitaryzm",
+          "scholastyka"
+        ],
+        "answer": "Pozytywizm filozoficzny to nurt Augusta Comte'a — wartościowa jest tylko wiedza naukowa, oparta na faktach i obserwacji. Odrzuca metafizykę i spekulacje. Fundament ideologiczny polskiego pozytywizmu literackiego."
+      },
+      "content": null
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "powieść realistyczna",
+      "forms": [
+        "powieści realistycznej",
+        "powieścią realistyczną"
+      ],
+      "nodes": "[\"lalka\", \"pozytywizm\"]",
+      "definition": "Lustro społeczeństwa — szczegółowe opisy, psychologia, narrator wie wszystko.",
+      "quiz": {
+        "question": "Narrator wszechwiedzący, szczegółowe opisy środowiska, psychologia postaci — jak nazywamy taki typ powieści?",
+        "hint": "Typ powieści z narratorem wszechwiedzącym i szczegółowym opisem społeczeństwa.",
+        "wrong": [
+          "powieść historyczna",
+          "powieść tendencyjna",
+          "powieść psychologiczna",
+          "powieść epistolarna"
+        ],
+        "answer": "Powieść realistyczna to dominujący gatunek pozytywizmu: narrator wszechwiedzący, szczegółowe opisy, pogłębiona psychologia, tło społeczne. Lalka Prusa to arcydzieło gatunku — Warszawa jak pod mikroskopem, Wokulski pełen sprzeczności."
+      },
+      "content": null
     }
   },
   {
     "type": "lexicon",
     "data": {
-      "term": "pozytywizm filozoficzny",
+      "term": "idealista",
       "nodes": "[\"pozytywizm\"]",
-      "definition": "Liczy się to, co zbadasz naukowo — Comte: wiedza, empiria, fakty.",
-      "quiz": "{\"question\":\"Comte twierdzi: liczy się nauka i empiria, zero mistyki. Jaki nurt filozoficzny za tym stoi?\",\"wrong\":[\"racjonalizm\",\"egzystencjalizm\",\"humanizm\"],\"answer\":\"Pozytywizm filozoficzny — nurt uznający wiedzę naukową za jedyne źródło prawdy.\"}",
-      "category": "konteksty"
+      "definition": "Wokulski, Rzecki, Ochocki — trzy pokolenia marzyci, każde przegrywa inaczej.",
+      "quiz": "{\"question\":\"Wokulski ma energię, Rzecki żyje przeszłością, Ochocki ucieka w naukę. Jaki typ bohatera łączy ich wszystkich?\",\"wrong\":[\"pozytywista\",\"romantyk\",\"realista\"],\"answer\":\"Idealista — bohater kierujący się ideałami, które rozbijają się o rzeczywistość.\"}",
+      "category": "poetyka"
     }
   }
 ]

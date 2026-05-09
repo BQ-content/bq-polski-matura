@@ -1,12 +1,76 @@
 [
   {
-    "type": "lexicon",
+    "type": "term",
     "data": {
-      "term": "Wielka Improwizacja",
-      "nodes": "[\"dziady3\"]",
-      "definition": "Konrad w celi krzyczy na Boga — monolog-bunt, serce *Dziadów cz. III*.",
-      "quiz": "{\"question\":\"Konrad w celi wileńskiego więzienia wygłasza monolog-bunt wobec Boga. Jak nazywamy tę scenę?\",\"wrong\":[\"Wielka Emigracja\",\"Wielka Pokuta\",\"Wielki Monolog\"],\"answer\":\"Wielka Improwizacja — centralny monolog *Dziadów cz. III*, w którym Konrad żąda władzy od Boga.\"}",
-      "category": "lektury"
+      "term": "prometeizm",
+      "forms": [
+        "prometeizmu",
+        "prometeizmem",
+        "prometejski"
+      ],
+      "nodes": "[\"dziady3\", \"romantyzm\"]",
+      "definition": "Bunt jednostki przeciw Bogu w imię ludzi — jak Konrad w Dziadach.",
+      "quiz": {
+        "question": "Konrad w Dziadach buntuje się przeciw Bogu, żądając władzy dla dobra narodu. Jaką postawę reprezentuje?",
+        "hint": "Bunt jednostki przeciw Bogu w imię dobra ludzkości.",
+        "wrong": [
+          "mesjanizm",
+          "egzystencjalizm",
+          "stoicyzm",
+          "dekadentyzm"
+        ],
+        "answer": "Prometeizm to postawa buntu jednostki przeciw Bogu w imię dobra ludzi — jak Prometeusz, który ukradł ogień bogom. Konrad w Wielkiej Improwizacji żąda od Boga władzy nad duszami, by zbawić naród. Postawa heroiczna, ale skazana na klęskę."
+      },
+      "content": null
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "hybris",
+      "forms": [
+        "hybris"
+      ],
+      "nodes": "[\"antygona\", \"dziady3\"]",
+      "definition": "Pycha bohatera, który myśli, że jest nieomylny — i przez to traci wszystko.",
+      "quiz": {
+        "question": "Kreon uważa się za nieomylnego władcę i nie słucha ostrzeżeń — przez co traci rodzinę. Jaka to wina?",
+        "hint": "Pycha wobec bogów lub losu — bohater myśli, że jest ponad reguły.",
+        "wrong": [
+          "hamartia",
+          "fatum",
+          "ironia tragiczna",
+          "katharsis"
+        ],
+        "answer": "Hybris to pycha wobec bogów lub porządku świata. Kreon nie słucha syna, wieszczka ani chóru — traci syna i żonę. Makbet po pierwszym morderstwie wierzy w swoją nietykalność. Na maturze hybris pojawia się przy Antygonie i Makbecie."
+      },
+      "content": null
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "mesjanizm",
+      "forms": [
+        "mesjanizmu",
+        "mesjanizmem",
+        "mesjanistyczny",
+        "mesjański"
+      ],
+      "nodes": "[\"dziady3\", \"romantyzm\"]",
+      "definition": "Polska cierpi jak Chrystus za inne narody i kiedyś je wyzwoli.",
+      "quiz": {
+        "question": "Polska jako Chrystus narodów — cierpi, by inne ludy mogły zmartwychwstać. Jaka to idea?",
+        "hint": "Polska jako Chrystus — cierpienie narodu ma sens zbawczy.",
+        "wrong": [
+          "prometeizm",
+          "egzystencjalizm",
+          "stoicyzm",
+          "patriotyzm"
+        ],
+        "answer": "Mesjanizm to przekonanie, że cierpienie narodu ma sens zbawczy — Polska przez rozbiory odkupia winy Europy. Mickiewicz w Widzeniu ks. Piotra: Polska jak Chrystus — ukrzyżowana, ale zmartwychwstanie. Centralna idea Dziadów cz. III."
+      },
+      "content": null
     }
   }
 ]

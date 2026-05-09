@@ -1,32 +1,79 @@
 [
   {
-    "type": "lexicon",
+    "type": "term",
     "data": {
       "term": "degeneracja moralna",
+      "forms": [
+        "degeneracji moralnej",
+        "degeneracją moralną"
+      ],
       "nodes": "[\"makbet\"]",
-      "definition": "Przyzwoity człowiek krok po kroku staje się potworem.",
-      "quiz": "{\"question\":\"Makbet: od szanowanego wodza do nihilisty-mordercy. Jak nazywamy ten proces?\",\"wrong\":[\"hamartia\",\"hybris\",\"katharsis\"],\"answer\":\"Degeneracja moralna — stopniowy rozpad systemu wartości bohatera pod wpływem zbrodni.\"}",
-      "category": "poetyka"
+      "definition": "Bohater powoli upada: Makbet od wahania, przez mord, do pełnego nihilizmu.",
+      "quiz": {
+        "question": "Makbet stopniowo zmienia się z wahającego rycerza w bezwzględnego tyrana. Jak nazywamy ten proces?",
+        "hint": "Stopniowy upadek moralny bohatera — od wahania do nihilizmu.",
+        "wrong": [
+          "hybris",
+          "hamartia",
+          "fatum",
+          "tragedia"
+        ],
+        "answer": "Degeneracja moralna to stopniowy upadek etyczny bohatera. Makbet przechodzi od wahania przez pierwsze morderstwo po całkowity nihilizm (\"life is a tale told by an idiot\"). Szekspir pokazuje, jak jedno złe działanie uruchamia lawinę."
+      },
+      "content": null
     }
   },
   {
-    "type": "lexicon",
+    "type": "term",
     "data": {
-      "term": "symbolika krwi",
+      "term": "Lady Makbet",
+      "forms": [
+        "Lady Makbet"
+      ],
       "nodes": "[\"makbet\"]",
-      "definition": "Krew = wina. Lady Makbet myje ręce z niewidzialnej plamy — sumienie nie odpuszcza.",
-      "quiz": "{\"question\":\"Lady Makbet lunatykuje i myje ręce z niewidzialnej plamy. Co symbolizuje krew w *Makbecie*?\",\"wrong\":[\"władzę\",\"zemstę\",\"losu\"],\"answer\":\"Symbolika krwi — krew symbolizuje winę, której nie da się zmyć ani odwrócić.\"}",
-      "category": "poetyka"
+      "definition": "Pcha męża do zbrodni, potem łamie się z winy — słynne mycie rąk we śnie.",
+      "quiz": {
+        "question": "Żona namawia go do królobójstwa, a potem myje ręce we śnie, dręczona wyrzutami. Która to postać?",
+        "hint": "Żona Makbeta — pcha do zbrodni, potem myje ręce we śnie.",
+        "wrong": [
+          "Antygona",
+          "Ofelia",
+          "Izolda",
+          "Kleopatra"
+        ],
+        "answer": "Lady Makbet to żona tytułowego bohatera — namawia go do zabójstwa króla Dunkana, ale potem łamie się pod ciężarem winy. Słynna scena mycia rąk we śnie: nie może zmyć niewidzialnej krwi. Symbol wyrzutów sumienia."
+      },
+      "content": null
     }
   },
   {
-    "type": "lexicon",
+    "type": "term",
     "data": {
-      "term": "ambicja",
-      "nodes": "[\"makbet\",\"antygona\"]",
-      "definition": "Zło nie potrzebuje potworów — potrzebuje ambicji bez hamulców.",
-      "quiz": "{\"question\":\"Makbet nie jest z natury zły — przepowiednia i żona uruchamiają w nim siłę, która niszczy. Jaką?\",\"wrong\":[\"hybris\",\"fatum\",\"hamartia\"],\"answer\":\"Ambicja — pragnienie władzy, które bez moralnych hamulców prowadzi do zbrodni.\"}",
-      "category": "poetyka"
+      "term": "tragedia",
+      "forms": [
+        "tragedii",
+        "tragedię",
+        "tragiczny",
+        "tragiczna"
+      ],
+      "nodes": "[\"makbet\"]",
+      "definition": "Sztuka o upadku bohatera — kończy się źle, widz płacze i czuje ulgę.",
+      "quiz": {
+        "question": "Sofokles pisał sztuki, w których szlachetny bohater upada — widz przeżywa litość i trwogę. Jaki to gatunek?",
+        "hint": "Gatunek dramatyczny o upadku szlachetnego bohatera, kończy się katastrofą.",
+        "wrong": [
+          "epos",
+          "komedia",
+          "ballada",
+          "dramat"
+        ],
+        "answer": "Tragedia to gatunek dramatyczny, w którym bohater o wysokim statusie popada w nieszczęście przez hamartię. Cel: katharsis — oczyszczenie emocji widza. Arystoteles opisał reguły w Poetyce. Sofokles, Szekspir — wszyscy stosowali ten wzorzec."
+      },
+      "content": [
+        "## 15 000 ludzi płacze i wychodzi lepszych?\n\nAteny, V w. p.n.e. Tłum na kamiennych ławach. Aktor w masce mówi coś strasznego. Widzowie płaczą. I wychodzą oczyszczeni.\n\n**Arystoteles** nazwał to **katharsis**. Tragedia budzi **litość** i **trwogę**. Przeżywasz horror w bezpiecznych warunkach — i wychodzisz wolny.",
+        "## Trzy reguły, zero dygresji\n\nKlasyczna tragedia grecka = **trzy jedności**:\n- **Czasu** — maks 24h\n- **Miejsca** — jedna lokalizacja\n- **Akcji** — jeden wątek\n\nTo nie kaprys. Chodzi o **intensywność**. Jeden dzień. Jedno miejsce. Jeden problem. Pełna moc.",
+        "## Szlachetny i mądry — a jednak skazany\n\nBohater tragiczny nie jest zły. Ma **hamartię** — błąd z ludzkiej ślepoty. Edyp szuka mordercy, nie wiedząc, że to on.\n\n**Hybris** — pycha wobec losu. **Konflikt tragiczny** — dwie równe racje, każdy wybór = katastrofa. **Ironia tragiczna** — widz wie więcej niż bohater."
+      ]
     }
   }
 ]

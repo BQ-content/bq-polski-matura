@@ -1,32 +1,97 @@
 [
   {
-    "type": "lexicon",
-    "data": {
-      "term": "konflikt tragiczny",
-      "nodes": "[\"antygona\",\"antyk\"]",
-      "definition": "Dwie racje, obie słuszne — żadne wyjście nie jest dobre.",
-      "quiz": "{\"question\":\"W *Antygonie* prawo boskie zderza się z prawem państwowym. Jak nazywamy taką sytuację?\",\"wrong\":[\"ironia tragiczna\",\"hamartia\",\"katharsis\"],\"answer\":\"Konflikt tragiczny — zderzenie dwóch równorzędnych racji, bez możliwości rozstrzygnięcia.\"}",
-      "category": "poetyka"
-    }
-  },
-  {
-    "type": "lexicon",
-    "data": {
-      "term": "hamartia",
-      "nodes": "[\"antygona\"]",
-      "definition": "Błąd tragiczny — nie ze złości, a z przekonania o własnej słuszności.",
-      "quiz": "{\"question\":\"Kreon nie jest tyranem — zbyt mocno wierzył we własną racje. Jak nazywamy taki błąd?\",\"wrong\":[\"hybris\",\"fatum\",\"konflikt tragiczny\"],\"answer\":\"Hamartia — błąd tragiczny wynikający nie ze złej woli, ale z ludzkiej ograniczoności.\"}",
-      "category": "poetyka"
-    }
-  },
-  {
-    "type": "lexicon",
+    "type": "term",
     "data": {
       "term": "prawo boskie",
+      "forms": [
+        "prawa boskiego",
+        "prawem boskim"
+      ],
       "nodes": "[\"antygona\"]",
-      "definition": "Prawo wyższe od ludzkiego — Antygona musi pochować brata.",
-      "quiz": "{\"question\":\"Antygona łamie rozkaz króla, bo kieruje się prawem wyższym niż stanowione. Jakim?\",\"wrong\":[\"prawo naturalne\",\"prawo zwyczajowe\",\"dekret królewski\"],\"answer\":\"Prawo boskie — nakazy moralne uważane za wyższe niż prawo ustanowione przez ludzi.\"}",
-      "category": "poetyka"
+      "definition": "W Antygonie — moralne prawo do pochówku brata, ważniejsze niż dekret króla.",
+      "quiz": {
+        "question": "Antygona powołuje się na odwieczne nakazy moralne, wyższe niż prawo stanowione przez Kreona. Na co?",
+        "hint": "Odwieczne nakazy moralne wyższe niż prawo ludzkie.",
+        "wrong": [
+          "konflikt tragiczny",
+          "fatum",
+          "hybris",
+          "teocentryzm"
+        ],
+        "answer": "Prawo boskie w Antygonie to odwieczne nakazy moralne — pochówek bliskich, szacunek dla zmarłych. Antygona stawia je ponad dekret Kreona. To fundament konfliktu tragicznego: prawo naturalne vs prawo stanowione."
+      },
+      "content": null
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "konflikt tragiczny",
+      "forms": [
+        "konfliktu tragicznego",
+        "konfliktem tragicznym"
+      ],
+      "nodes": "[\"antygona\"]",
+      "definition": "Dwie słuszne racje zderzają się i nie da się wybrać bez katastrofy.",
+      "quiz": {
+        "question": "Antygona musi wybrać: prawo boskie czy rozkaz Kreona — obie racje są słuszne. Jak nazywamy taką sytuację?",
+        "hint": "Zderzenie dwóch równie słusznych racji — każdy wybór to katastrofa.",
+        "wrong": [
+          "ironia tragiczna",
+          "hamartia",
+          "hybris",
+          "fatum"
+        ],
+        "answer": "Konflikt tragiczny to zderzenie dwóch równorzędnych racji: Antygona broni prawa boskiego (pochówek brata), Kreon — prawa państwowego. Obie racje są uzasadnione, ale realizacja jednej łamie drugą. Rozwiązanie bez tragedii jest niemożliwe."
+      },
+      "content": null
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "hybris",
+      "forms": [
+        "hybris"
+      ],
+      "nodes": "[\"antygona\", \"dziady3\"]",
+      "definition": "Pycha bohatera, który myśli, że jest nieomylny — i przez to traci wszystko.",
+      "quiz": {
+        "question": "Kreon uważa się za nieomylnego władcę i nie słucha ostrzeżeń — przez co traci rodzinę. Jaka to wina?",
+        "hint": "Pycha wobec bogów lub losu — bohater myśli, że jest ponad reguły.",
+        "wrong": [
+          "hamartia",
+          "fatum",
+          "ironia tragiczna",
+          "katharsis"
+        ],
+        "answer": "Hybris to pycha wobec bogów lub porządku świata. Kreon nie słucha syna, wieszczka ani chóru — traci syna i żonę. Makbet po pierwszym morderstwie wierzy w swoją nietykalność. Na maturze hybris pojawia się przy Antygonie i Makbecie."
+      },
+      "content": null
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "hamartia",
+      "forms": [
+        "hamartii",
+        "hamartią"
+      ],
+      "nodes": "[\"antygona\"]",
+      "definition": "Błąd tragiczny z niewiedzy, nie ze złości — Edyp nie wie, że to on zabił.",
+      "quiz": {
+        "question": "Edyp popełnia zbrodnię nieświadomie — nie ze złej woli, lecz z niewiedzy. Jakim terminem to określamy?",
+        "hint": "Błąd tragiczny wynikający z niewiedzy, nie ze złych intencji.",
+        "wrong": [
+          "hybris",
+          "fatum",
+          "ironia tragiczna",
+          "katharsis"
+        ],
+        "answer": "Hamartia to błąd tragiczny wynikający z niewiedzy, nie z intencji. Edyp nie chciał zabić ojca — nie wiedział, kim jest nieznajomy na drodze. W Antygonie hamartię mają oboje: Kreon zbyt wierzy w państwo, Antygona — w swoje racje."
+      },
+      "content": null
     }
   }
 ]

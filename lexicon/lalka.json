@@ -2,41 +2,59 @@
   {
     "type": "lexicon",
     "data": {
-      "term": "powieść realistyczna",
-      "nodes": "[\"lalka\",\"pozytywizm\"]",
-      "definition": "Społeczeństwo pod mikroskopem — diagnoza jak u lekarza.",
-      "quiz": "{\"question\":\"*Lalka* pokazuje Warszawę jak pod mikroskopem: arystokracja, burżuazja, biedota. Jaki to gatunek?\",\"wrong\":[\"epos\",\"powieść historyczna\",\"romans\"],\"answer\":\"Powieść realistyczna — gatunek ukazujący społeczeństwo w sposób wiarygodny i szczegółowy.\"}",
-      "category": "poetyka"
-    }
-  },
-  {
-    "type": "lexicon",
-    "data": {
-      "term": "idealista",
-      "nodes": "[\"lalka\",\"pozytywizm\"]",
-      "definition": "Wokulski, Rzecki, Ochocki — trzy pokolenia marzyci, każde przegrywa inaczej.",
-      "quiz": "{\"question\":\"Wokulski ma energię, Rzecki żyje przeszłością, Ochocki ucieka w naukę. Jaki typ bohatera łączy ich wszystkich?\",\"wrong\":[\"pozytywista\",\"romantyk\",\"realista\"],\"answer\":\"Idealista — bohater kierujący się ideałami, które rozbijają się o rzeczywistość.\"}",
-      "category": "poetyka"
-    }
-  },
-  {
-    "type": "lexicon",
-    "data": {
-      "term": "narracja wielogłosowa",
-      "nodes": "[\"lalka\"]",
-      "definition": "Trzy punkty widzenia: pamiętnik Rzeckiego, narrator, myśli Wokulskiego.",
-      "quiz": "{\"question\":\"*Lalka* opowiada z trzech perspektyw naraz: pamiętnik, narrator i strumień świadomości. Jaka to technika?\",\"wrong\":[\"narracja ramowa\",\"monolog wewnętrzny\",\"mowa pozornie zależna\"],\"answer\":\"Narracja wielogłosowa — użycie wielu perspektyw narracyjnych w jednym utworze.\"}",
-      "category": "poetyka"
-    }
-  },
-  {
-    "type": "lexicon",
-    "data": {
       "term": "metafora",
       "nodes": "[\"lalka\"]",
       "definition": "Miłość Wokulskiego to nie melodramat — to metafora energii kontra stagnacji.",
       "quiz": "{\"question\":\"Miłość Wokulskiego do Izabeli to nie romans — symbolizuje zderzenie nowoczesności z feudalizmem. Jaki środek stylistyczny to opisuje?\",\"wrong\":[\"alegoria\",\"symbol\",\"porównanie\"],\"answer\":\"Metafora — przeniesienie znaczenia: miłość jako obraz społecznego konfliktu.\"}",
       "category": "poetyka"
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "powieść realistyczna",
+      "forms": [
+        "powieści realistycznej",
+        "powieścią realistyczną"
+      ],
+      "nodes": "[\"lalka\", \"pozytywizm\"]",
+      "definition": "Lustro społeczeństwa — szczegółowe opisy, psychologia, narrator wie wszystko.",
+      "quiz": {
+        "question": "Narrator wszechwiedzący, szczegółowe opisy środowiska, psychologia postaci — jak nazywamy taki typ powieści?",
+        "hint": "Typ powieści z narratorem wszechwiedzącym i szczegółowym opisem społeczeństwa.",
+        "wrong": [
+          "powieść historyczna",
+          "powieść tendencyjna",
+          "powieść psychologiczna",
+          "powieść epistolarna"
+        ],
+        "answer": "Powieść realistyczna to dominujący gatunek pozytywizmu: narrator wszechwiedzący, szczegółowe opisy, pogłębiona psychologia, tło społeczne. Lalka Prusa to arcydzieło gatunku — Warszawa jak pod mikroskopem, Wokulski pełen sprzeczności."
+      },
+      "content": null
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "narrator wszechwiedzący",
+      "forms": [
+        "narratora wszechwiedzącego",
+        "narratorem wszechwiedzącym"
+      ],
+      "nodes": "[\"lalka\"]",
+      "definition": "Wie wszystko: myśli bohaterów, plany bogów, obie strony konfliktu.",
+      "quiz": {
+        "question": "W Lalce opowiadacz zna myśli wszystkich postaci i komentuje ich działania. Jaki to typ narratora?",
+        "hint": "Narrator który zna myśli bohaterów i komentuje wydarzenia.",
+        "wrong": [
+          "narrator pierwszoosobowy",
+          "narrator niewiarygodny",
+          "in medias res",
+          "narracja ramowa"
+        ],
+        "answer": "Narrator wszechwiedzący zna myśli wszystkich postaci, komentuje wydarzenia i wie więcej niż bohaterowie. W Iliadzie — pokazuje jednocześnie obóz grecki i mury Troi. W Lalce — wnika w psychikę Wokulskiego i ocenia społeczeństwo."
+      },
+      "content": null
     }
   }
 ]
