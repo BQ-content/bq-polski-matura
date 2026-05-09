@@ -13,12 +13,12 @@
   {
     "type": "term",
     "data": {
-      "term": "carmen patrium",
-      "definition": "Pieśń ojczysta — najstarsza poezja narodowa. *Bogurodzica* była śpiewana przed bitwami pod Grunwaldem (1410). Łączyła modlitwę z pieśnią bojową.",
-      "category": "gatunki",
-      "forms": "[\"carmen patrium\"]",
-      "nodes": "[\"bogurodzica\"]",
-      "quiz": "{\"question\": \"Co znaczy „carmen patrium\\\" w odniesieniu do *Bogurodzicy*?\", \"answer\": \"Pieśń ojczysta — utwór religijno-narodowy śpiewany w ważnych chwilach (np. przed bitwą pod Grunwaldem). Forma archaiczna.\", \"wrong\": [\"carmen miłosne\", \"pieśń żałobna\", \"pieśń weselna\"], \"hint\": \"Ojczyzna + pieśń.\"}"
+      "term": "teocentryzm",
+      "definition": "Bóg = centrum świata. Średniowieczna wizja: wszystko ma sens przez relację do Stwórcy. Człowiek to droga do Boga, ziemia — przedsionek nieba.",
+      "category": "konteksty",
+      "forms": "[\"teocentryzm\", \"teocentryzmu\", \"teocentryczny\"]",
+      "nodes": "[\"bogurodzica\", \"renesans\", \"sredniowiecze\"]",
+      "quiz": "{\"question\": \"Czym jest teocentryzm?\", \"answer\": \"Pogląd, że Bóg jest centrum świata i miarą wszelkich rzeczy. Charakterystyczny dla średniowiecza.\", \"wrong\": [\"kult człowieka\", \"racjonalizm\", \"naturalizm\"], \"hint\": \"Theos = Bóg.\"}"
     }
   },
   {
@@ -35,23 +35,34 @@
   {
     "type": "term",
     "data": {
-      "term": "teocentryzm",
-      "definition": "Bóg = centrum świata. Średniowieczna wizja: wszystko ma sens przez relację do Stwórcy. Człowiek to droga do Boga, ziemia — przedsionek nieba.",
-      "category": "konteksty",
-      "forms": "[\"teocentryzm\", \"teocentryzmu\", \"teocentryczny\"]",
-      "nodes": "[\"bogurodzica\", \"renesans\", \"sredniowiecze\"]",
-      "quiz": "{\"question\": \"Czym jest teocentryzm?\", \"answer\": \"Pogląd, że Bóg jest centrum świata i miarą wszelkich rzeczy. Charakterystyczny dla średniowiecza.\", \"wrong\": [\"kult człowieka\", \"racjonalizm\", \"naturalizm\"], \"hint\": \"Theos = Bóg.\"}"
-    }
-  },
-  {
-    "type": "term",
-    "data": {
       "term": "asceta",
       "definition": "Średniowieczny święty wyrzekający się świata — św. Aleksy opuszcza ślubną żonę by żebrać pod schodami rodzinnego domu. Im głębsze cierpienie, tym bliżej Boga.",
       "category": "motywy",
       "forms": "[\"asceta\", \"ascety\", \"ascetę\", \"ascetą\", \"ascetyzm\"]",
       "nodes": "[\"bogurodzica\", \"sredniowiecze\"]",
       "quiz": "{\"question\": \"Czym charakteryzował się asceta jako wzorzec średniowieczny?\", \"answer\": \"Wyrzeczenie się świata, dóbr, ciała — przez cierpienie zbliża się do Boga. *Legenda o św. Aleksym*, mnisi pustelnicy.\", \"wrong\": [\"walka z poganami\", \"pielgrzymowanie\", \"studiowanie\"], \"hint\": \"Wyrzeczenie i cierpienie.\"}"
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "hierarchia pośredników",
+      "definition": "W *Bogurodzicy* drabina: ludzie → Maryja → Chrystus → Bóg Ojciec. Człowiek nie modli się do Boga wprost — prosi pośredników. Tak działała średniowieczna teologia.",
+      "category": "motywy",
+      "forms": "[\"hierarchia pośredników\", \"hierarchii pośredników\"]",
+      "nodes": "[\"bogurodzica\", \"sredniowiecze\"]",
+      "quiz": "{\"question\": \"O co prosi się w *Bogurodzicy*?\", \"answer\": \"Prosi się Maryję, by wstawiła się u Syna, a Syn u Boga Ojca. Hierarchiczna prośba przez pośredników — średniowieczny model wiary.\", \"wrong\": [\"o zwycięstwo\", \"o łaskę bezpośrednio od Boga\", \"o pokój\"], \"hint\": \"Drabina próśb.\"}"
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "carmen patrium",
+      "definition": "Pieśń ojczysta — najstarsza poezja narodowa. *Bogurodzica* była śpiewana przed bitwami pod Grunwaldem (1410). Łączyła modlitwę z pieśnią bojową.",
+      "category": "gatunki",
+      "forms": "[\"carmen patrium\"]",
+      "nodes": "[\"bogurodzica\"]",
+      "quiz": "{\"question\": \"Co znaczy „carmen patrium\\\" w odniesieniu do *Bogurodzicy*?\", \"answer\": \"Pieśń ojczysta — utwór religijno-narodowy śpiewany w ważnych chwilach (np. przed bitwą pod Grunwaldem). Forma archaiczna.\", \"wrong\": [\"carmen miłosne\", \"pieśń żałobna\", \"pieśń weselna\"], \"hint\": \"Ojczyzna + pieśń.\"}"
     }
   }
 ]

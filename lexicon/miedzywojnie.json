@@ -28,7 +28,7 @@
       "definition": "Mieszanka tragedii i komedii, piękna i brzydoty — coś co śmieszy i jednocześnie przeraża. Mrożek w *Tangu*: paradna scena gdzie Edek tańczy z trupem.",
       "category": "środki",
       "forms": "[\"groteska\", \"groteski\", \"grotesce\", \"groteskowy\", \"groteskowa\"]",
-      "nodes": "[\"miedzywojnie\", \"wspolczesnosc\"]",
+      "nodes": "[\"miedzywojnie\", \"tango\", \"wspolczesnosc\"]",
       "quiz": "{\"question\": \"Czym jest groteska w literaturze?\", \"answer\": \"Połączenie elementów tragicznych i komicznych, pięknych i odrażających. Tworzy efekt absurdu — Witkacy, Mrożek, Gombrowicz.\", \"wrong\": [\"gatunek dramatu\", \"odmiana metafory\", \"styl klasyczny\"], \"hint\": \"Śmiech i przerażenie naraz.\"}"
     }
   },
@@ -39,7 +39,7 @@
       "definition": "Historia która znaczy więcej niż mówi — *Dżuma* Camusa to parabola: epidemia w Oranie to każdy faszyzm, każde zło. Konkretna fabuła + uniwersalny przekaz.",
       "category": "środki",
       "forms": "[\"parabola\", \"paraboli\", \"parabolę\", \"parabolą\", \"paraboliczny\"]",
-      "nodes": "[\"dzuma\", \"granica\", \"miedzywojnie\", \"wspolczesnosc\"]",
+      "nodes": "[\"dzuma\", \"granica\", \"miedzywojnie\", \"tango\", \"wspolczesnosc\"]",
       "quiz": "{\"question\": \"Co odróżnia parabolę od zwykłej powieści?\", \"answer\": \"Parabola ma uniwersalne, ponadczasowe znaczenie ukryte za konkretną fabułą. *Dżuma* Camusa, *Folwark zwierzęcy* Orwella.\", \"wrong\": [\"długość\", \"humor\", \"narrator pierwszoosobowy\"], \"hint\": \"Konkretna historia + uniwersalna prawda.\"}"
     }
   },
@@ -50,7 +50,7 @@
       "definition": "Obraz który NIE ma jednego znaczenia — chocholi taniec w *Weselu* to bezruch, otępienie, klątwa, narodowa choroba… Każdy widz odkrywa swoje znaczenie. Inaczej niż alegoria.",
       "category": "środki",
       "forms": "[\"symbol\", \"symbolu\", \"symbolem\", \"symbole\", \"symboliczny\", \"symboliczna\"]",
-      "nodes": "[\"granica\", \"miedzywojnie\", \"mloda-polska\", \"wesele\"]",
+      "nodes": "[\"miedzywojnie\", \"mloda-polska\", \"wesele\"]",
       "quiz": "{\"question\": \"Symbol różni się od alegorii tym że:\", \"answer\": \"Symbol ma WIELE możliwych znaczeń, alegoria JEDNO ustalone. Wieniec laurowy może symbolizować zwycięstwo, nieśmiertelność, sławę — w alegorii byłby tylko jednym.\", \"wrong\": [\"nie różni się\", \"jest krótszy\", \"jest tylko religijny\"], \"hint\": \"Wielość znaczeń.\"}"
     }
   }

@@ -6,7 +6,7 @@
       "definition": "Wszystko przemija — czaszka, świeca, zegar. Barokowi malarze i poeci przypominali: luksus ma datę ważności. „Vanitas vanitatum et omnia vanitas\" — marność nad marnościami.",
       "category": "motywy",
       "forms": "[\"vanitas\"]",
-      "nodes": "[\"barok\", \"makbet\"]",
+      "nodes": "[\"barok\", \"makbet\", \"polikarp\"]",
       "quiz": "{\"question\": \"Co oznacza motyw vanitas w sztuce barokowej?\", \"answer\": \"Marność życia ziemskiego, przemijalność. Symbole: czaszka, klepsydra, zwiędły kwiat. Kontrapunkt do bogactwa epoki.\", \"wrong\": [\"radość życia\", \"pochwała natury\", \"kult władzy\"], \"hint\": \"Czaszka, klepsydra, zegar.\"}"
     }
   },

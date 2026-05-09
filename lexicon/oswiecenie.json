@@ -6,7 +6,7 @@
       "definition": "Oświeceniowa moda na powrót do antycznych form — porządek, miary, gatunki klasyczne (oda, satyra, bajka). Przeciwieństwo barokowej przesady.",
       "category": "konteksty",
       "forms": "[\"klasycyzm\", \"klasycyzmu\", \"klasyczny\", \"klasyczna\"]",
-      "nodes": "[\"oswiecenie\"]",
+      "nodes": "[\"bajki\", \"oswiecenie\"]",
       "quiz": "{\"question\": \"Co charakteryzowało klasycyzm oświeceniowy?\", \"answer\": \"Powrót do antycznych form, porządku i umiaru. Klasyczne gatunki (oda, satyra, bajka), reguły poprawności. Krasicki, Niemcewicz.\", \"wrong\": [\"nadmiar emocji\", \"romantyczne uniesienia\", \"kult chłopa\"], \"hint\": \"Powrót do antyku, porządek.\"}"
     }
   },

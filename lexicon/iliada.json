@@ -2,12 +2,23 @@
   {
     "type": "term",
     "data": {
-      "term": "in medias res",
-      "definition": "Wpadasz w środek akcji — bez wstępu, bez „dawno temu\". *Iliada* zaczyna się od gniewu Achillesa, a wojna już trwa 9 lat. Czytelnik dogania pociąg w biegu.",
-      "category": "środki",
-      "forms": "[\"in medias res\"]",
-      "nodes": "[\"iliada\"]",
-      "quiz": "{\"question\": \"Co oznacza technika \\\"in medias res\\\"?\", \"answer\": \"Rozpoczęcie utworu od środka akcji, bez wprowadzenia. Klasyczna otwartość eposu — Homer od gniewu, Mickiewicz od wozów na drodze.\", \"wrong\": [\"retrospekcja\", \"inwokacja\", \"dygresja\"], \"hint\": \"Z łaciny: \\\"w środku rzeczy\\\".\"}"
+      "term": "epos",
+      "definition": "Wielki utwór wierszowany o czynach bohaterów. *Iliada*, *Odyseja*, *Pan Tadeusz*. Epos ma styl wysoki, inwokację, narratora wszechwiedzącego, porównania homeryckie.",
+      "category": "gatunki",
+      "forms": "[\"epos\", \"eposu\", \"eposem\", \"epicki\", \"epicka\"]",
+      "nodes": "[\"antyk\", \"iliada\"]",
+      "quiz": "{\"question\": \"Który utwór NIE jest eposem?\", \"answer\": \"Antygona — to tragedia. Epos to długi utwór wierszowany o czynach bohaterów: *Iliada*, *Odyseja*, *Pan Tadeusz*.\", \"wrong\": [\"*Iliada*\", \"*Pan Tadeusz*\", \"*Odyseja*\"], \"hint\": \"Epos ≠ dramat.\"}"
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "fatum",
+      "definition": "Nieuchronny los — w tragedii antycznej fatum jest silniejsze od bohatera. Edyp ucieka przed przepowiednią i wpada wprost w nią. Achilles wybiera krótkie życie pełne sławy.",
+      "category": "motywy",
+      "forms": "[\"fatum\", \"fatumu\"]",
+      "nodes": "[\"antyk\", \"dziady3\", \"iliada\", \"makbet\"]",
+      "quiz": "{\"question\": \"Czym jest fatum w tragedii antycznej?\", \"answer\": \"Nieuchronny los, którego bohater nie może uniknąć — wpisany w narodzenie. Edyp i Antygona giną przez fatum.\", \"wrong\": [\"szczęście\", \"wybór bohatera\", \"kara boża\"], \"hint\": \"Los którego nie unikniesz.\"}"
     }
   },
   {
@@ -35,23 +46,34 @@
   {
     "type": "term",
     "data": {
-      "term": "stały epitet",
-      "definition": "Powtarzające się określenie postaci. Achilles jest zawsze „szybkonogi\", Atena „sowiooka\". Pomaga zapamiętać bohatera — to spadek po tradycji ustnej.",
-      "category": "środki",
-      "forms": "[\"stały epitet\", \"stałe epitety\", \"stałego epitetu\", \"stałym epitetem\"]",
-      "nodes": "[\"iliada\"]",
-      "quiz": "{\"question\": \"Achilles „szybkonogi\\\", Atena „sowiooka\\\" — jak nazwać te określenia?\", \"answer\": \"Stałe epitety — powtarzane określenia postaci eposu, pomagające zapamiętać bohatera. Pochodzą z tradycji ustnej.\", \"wrong\": [\"metafora\", \"oksymoron\", \"porównanie homeryckie\"], \"hint\": \"Klucz: „stały\\\" — powtarza się.\"}"
-    }
-  },
-  {
-    "type": "term",
-    "data": {
       "term": "metafora",
       "definition": "Przeniesienie znaczenia — coś nazywamy słowem które znaczy co innego, żeby pokazać podobieństwo. „Życie to taniec\" — życie nie tańczy, ale ma rytm i krok jak taniec.",
       "category": "środki",
       "forms": "[\"metafora\", \"metafory\", \"metaforę\", \"metaforą\", \"metaforyczny\", \"metaforyczna\"]",
       "nodes": "[\"bogurodzica\", \"dziady3\", \"dzuma\", \"iliada\", \"lalka\", \"mloda-polska\", \"renesans\", \"romantyzm\", \"wesele\"]",
       "quiz": "{\"question\": \"Jak nazwać zdanie „Czas to złodziej, kradnie nam dni\\\"?\", \"answer\": \"Metafora — czas dosłownie nie kradnie, ale działa jak złodziej. Przeniesienie znaczenia z dziedziny przedmiotów na dziedzinę abstrakcji.\", \"wrong\": [\"porównanie\", \"epitet\", \"metonimia\"], \"hint\": \"Brak słówka „jak\\\" — dlatego nie porównanie.\"}"
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "in medias res",
+      "definition": "Wpadasz w środek akcji — bez wstępu. *Iliada* zaczyna się od gniewu Achillesa, a wojna już trwa 9 lat. Czytelnik dogania pociąg w biegu.",
+      "category": "środki",
+      "forms": "[\"in medias res\"]",
+      "nodes": "[\"iliada\"]",
+      "quiz": "{\"question\": \"Co oznacza technika „in medias res\\\"?\", \"answer\": \"Rozpoczęcie utworu od środka akcji, bez wprowadzenia. Klasyczna otwartość eposu — Homer od gniewu, Mickiewicz od wozów na drodze.\", \"wrong\": [\"retrospekcja\", \"inwokacja\", \"dygresja\"], \"hint\": \"Z łaciny: „w środku rzeczy\\\".\"}"
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "stały epitet",
+      "definition": "Powtarzające się określenie postaci. Achilles jest zawsze „szybkonogi\", Atena „sowiooka\". Pomaga zapamiętać bohatera — to spadek po tradycji ustnej.",
+      "category": "środki",
+      "forms": "[\"stały epitet\", \"stałe epitety\", \"stałego epitetu\", \"stałym epitetem\"]",
+      "nodes": "[\"iliada\"]",
+      "quiz": "{\"question\": \"Achilles „szybkonogi\\\", Atena „sowiooka\\\" — jak nazwać te określenia?\", \"answer\": \"Stałe epitety — powtarzane określenia postaci eposu, pomagające zapamiętać bohatera. Pochodzą z tradycji ustnej.\", \"wrong\": [\"metafora\", \"oksymoron\", \"porównanie homeryckie\"], \"hint\": \"Klucz: „stały\\\" — powtarza się.\"}"
     }
   }
 ]

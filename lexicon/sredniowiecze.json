@@ -39,7 +39,7 @@
       "definition": "W *Bogurodzicy* drabina: ludzie → Maryja → Chrystus → Bóg Ojciec. Człowiek nie modli się do Boga wprost — prosi pośredników. Tak działała średniowieczna teologia.",
       "category": "motywy",
       "forms": "[\"hierarchia pośredników\", \"hierarchii pośredników\"]",
-      "nodes": "[\"sredniowiecze\"]",
+      "nodes": "[\"bogurodzica\", \"sredniowiecze\"]",
       "quiz": "{\"question\": \"O co prosi się w *Bogurodzicy*?\", \"answer\": \"Prosi się Maryję, by wstawiła się u Syna, a Syn u Boga Ojca. Hierarchiczna prośba przez pośredników — średniowieczny model wiary.\", \"wrong\": [\"o zwycięstwo\", \"o łaskę bezpośrednio od Boga\", \"o pokój\"], \"hint\": \"Drabina próśb.\"}"
     }
   },

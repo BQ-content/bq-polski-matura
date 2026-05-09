@@ -5,7 +5,7 @@
       "id": "polski-matura-mini",
       "title": "Polski — matura (mini)",
       "branches": "{\"epoki\": {\"label\": \"Epoki\", \"color\": \"primary\"}, \"lektury\": {\"label\": \"Lektury\", \"color\": \"info\"}}",
-      "edges": "[{\"from\": \"antyk\", \"to\": \"sredniowiecze\", \"type\": \"progression\"}, {\"from\": \"sredniowiecze\", \"to\": \"renesans\", \"type\": \"progression\"}, {\"from\": \"renesans\", \"to\": \"barok\", \"type\": \"progression\"}, {\"from\": \"barok\", \"to\": \"oswiecenie\", \"type\": \"progression\"}, {\"from\": \"oswiecenie\", \"to\": \"romantyzm\", \"type\": \"progression\"}, {\"from\": \"romantyzm\", \"to\": \"pozytywizm\", \"type\": \"progression\"}, {\"from\": \"pozytywizm\", \"to\": \"mloda-polska\", \"type\": \"progression\"}, {\"from\": \"mloda-polska\", \"to\": \"miedzywojnie\", \"type\": \"progression\"}, {\"from\": \"miedzywojnie\", \"to\": \"wspolczesnosc\", \"type\": \"progression\"}, {\"from\": \"antyk\", \"to\": \"antygona\", \"type\": \"branch\"}, {\"from\": \"antyk\", \"to\": \"iliada\", \"type\": \"branch\"}, {\"from\": \"sredniowiecze\", \"to\": \"bogurodzica\", \"type\": \"branch\"}, {\"from\": \"renesans\", \"to\": \"makbet\", \"type\": \"branch\"}, {\"from\": \"oswiecenie\", \"to\": \"bajki\", \"type\": \"branch\"}, {\"from\": \"romantyzm\", \"to\": \"dziady3\", \"type\": \"branch\"}, {\"from\": \"pozytywizm\", \"to\": \"lalka\", \"type\": \"branch\"}, {\"from\": \"mloda-polska\", \"to\": \"wesele\", \"type\": \"branch\"}, {\"from\": \"miedzywojnie\", \"to\": \"granica\", \"type\": \"branch\"}, {\"from\": \"wspolczesnosc\", \"to\": \"dzuma\", \"type\": \"branch\"}]",
+      "edges": "[{\"from\": \"antyk\", \"to\": \"sredniowiecze\", \"type\": \"progression\"}, {\"from\": \"sredniowiecze\", \"to\": \"renesans\", \"type\": \"progression\"}, {\"from\": \"renesans\", \"to\": \"barok\", \"type\": \"progression\"}, {\"from\": \"barok\", \"to\": \"oswiecenie\", \"type\": \"progression\"}, {\"from\": \"oswiecenie\", \"to\": \"romantyzm\", \"type\": \"progression\"}, {\"from\": \"romantyzm\", \"to\": \"pozytywizm\", \"type\": \"progression\"}, {\"from\": \"pozytywizm\", \"to\": \"mloda-polska\", \"type\": \"progression\"}, {\"from\": \"mloda-polska\", \"to\": \"miedzywojnie\", \"type\": \"progression\"}, {\"from\": \"miedzywojnie\", \"to\": \"wspolczesnosc\", \"type\": \"progression\"}, {\"from\": \"antyk\", \"to\": \"antygona\", \"type\": \"branch\"}, {\"from\": \"antyk\", \"to\": \"iliada\", \"type\": \"branch\"}, {\"from\": \"sredniowiecze\", \"to\": \"bogurodzica\", \"type\": \"branch\"}, {\"from\": \"renesans\", \"to\": \"makbet\", \"type\": \"branch\"}, {\"from\": \"oswiecenie\", \"to\": \"bajki\", \"type\": \"branch\"}, {\"from\": \"romantyzm\", \"to\": \"dziady3\", \"type\": \"branch\"}, {\"from\": \"pozytywizm\", \"to\": \"lalka\", \"type\": \"branch\"}, {\"from\": \"mloda-polska\", \"to\": \"wesele\", \"type\": \"branch\"}, {\"from\": \"miedzywojnie\", \"to\": \"granica\", \"type\": \"branch\"}, {\"from\": \"wspolczesnosc\", \"to\": \"dzuma\", \"type\": \"branch\"}, {\"from\": \"sredniowiecze\", \"to\": \"polikarp\", \"type\": \"branch\"}, {\"from\": \"wspolczesnosc\", \"to\": \"tango\", \"type\": \"branch\"}]",
       "relations": "{\"progression\": {\"label\": \"Następstwo\", \"color\": \"info\"}, \"branch\": {\"label\": \"Należy do\", \"color\": \"primary\"}, \"kontekst\": {\"label\": \"Kontekst\", \"color\": \"warning\"}, \"postac\": {\"label\": \"Postać\", \"color\": \"secondary\"}}"
     },
     "children": [
@@ -206,6 +206,26 @@
           "title": "Dżuma",
           "branch": "lektury",
           "tier": 0,
+          "hits": 0
+        }
+      },
+      {
+        "type": "node",
+        "data": {
+          "nodeId": "polikarp",
+          "title": "Rozmowa Mistrza Polikarpa ze Śmiercią",
+          "branch": "lektury",
+          "tier": 1,
+          "hits": 0
+        }
+      },
+      {
+        "type": "node",
+        "data": {
+          "nodeId": "tango",
+          "title": "Tango",
+          "branch": "lektury",
+          "tier": 1,
           "hits": 0
         }
       }

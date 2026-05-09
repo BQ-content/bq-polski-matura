@@ -2,6 +2,17 @@
   {
     "type": "term",
     "data": {
+      "term": "tragedia",
+      "definition": "Dramat o upadku szlachetnego bohatera — Antygona, Makbet. Kończy się katastrofą, widz przeżywa katharsis. Bohater pada przez własną winę (hamartia) i przeznaczenie.",
+      "category": "gatunki",
+      "forms": "[\"tragedia\", \"tragedii\", \"tragedię\", \"tragedią\", \"tragiczny\", \"tragiczna\"]",
+      "nodes": "[\"antygona\", \"antyk\", \"makbet\"]",
+      "quiz": "{\"question\": \"Co charakteryzuje tragedię antyczną?\", \"answer\": \"Upadek szlachetnego bohatera (hamartia + hybris), nieuchronność losu (fatum), katharsis widza. Arystoteles opisał reguły w *Poetyce*.\", \"wrong\": [\"szczęśliwe zakończenie\", \"zwykły bohater\", \"humor\"], \"hint\": \"Bohater wzniosły, koniec zły.\"}"
+    }
+  },
+  {
+    "type": "term",
+    "data": {
       "term": "konflikt tragiczny",
       "definition": "Sytuacja w której bohater musi wybrać między dwiema racjami — i obie są słuszne. Antygona: prawo ludzkie (Kreon) vs prawo boskie (pogrzeb brata). Każdy wybór kończy się tragedią.",
       "category": "motywy",
@@ -28,8 +39,19 @@
       "definition": "Tragiczny błąd bohatera — nie zbrodnia, ale błędna decyzja wynikająca z charakteru. Antygona pogrzebała brata wiedząc, że to oznacza śmierć. Decyzja słuszna moralnie, samobójcza praktycznie.",
       "category": "motywy",
       "forms": "[\"hamartia\", \"hamartii\", \"hamartię\"]",
-      "nodes": "[\"antygona\"]",
+      "nodes": "[\"antygona\", \"makbet\"]",
       "quiz": "{\"question\": \"Czym hamartia różni się od zbrodni?\", \"answer\": \"Hamartia to tragiczny błąd wynikający z charakteru, nie zła wola. Antygona postępuje zgodnie z sumieniem — i właśnie dlatego ginie.\", \"wrong\": [\"niczym\", \"jest cięższa\", \"dotyczy bogów\"], \"hint\": \"Błąd nie zła wola.\"}"
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "ironia tragiczna",
+      "definition": "Widz wie więcej niż bohater — Edyp szuka mordercy, a to on sam. Ten dystans między wiedzą widza i bohatera potęguje napięcie i litość.",
+      "category": "środki",
+      "forms": "[\"ironia tragiczna\", \"ironii tragicznej\", \"ironię tragiczną\", \"ironią tragiczną\"]",
+      "nodes": "[\"antygona\", \"antyk\"]",
+      "quiz": "{\"question\": \"Edyp szuka mordercy króla, nie wiedząc, że to on sam. Jak nazywamy ten zabieg?\", \"answer\": \"Ironia tragiczna — widz zna prawdę, bohater nie. Sofokles użył jej w *Królu Edypie* i *Antygonie*.\", \"wrong\": [\"hamartia\", \"katharsis\", \"hybris\"], \"hint\": \"Widz zna prawdę, bohater nie.\"}"
     }
   },
   {
@@ -41,17 +63,6 @@
       "forms": "[\"prawo boskie\", \"prawa boskiego\", \"prawem boskim\"]",
       "nodes": "[\"antygona\"]",
       "quiz": "{\"question\": \"Czym jest „prawo boskie\\\" w *Antygonie*?\", \"answer\": \"Odwieczne, naturalne prawo (nakaz pogrzebania zmarłych) wyższe od prawa stanowionego przez władcę. Antygona je broni przeciw Kreonowi.\", \"wrong\": [\"edykt Kreona\", \"prawo zwyczajowe Teb\", \"prawo wojny\"], \"hint\": \"Powyżej władzy ludzkiej.\"}"
-    }
-  },
-  {
-    "type": "term",
-    "data": {
-      "term": "katharsis",
-      "definition": "Oczyszczenie emocji widza tragedii — Arystoteles tak nazwał efekt który tragedia wywołuje przez litość i trwogę. Po wstrząsie odchodzisz lżejszy.",
-      "category": "motywy",
-      "forms": "[\"katharsis\"]",
-      "nodes": "[\"antygona\", \"antyk\"]",
-      "quiz": "{\"question\": \"Co Arystoteles nazwał „katharsis\\\"?\", \"answer\": \"Oczyszczenie emocjonalne widza po obejrzeniu tragedii — przez litość i trwogę. Tragedia wstrząsa, by widz „odbudował się\\\" wewnętrznie.\", \"wrong\": [\"hamartia\", \"hybris\", \"mimesis\"], \"hint\": \"Greckie „oczyszczenie\\\".\"}"
     }
   }
 ]

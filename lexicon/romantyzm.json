@@ -6,7 +6,7 @@
       "definition": "Wiara że Polska to „Chrystus narodów\" — cierpi by zbawić inne narody. Mickiewicz w *Dziadach III*: rozbiory to ukrzyżowanie, zmartwychwstanie nadejdzie. Idea XIX-wiecznej emigracji.",
       "category": "motywy",
       "forms": "[\"mesjanizm\", \"mesjanizmu\", \"mesjanizmem\", \"mesjanistyczny\", \"mesjanistyczna\"]",
-      "nodes": "[\"dziady3\", \"romantyzm\"]",
+      "nodes": "[\"dziady3\", \"romantyzm\", \"wesele\"]",
       "quiz": "{\"question\": \"Co głosi polski mesjanizm romantyczny?\", \"answer\": \"Polska cierpi za inne narody jak Chrystus, by je odkupić — a po cierpieniu nadejdzie zmartwychwstanie. Mickiewicz, Słowacki, Krasiński.\", \"wrong\": [\"walka klasowa\", \"powrót do antyku\", \"krytyka Kościoła\"], \"hint\": \"Polska = Chrystus narodów.\"}"
     }
   },
@@ -28,7 +28,7 @@
       "definition": "Poeta-prorok prowadzący naród. Trzej wieszcze polskiego romantyzmu: Mickiewicz, Słowacki, Krasiński. Konrad w *Dziadach III*: „Ja kocham cały naród!\".",
       "category": "motywy",
       "forms": "[\"wieszcz\", \"wieszcza\", \"wieszczem\", \"wieszczowie\"]",
-      "nodes": "[\"dziady3\", \"romantyzm\"]",
+      "nodes": "[\"romantyzm\"]",
       "quiz": "{\"question\": \"Kim był „wieszcz\\\" w polskim romantyzmie?\", \"answer\": \"Poeta-prorok, duchowy przywódca narodu — Mickiewicz, Słowacki, Krasiński. Wieszcz „rządzi duszami\\\", odczytuje los narodu.\", \"wrong\": [\"kapłan\", \"rycerz\", \"mąż stanu\"], \"hint\": \"Poeta + prorok.\"}"
     }
   },

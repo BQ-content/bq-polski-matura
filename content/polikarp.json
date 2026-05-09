@@ -1,0 +1,16 @@
+[
+  {
+    "type": "content",
+    "data": {
+      "contentType": "intro",
+      "text": "## Mistrz Polikarp prosi Boga o cud\n\nXV-wieczny utwór anonimowy. Uczony Polikarp modli się żeby zobaczyć Śmierć — chce wiedzieć jak wygląda. Bóg wysłuchuje. Śmierć przychodzi: szkielet, zgniła trupia twarz, kosa. Polikarp odkrywa że Śmierć jest „nieuchronna i sprawiedliwa\"."
+    }
+  },
+  {
+    "type": "content",
+    "data": {
+      "contentType": "concept",
+      "text": "## Każdego prowadzi do grobu\n\nŚmierć tłumaczy: nie pomoże korona ani kapłańska sukienka. „Niemasz żadnemu nikomu wykrętu\". {{Egalitaryzm śmierci}} — wszyscy równi. To {{danse macabre}} w słowie. Klasyczny {{dialog średniowieczny}} z dydaktycznym celem: {{memento mori}} — pamiętaj że umrzesz. Późniejszy barok podchwyci ten temat jako {{vanitas}}."
+    }
+  }
+]

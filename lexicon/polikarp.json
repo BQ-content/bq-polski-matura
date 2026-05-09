@@ -1,0 +1,57 @@
+[
+  {
+    "type": "term",
+    "data": {
+      "term": "vanitas",
+      "definition": "Wszystko przemija — czaszka, świeca, zegar. Barokowi malarze i poeci przypominali: luksus ma datę ważności. „Vanitas vanitatum et omnia vanitas\" — marność nad marnościami.",
+      "category": "motywy",
+      "forms": "[\"vanitas\"]",
+      "nodes": "[\"barok\", \"makbet\", \"polikarp\"]",
+      "quiz": "{\"question\": \"Co oznacza motyw vanitas w sztuce barokowej?\", \"answer\": \"Marność życia ziemskiego, przemijalność. Symbole: czaszka, klepsydra, zwiędły kwiat. Kontrapunkt do bogactwa epoki.\", \"wrong\": [\"radość życia\", \"pochwała natury\", \"kult władzy\"], \"hint\": \"Czaszka, klepsydra, zegar.\"}"
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "danse macabre",
+      "definition": "Średniowieczny taniec śmierci — szkielety prowadzą do grobu papieża, króla, biskupa i żebraka. Śmierć równa wszystkich. Motyw fresków, malowideł kościelnych, *Rozmowy Mistrza Polikarpa*.",
+      "category": "motywy",
+      "forms": "[\"danse macabre\", \"taniec śmierci\", \"tańca śmierci\", \"tańcem śmierci\"]",
+      "nodes": "[\"polikarp\"]",
+      "quiz": "{\"question\": \"Czym jest motyw danse macabre?\", \"answer\": \"Średniowieczny taniec śmierci — szkielety prowadzą wszystkich (papieża, króla, żebraka) do grobu. Symbol egalitaryzmu śmierci — wszyscy równi w obliczu końca.\", \"wrong\": [\"kult życia\", \"rycerska walka\", \"pochwała króla\"], \"hint\": \"Szkielet + każdy stan społeczny.\"}"
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "memento mori",
+      "definition": "„Pamiętaj o śmierci\" — średniowieczne przypomnienie kruchości życia. Mistrz Polikarp dostaje wizytę Śmierci jako odpowiedź na modlitwę. Codziennie pamiętaj że umrzesz.",
+      "category": "motywy",
+      "forms": "[\"memento mori\"]",
+      "nodes": "[\"polikarp\"]",
+      "quiz": "{\"question\": \"Co znaczy łacińskie „memento mori\\\"?\", \"answer\": \"„Pamiętaj o śmierci\\\" — średniowieczne i barokowe wezwanie do refleksji nad kruchością życia. Klasyczny motyw {{vanitas}}.\", \"wrong\": [\"carpe diem\", \"amor fati\", \"sub specie aeternitatis\"], \"hint\": \"Po łacinie: „pamiętaj że umrzesz\\\".\"}"
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "dialog średniowieczny",
+      "definition": "Dydaktyczny utwór w formie rozmowy — postać ludzka spotyka abstrakcję (Śmierć, Sumienie, Cnotę). *Rozmowa Mistrza Polikarpa ze Śmiercią* to klasyk: uczony pyta, Śmierć poucza.",
+      "category": "gatunki",
+      "forms": "[\"dialog średniowieczny\", \"dialogu średniowiecznego\"]",
+      "nodes": "[\"polikarp\"]",
+      "quiz": "{\"question\": \"Czym jest dialog średniowieczny jako gatunek?\", \"answer\": \"Dydaktyczny utwór w formie rozmowy postaci z abstrakcją (Śmiercią, Cnotą). Forma typowa dla średniowiecza — uczy przez wymianę pytań i odpowiedzi.\", \"wrong\": [\"romans rycerski\", \"kronika\", \"satyra\"], \"hint\": \"Rozmowa + cel pouczenia.\"}"
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "egalitaryzm śmierci",
+      "definition": "W obliczu śmierci wszyscy są równi — nie pomoże korona, kapłańska szata, bogactwo. Średniowieczny kontrapunkt do hierarchii ziemskiej. „Niemasz żadnemu nikomu wykrętu\" — mówi Śmierć Polikarpowi.",
+      "category": "motywy",
+      "forms": "[\"egalitaryzm śmierci\", \"egalitaryzmu śmierci\"]",
+      "nodes": "[\"polikarp\"]",
+      "quiz": "{\"question\": \"Co głosi motyw egalitaryzmu śmierci?\", \"answer\": \"Wszyscy ludzie są równi przed śmiercią — niezależnie od stanu, bogactwa, wykształcenia. Średniowieczna odpowiedź na hierarchiczny porządek społeczny.\", \"wrong\": [\"równość polityczna\", \"kult zmarłych\", \"pochwała śmierci\"], \"hint\": \"Każdy umiera tak samo.\"}"
+    }
+  }
+]

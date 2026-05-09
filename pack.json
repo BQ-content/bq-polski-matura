@@ -8,7 +8,7 @@
     "email": "gotoreadyai@gmail.com"
   },
   "license": "CC-BY-SA-4.0",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "extends": null,
   "provides": {
     "nodes": [
@@ -26,15 +26,16 @@
       "miedzywojnie",
       "mloda-polska",
       "oswiecenie",
+      "polikarp",
       "pozytywizm",
       "renesans",
       "romantyzm",
       "sredniowiecze",
+      "tango",
       "wesele",
       "wspolczesnosc"
     ],
     "terms": [
-      "Lady Makbet",
       "absurd",
       "ad fontes",
       "alegoria",
@@ -46,9 +47,13 @@
       "bajka",
       "carmen patrium",
       "chocholi taniec",
+      "danse macabre",
       "degeneracja moralna",
       "dekadentyzm",
+      "dialog średniowieczny",
+      "dramat absurdu",
       "dramat symboliczny",
+      "egalitaryzm śmierci",
       "egzystencjalizm",
       "epos",
       "fatum",
@@ -70,7 +75,9 @@
       "koncept",
       "konceptyzm",
       "konflikt tragiczny",
+      "kryzys autorytetu",
       "marinizm",
+      "memento mori",
       "mesjanizm",
       "metafora",
       "modernizm",
@@ -100,9 +107,9 @@
   },
   "mentions": [],
   "stats": {
-    "nodes": 20,
-    "terms": 62,
-    "edges": 19,
+    "nodes": 22,
+    "terms": 67,
+    "edges": 21,
     "mentions_unmet": 0
   }
 }

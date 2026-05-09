@@ -2,22 +2,11 @@
   {
     "type": "term",
     "data": {
-      "term": "dramat symboliczny",
-      "definition": "Dramat z postaciami będącymi symbolami abstrakcyjnych idei. *Wesele* Wyspiańskiego: Stańczyk, Wernyhora, Chochoł — to nie ludzie, to znaki polskiej historii i niemocy.",
-      "category": "gatunki",
-      "forms": "[\"dramat symboliczny\", \"dramatu symbolicznego\"]",
-      "nodes": "[\"wesele\"]",
-      "quiz": "{\"question\": \"Czym dramat symboliczny różni się od realistycznego?\", \"answer\": \"Symboliczny używa postaci-symboli (Chochoł, Stańczyk) reprezentujących idee. Realistyczny pokazuje konkretnych ludzi. *Wesele* — przykład symbolicznego.\", \"wrong\": [\"niczym\", \"jest krótszy\", \"jest komiczny\"], \"hint\": \"Postacie reprezentują idee, nie ludzi.\"}"
-    }
-  },
-  {
-    "type": "term",
-    "data": {
       "term": "symbol",
       "definition": "Obraz który NIE ma jednego znaczenia — chocholi taniec w *Weselu* to bezruch, otępienie, klątwa, narodowa choroba… Każdy widz odkrywa swoje znaczenie. Inaczej niż alegoria.",
       "category": "środki",
       "forms": "[\"symbol\", \"symbolu\", \"symbolem\", \"symbole\", \"symboliczny\", \"symboliczna\"]",
-      "nodes": "[\"granica\", \"miedzywojnie\", \"mloda-polska\", \"wesele\"]",
+      "nodes": "[\"miedzywojnie\", \"mloda-polska\", \"wesele\"]",
       "quiz": "{\"question\": \"Symbol różni się od alegorii tym że:\", \"answer\": \"Symbol ma WIELE możliwych znaczeń, alegoria JEDNO ustalone. Wieniec laurowy może symbolizować zwycięstwo, nieśmiertelność, sławę — w alegorii byłby tylko jednym.\", \"wrong\": [\"nie różni się\", \"jest krótszy\", \"jest tylko religijny\"], \"hint\": \"Wielość znaczeń.\"}"
     }
   },
@@ -52,6 +41,28 @@
       "forms": "[\"metafora\", \"metafory\", \"metaforę\", \"metaforą\", \"metaforyczny\", \"metaforyczna\"]",
       "nodes": "[\"bogurodzica\", \"dziady3\", \"dzuma\", \"iliada\", \"lalka\", \"mloda-polska\", \"renesans\", \"romantyzm\", \"wesele\"]",
       "quiz": "{\"question\": \"Jak nazwać zdanie „Czas to złodziej, kradnie nam dni\\\"?\", \"answer\": \"Metafora — czas dosłownie nie kradnie, ale działa jak złodziej. Przeniesienie znaczenia z dziedziny przedmiotów na dziedzinę abstrakcji.\", \"wrong\": [\"porównanie\", \"epitet\", \"metonimia\"], \"hint\": \"Brak słówka „jak\\\" — dlatego nie porównanie.\"}"
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "mesjanizm",
+      "definition": "Wiara że Polska to „Chrystus narodów\" — cierpi by zbawić inne narody. Mickiewicz w *Dziadach III*: rozbiory to ukrzyżowanie, zmartwychwstanie nadejdzie. Idea XIX-wiecznej emigracji.",
+      "category": "motywy",
+      "forms": "[\"mesjanizm\", \"mesjanizmu\", \"mesjanizmem\", \"mesjanistyczny\", \"mesjanistyczna\"]",
+      "nodes": "[\"dziady3\", \"romantyzm\", \"wesele\"]",
+      "quiz": "{\"question\": \"Co głosi polski mesjanizm romantyczny?\", \"answer\": \"Polska cierpi za inne narody jak Chrystus, by je odkupić — a po cierpieniu nadejdzie zmartwychwstanie. Mickiewicz, Słowacki, Krasiński.\", \"wrong\": [\"walka klasowa\", \"powrót do antyku\", \"krytyka Kościoła\"], \"hint\": \"Polska = Chrystus narodów.\"}"
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "dramat symboliczny",
+      "definition": "Dramat z postaciami będącymi symbolami abstrakcyjnych idei. *Wesele* Wyspiańskiego: Stańczyk, Wernyhora, Chochoł — to nie ludzie, to znaki polskiej historii i niemocy.",
+      "category": "gatunki",
+      "forms": "[\"dramat symboliczny\", \"dramatu symbolicznego\"]",
+      "nodes": "[\"wesele\"]",
+      "quiz": "{\"question\": \"Czym dramat symboliczny różni się od realistycznego?\", \"answer\": \"Symboliczny używa postaci-symboli (Chochoł, Stańczyk) reprezentujących idee. Realistyczny pokazuje konkretnych ludzi. *Wesele* — przykład symbolicznego.\", \"wrong\": [\"niczym\", \"jest krótszy\", \"jest komiczny\"], \"hint\": \"Postacie reprezentują idee, nie ludzi.\"}"
     }
   }
 ]

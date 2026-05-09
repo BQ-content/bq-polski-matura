@@ -35,23 +35,23 @@
   {
     "type": "term",
     "data": {
-      "term": "metafora",
-      "definition": "Przeniesienie znaczenia — coś nazywamy słowem które znaczy co innego, żeby pokazać podobieństwo. „Życie to taniec\" — życie nie tańczy, ale ma rytm i krok jak taniec.",
-      "category": "środki",
-      "forms": "[\"metafora\", \"metafory\", \"metaforę\", \"metaforą\", \"metaforyczny\", \"metaforyczna\"]",
-      "nodes": "[\"bogurodzica\", \"dziady3\", \"dzuma\", \"iliada\", \"lalka\", \"mloda-polska\", \"renesans\", \"romantyzm\", \"wesele\"]",
-      "quiz": "{\"question\": \"Jak nazwać zdanie „Czas to złodziej, kradnie nam dni\\\"?\", \"answer\": \"Metafora — czas dosłownie nie kradnie, ale działa jak złodziej. Przeniesienie znaczenia z dziedziny przedmiotów na dziedzinę abstrakcji.\", \"wrong\": [\"porównanie\", \"epitet\", \"metonimia\"], \"hint\": \"Brak słówka „jak\\\" — dlatego nie porównanie.\"}"
-    }
-  },
-  {
-    "type": "term",
-    "data": {
       "term": "teocentryzm",
       "definition": "Bóg = centrum świata. Średniowieczna wizja: wszystko ma sens przez relację do Stwórcy. Człowiek to droga do Boga, ziemia — przedsionek nieba.",
       "category": "konteksty",
       "forms": "[\"teocentryzm\", \"teocentryzmu\", \"teocentryczny\"]",
       "nodes": "[\"bogurodzica\", \"renesans\", \"sredniowiecze\"]",
       "quiz": "{\"question\": \"Czym jest teocentryzm?\", \"answer\": \"Pogląd, że Bóg jest centrum świata i miarą wszelkich rzeczy. Charakterystyczny dla średniowiecza.\", \"wrong\": [\"kult człowieka\", \"racjonalizm\", \"naturalizm\"], \"hint\": \"Theos = Bóg.\"}"
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "metafora",
+      "definition": "Przeniesienie znaczenia — coś nazywamy słowem które znaczy co innego, żeby pokazać podobieństwo. „Życie to taniec\" — życie nie tańczy, ale ma rytm i krok jak taniec.",
+      "category": "środki",
+      "forms": "[\"metafora\", \"metafory\", \"metaforę\", \"metaforą\", \"metaforyczny\", \"metaforyczna\"]",
+      "nodes": "[\"bogurodzica\", \"dziady3\", \"dzuma\", \"iliada\", \"lalka\", \"mloda-polska\", \"renesans\", \"romantyzm\", \"wesele\"]",
+      "quiz": "{\"question\": \"Jak nazwać zdanie „Czas to złodziej, kradnie nam dni\\\"?\", \"answer\": \"Metafora — czas dosłownie nie kradnie, ale działa jak złodziej. Przeniesienie znaczenia z dziedziny przedmiotów na dziedzinę abstrakcji.\", \"wrong\": [\"porównanie\", \"epitet\", \"metonimia\"], \"hint\": \"Brak słówka „jak\\\" — dlatego nie porównanie.\"}"
     }
   }
 ]

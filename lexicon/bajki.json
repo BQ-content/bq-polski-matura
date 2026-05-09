@@ -13,17 +13,6 @@
   {
     "type": "term",
     "data": {
-      "term": "morał",
-      "definition": "Pouczenie na końcu bajki — wprost wyłożona lekcja. „Niech się nie chwali, kto się ma chwalić\" — autor mówi czytelnikowi co ma zrozumieć.",
-      "category": "środki",
-      "forms": "[\"morał\", \"morału\", \"morałem\", \"morały\"]",
-      "nodes": "[\"bajki\", \"oswiecenie\"]",
-      "quiz": "{\"question\": \"Krótka pointa wyłożona na końcu bajki to:\", \"answer\": \"Morał — wyłożona wprost lekcja moralna. Krasicki używał morału na końcu lub na początku każdej bajki.\", \"wrong\": [\"puenta\", \"epigramat\", \"dygresja\"], \"hint\": \"Lekcja na końcu bajki.\"}"
-    }
-  },
-  {
-    "type": "term",
-    "data": {
       "term": "alegoria",
       "definition": "Obraz który ma JEDNO konkretne znaczenie ukryte — w bajce „Lis i kruk\" lis to spryt, kruk to próżność. Każda alegoria ma „klucz\" — czytelnik musi go znaleźć.",
       "category": "środki",
@@ -35,12 +24,12 @@
   {
     "type": "term",
     "data": {
-      "term": "antropomorfizacja",
-      "definition": "Nadanie zwierzętom lub przedmiotom cech ludzkich. W bajkach Krasickiego lis mówi, kruk myśli. Bez tego nie byłoby bajki.",
+      "term": "morał",
+      "definition": "Pouczenie na końcu bajki — wprost wyłożona lekcja. „Niech się nie chwali, kto się ma chwalić\" — autor mówi czytelnikowi co ma zrozumieć.",
       "category": "środki",
-      "forms": "[\"antropomorfizacja\", \"antropomorfizacji\", \"antropomorfizować\"]",
-      "nodes": "[\"bajki\"]",
-      "quiz": "{\"question\": \"Lis prawi morały, owca rozważa filozofię — co to za zabieg?\", \"answer\": \"Antropomorfizacja — nadanie cech ludzkich istotom nieludzkim. Fundament bajki zwierzęcej i mitów.\", \"wrong\": [\"personifikacja\", \"metonimia\", \"alegoria\"], \"hint\": \"Anthropos = człowiek.\"}"
+      "forms": "[\"morał\", \"morału\", \"morałem\", \"morały\"]",
+      "nodes": "[\"bajki\", \"oswiecenie\"]",
+      "quiz": "{\"question\": \"Krótka pointa wyłożona na końcu bajki to:\", \"answer\": \"Morał — wyłożona wprost lekcja moralna. Krasicki używał morału na końcu lub na początku każdej bajki.\", \"wrong\": [\"puenta\", \"epigramat\", \"dygresja\"], \"hint\": \"Lekcja na końcu bajki.\"}"
     }
   },
   {
@@ -52,6 +41,28 @@
       "forms": "[\"satyra\", \"satyry\", \"satyrę\", \"satyrą\", \"satyryczny\"]",
       "nodes": "[\"bajki\", \"oswiecenie\"]",
       "quiz": "{\"question\": \"Czym satyra różni się od bajki?\", \"answer\": \"Satyra otwarcie krytykuje wady społeczne i konkretne grupy. Bajka uczy przez alegorię. Satyra jest ostra, bajka — łagodniejsza.\", \"wrong\": [\"niczym\", \"satyra jest dłuższa\", \"satyra ma morał\"], \"hint\": \"Ostra krytyka społeczna.\"}"
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "klasycyzm",
+      "definition": "Oświeceniowa moda na powrót do antycznych form — porządek, miary, gatunki klasyczne (oda, satyra, bajka). Przeciwieństwo barokowej przesady.",
+      "category": "konteksty",
+      "forms": "[\"klasycyzm\", \"klasycyzmu\", \"klasyczny\", \"klasyczna\"]",
+      "nodes": "[\"bajki\", \"oswiecenie\"]",
+      "quiz": "{\"question\": \"Co charakteryzowało klasycyzm oświeceniowy?\", \"answer\": \"Powrót do antycznych form, porządku i umiaru. Klasyczne gatunki (oda, satyra, bajka), reguły poprawności. Krasicki, Niemcewicz.\", \"wrong\": [\"nadmiar emocji\", \"romantyczne uniesienia\", \"kult chłopa\"], \"hint\": \"Powrót do antyku, porządek.\"}"
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "antropomorfizacja",
+      "definition": "Nadanie zwierzętom lub przedmiotom cech ludzkich. W bajkach Krasickiego lis mówi, kruk myśli. Bez tego nie byłoby bajki.",
+      "category": "środki",
+      "forms": "[\"antropomorfizacja\", \"antropomorfizacji\", \"antropomorfizować\"]",
+      "nodes": "[\"bajki\"]",
+      "quiz": "{\"question\": \"Lis prawi morały, owca rozważa filozofię — co to za zabieg?\", \"answer\": \"Antropomorfizacja — nadanie cech ludzkich istotom nieludzkim. Fundament bajki zwierzęcej i mitów.\", \"wrong\": [\"personifikacja\", \"metonimia\", \"alegoria\"], \"hint\": \"Anthropos = człowiek.\"}"
     }
   }
 ]

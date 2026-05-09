@@ -1,0 +1,57 @@
+[
+  {
+    "type": "term",
+    "data": {
+      "term": "groteska",
+      "definition": "Mieszanka tragedii i komedii, piękna i brzydoty — coś co śmieszy i jednocześnie przeraża. Mrożek w *Tangu*: paradna scena gdy Edek tańczy nad ciałem Artura. Witkacy, Gombrowicz, Mrożek.",
+      "category": "środki",
+      "forms": "[\"groteska\", \"groteski\", \"grotesce\", \"groteskowy\", \"groteskowa\"]",
+      "nodes": "[\"miedzywojnie\", \"tango\", \"wspolczesnosc\"]",
+      "quiz": "{\"question\": \"Czym jest groteska w literaturze?\", \"answer\": \"Połączenie elementów tragicznych i komicznych, pięknych i odrażających. Tworzy efekt absurdu — Witkacy, Mrożek, Gombrowicz.\", \"wrong\": [\"gatunek dramatu\", \"odmiana metafory\", \"styl klasyczny\"], \"hint\": \"Śmiech i przerażenie naraz.\"}"
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "absurd",
+      "definition": "Świat bez sensu — Mrożek w *Tangu* pokazuje absurd nowej epoki: bunt rodziców produkuje konformistycznego syna, a syn-buntownik ginie z ręki prymitywa. Egzystencjalny żart bez happy endu.",
+      "category": "motywy",
+      "forms": "[\"absurd\", \"absurdu\", \"absurdem\", \"absurdalny\"]",
+      "nodes": "[\"dzuma\", \"tango\", \"wspolczesnosc\"]",
+      "quiz": "{\"question\": \"Co charakteryzuje absurd w dramacie XX wieku?\", \"answer\": \"Bezsens świata, w którym logika przestaje działać. Ionesco, Beckett, Mrożek — bohaterowie poruszają się w nielogicznej rzeczywistości, gdzie każdy wybór prowadzi do katastrofy.\", \"wrong\": [\"humor\", \"sprzeczność logiczna\", \"nadnaturalność\"], \"hint\": \"Świat bez sensu.\"}"
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "parabola",
+      "definition": "Historia która znaczy więcej niż mówi — *Dżuma* Camusa to parabola: epidemia w Oranie to każdy faszyzm, każde zło. Konkretna fabuła + uniwersalny przekaz.",
+      "category": "środki",
+      "forms": "[\"parabola\", \"paraboli\", \"parabolę\", \"parabolą\", \"paraboliczny\"]",
+      "nodes": "[\"dzuma\", \"granica\", \"miedzywojnie\", \"tango\", \"wspolczesnosc\"]",
+      "quiz": "{\"question\": \"Co odróżnia parabolę od zwykłej powieści?\", \"answer\": \"Parabola ma uniwersalne, ponadczasowe znaczenie ukryte za konkretną fabułą. *Dżuma* Camusa, *Folwark zwierzęcy* Orwella.\", \"wrong\": [\"długość\", \"humor\", \"narrator pierwszoosobowy\"], \"hint\": \"Konkretna historia + uniwersalna prawda.\"}"
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "dramat absurdu",
+      "definition": "XX-wieczny gatunek dramatu pokazujący nielogiczność istnienia — Beckett *Czekając na Godota*, Ionesco *Łysa śpiewaczka*, Mrożek *Tango*. Bohaterowie krążą bez celu, słowa nie znaczą.",
+      "category": "gatunki",
+      "forms": "[\"dramat absurdu\", \"dramatu absurdu\"]",
+      "nodes": "[\"tango\"]",
+      "quiz": "{\"question\": \"Czym jest „dramat absurdu\\\" jako gatunek?\", \"answer\": \"XX-wieczny dramat pokazujący bezsens egzystencji — Beckett, Ionesco, Mrożek. Bohaterowie nie potrafią się porozumieć, czas się zatrzymuje, znaczenia rozpadają.\", \"wrong\": [\"tragedia antyczna\", \"komedia\", \"dramat realistyczny\"], \"hint\": \"Beckett, Ionesco, Mrożek.\"}"
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "kryzys autorytetu",
+      "definition": "XX-wieczne załamanie tradycyjnych wzorców. W *Tangu* Mrożka nikt nie wie kto rządzi — rodzice odrzucili konwenanse, dzieci nie mają na czym się oprzeć. Pustka po wartościach.",
+      "category": "motywy",
+      "forms": "[\"kryzys autorytetu\", \"kryzysu autorytetu\"]",
+      "nodes": "[\"tango\"]",
+      "quiz": "{\"question\": \"Co to „kryzys autorytetu\\\" w *Tangu* Mrożka?\", \"answer\": \"Brak jasnych norm i wzorców — rodzice (lata 30te) odrzucili tradycję, dzieci nie mają punktu odniesienia. Edek wypełnia pustkę przemocą.\", \"wrong\": [\"kryzys finansowy\", \"kryzys polityczny\", \"wojna\"], \"hint\": \"Pustka po normach.\"}"
+    }
+  }
+]

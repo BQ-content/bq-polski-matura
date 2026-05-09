@@ -6,7 +6,7 @@
       "definition": "Powojenny ruch filozoficzny: człowiek jest skazany na wolność wyboru, sam tworzy sens. Camus, Sartre. Po Auschwitz Bóg nie wystarcza — człowiek sam musi wybrać.",
       "category": "konteksty",
       "forms": "[\"egzystencjalizm\", \"egzystencjalizmu\", \"egzystencjalny\"]",
-      "nodes": "[\"dzuma\", \"wspolczesnosc\"]",
+      "nodes": "[\"dzuma\", \"granica\", \"wspolczesnosc\"]",
       "quiz": "{\"question\": \"Co głosi egzystencjalizm Camusa i Sartrea?\", \"answer\": \"Człowiek skazany na wolność — sam tworzy sens życia w absurdalnym świecie. Wybór i odpowiedzialność jednostki.\", \"wrong\": [\"determinizm\", \"pochwała losu\", \"kult Boga\"], \"hint\": \"Wolność i absurd.\"}"
     }
   },
@@ -17,7 +17,7 @@
       "definition": "Świat bez sensu — Camus: dżuma przychodzi nie wiadomo dlaczego, zabija sprawiedliwych i niesprawiedliwych. Człowiek może tylko się buntować przeciw bezsensowi.",
       "category": "motywy",
       "forms": "[\"absurd\", \"absurdu\", \"absurdem\", \"absurdalny\"]",
-      "nodes": "[\"dzuma\", \"wspolczesnosc\"]",
+      "nodes": "[\"dzuma\", \"tango\", \"wspolczesnosc\"]",
       "quiz": "{\"question\": \"Czym jest „absurd\\\" w filozofii egzystencjalizmu?\", \"answer\": \"Konfrontacja człowieka z bezsensem świata — Camus, Sartre. Człowiek buntem nadaje sens życiu.\", \"wrong\": [\"humor\", \"sprzeczność logiczna\", \"nadnaturalność\"], \"hint\": \"Świat bez sensu, człowiek buntuje się.\"}"
     }
   },
@@ -28,7 +28,7 @@
       "definition": "Historia która znaczy więcej niż mówi — *Dżuma* Camusa to parabola: epidemia w Oranie to każdy faszyzm, każde zło. Konkretna fabuła + uniwersalny przekaz.",
       "category": "środki",
       "forms": "[\"parabola\", \"paraboli\", \"parabolę\", \"parabolą\", \"paraboliczny\"]",
-      "nodes": "[\"dzuma\", \"granica\", \"miedzywojnie\", \"wspolczesnosc\"]",
+      "nodes": "[\"dzuma\", \"granica\", \"miedzywojnie\", \"tango\", \"wspolczesnosc\"]",
       "quiz": "{\"question\": \"Co odróżnia parabolę od zwykłej powieści?\", \"answer\": \"Parabola ma uniwersalne, ponadczasowe znaczenie ukryte za konkretną fabułą. *Dżuma* Camusa, *Folwark zwierzęcy* Orwella.\", \"wrong\": [\"długość\", \"humor\", \"narrator pierwszoosobowy\"], \"hint\": \"Konkretna historia + uniwersalna prawda.\"}"
     }
   },
@@ -39,7 +39,7 @@
       "definition": "Mieszanka tragedii i komedii, piękna i brzydoty — coś co śmieszy i jednocześnie przeraża. Mrożek w *Tangu*: paradna scena gdzie Edek tańczy z trupem.",
       "category": "środki",
       "forms": "[\"groteska\", \"groteski\", \"grotesce\", \"groteskowy\", \"groteskowa\"]",
-      "nodes": "[\"miedzywojnie\", \"wspolczesnosc\"]",
+      "nodes": "[\"miedzywojnie\", \"tango\", \"wspolczesnosc\"]",
       "quiz": "{\"question\": \"Czym jest groteska w literaturze?\", \"answer\": \"Połączenie elementów tragicznych i komicznych, pięknych i odrażających. Tworzy efekt absurdu — Witkacy, Mrożek, Gombrowicz.\", \"wrong\": [\"gatunek dramatu\", \"odmiana metafory\", \"styl klasyczny\"], \"hint\": \"Śmiech i przerażenie naraz.\"}"
     }
   },

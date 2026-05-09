@@ -6,7 +6,7 @@
       "definition": "Dramat o upadku szlachetnego bohatera — Antygona, Makbet. Kończy się katastrofą, widz przeżywa katharsis. Bohater pada przez własną winę (hamartia) i przeznaczenie.",
       "category": "gatunki",
       "forms": "[\"tragedia\", \"tragedii\", \"tragedię\", \"tragedią\", \"tragiczny\", \"tragiczna\"]",
-      "nodes": "[\"antyk\", \"makbet\"]",
+      "nodes": "[\"antygona\", \"antyk\", \"makbet\"]",
       "quiz": "{\"question\": \"Co charakteryzuje tragedię antyczną?\", \"answer\": \"Upadek szlachetnego bohatera (hamartia + hybris), nieuchronność losu (fatum), katharsis widza. Arystoteles opisał reguły w *Poetyce*.\", \"wrong\": [\"szczęśliwe zakończenie\", \"zwykły bohater\", \"humor\"], \"hint\": \"Bohater wzniosły, koniec zły.\"}"
     }
   },
@@ -24,12 +24,34 @@
   {
     "type": "term",
     "data": {
+      "term": "fatum",
+      "definition": "Nieuchronny los — w tragedii antycznej fatum jest silniejsze od bohatera. Edyp ucieka przed przepowiednią i wpada wprost w nią. Achilles wybiera krótkie życie pełne sławy.",
+      "category": "motywy",
+      "forms": "[\"fatum\", \"fatumu\"]",
+      "nodes": "[\"antyk\", \"dziady3\", \"iliada\", \"makbet\"]",
+      "quiz": "{\"question\": \"Czym jest fatum w tragedii antycznej?\", \"answer\": \"Nieuchronny los, którego bohater nie może uniknąć — wpisany w narodzenie. Edyp i Antygona giną przez fatum.\", \"wrong\": [\"szczęście\", \"wybór bohatera\", \"kara boża\"], \"hint\": \"Los którego nie unikniesz.\"}"
+    }
+  },
+  {
+    "type": "term",
+    "data": {
       "term": "vanitas",
       "definition": "Wszystko przemija — czaszka, świeca, zegar. Barokowi malarze i poeci przypominali: luksus ma datę ważności. „Vanitas vanitatum et omnia vanitas\" — marność nad marnościami.",
       "category": "motywy",
       "forms": "[\"vanitas\"]",
-      "nodes": "[\"barok\", \"makbet\"]",
+      "nodes": "[\"barok\", \"makbet\", \"polikarp\"]",
       "quiz": "{\"question\": \"Co oznacza motyw vanitas w sztuce barokowej?\", \"answer\": \"Marność życia ziemskiego, przemijalność. Symbole: czaszka, klepsydra, zwiędły kwiat. Kontrapunkt do bogactwa epoki.\", \"wrong\": [\"radość życia\", \"pochwała natury\", \"kult władzy\"], \"hint\": \"Czaszka, klepsydra, zegar.\"}"
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "hamartia",
+      "definition": "Tragiczny błąd bohatera — nie zbrodnia, ale błędna decyzja wynikająca z charakteru. Antygona pogrzebała brata wiedząc, że to oznacza śmierć. Decyzja słuszna moralnie, samobójcza praktycznie.",
+      "category": "motywy",
+      "forms": "[\"hamartia\", \"hamartii\", \"hamartię\"]",
+      "nodes": "[\"antygona\", \"makbet\"]",
+      "quiz": "{\"question\": \"Czym hamartia różni się od zbrodni?\", \"answer\": \"Hamartia to tragiczny błąd wynikający z charakteru, nie zła wola. Antygona postępuje zgodnie z sumieniem — i właśnie dlatego ginie.\", \"wrong\": [\"niczym\", \"jest cięższa\", \"dotyczy bogów\"], \"hint\": \"Błąd nie zła wola.\"}"
     }
   },
   {
@@ -41,17 +63,6 @@
       "forms": "[\"degeneracja moralna\", \"degeneracji moralnej\", \"degenerację moralną\"]",
       "nodes": "[\"makbet\"]",
       "quiz": "{\"question\": \"Co dzieje się z Makbetem w trakcie tragedii?\", \"answer\": \"Stopniowa degeneracja moralna — od lojalnego rycerza do paranoicznego tyrana. Każdy nowy mord pcha go w głąb zła.\", \"wrong\": [\"nawraca się\", \"wycofuje się\", \"pozostaje stały\"], \"hint\": \"Spirala krwi.\"}"
-    }
-  },
-  {
-    "type": "term",
-    "data": {
-      "term": "Lady Makbet",
-      "definition": "Ambitna żona pchająca męża do zbrodni — wyśmiewa jego wahania, „Out, damned spot!\". Później szaleje obsesyjnym myciem rąk. Symbol manipulacji i wyrzutów sumienia.",
-      "category": "motywy",
-      "forms": "[\"Lady Makbet\"]",
-      "nodes": "[\"makbet\"]",
-      "quiz": "{\"question\": \"Jaką rolę gra Lady Makbet w tragedii Szekspira?\", \"answer\": \"Inspiratorka morderstwa Duncana — wyśmiewa wahania Makbeta. Później jej psychika załamuje się przez wyrzuty sumienia (obsesja mycia rąk).\", \"wrong\": [\"niewinna ofiara\", \"pasywna obserwatorka\", \"doradczyni króla\"], \"hint\": \"Pcha do zbrodni, później szaleje.\"}"
     }
   }
 ]

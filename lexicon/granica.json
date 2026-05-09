@@ -24,34 +24,34 @@
   {
     "type": "term",
     "data": {
-      "term": "narrator wszechwiedzący",
-      "definition": "Narrator wie wszystko — co bohaterowie myślą, co stanie się na końcu, co zostało wcześniej. Jest jak oko Boga nad fabułą. Klasyczny w XIX-wiecznej powieści realistycznej.",
-      "category": "środki",
-      "forms": "[\"narrator wszechwiedzący\", \"narratora wszechwiedzącego\"]",
-      "nodes": "[\"granica\", \"lalka\"]",
-      "quiz": "{\"question\": \"Kim jest narrator wszechwiedzący?\", \"answer\": \"Narrator znający myśli, uczucia i przyszłość wszystkich bohaterów. Klasyk powieści realistycznej XIX wieku — Prus, Tołstoj.\", \"wrong\": [\"narrator pierwszoosobowy\", \"narrator behawiorystyczny\", \"narrator subiektywny\"], \"hint\": \"Wie więcej niż bohaterowie.\"}"
-    }
-  },
-  {
-    "type": "term",
-    "data": {
       "term": "parabola",
       "definition": "Historia która znaczy więcej niż mówi — *Dżuma* Camusa to parabola: epidemia w Oranie to każdy faszyzm, każde zło. Konkretna fabuła + uniwersalny przekaz.",
       "category": "środki",
       "forms": "[\"parabola\", \"paraboli\", \"parabolę\", \"parabolą\", \"paraboliczny\"]",
-      "nodes": "[\"dzuma\", \"granica\", \"miedzywojnie\", \"wspolczesnosc\"]",
+      "nodes": "[\"dzuma\", \"granica\", \"miedzywojnie\", \"tango\", \"wspolczesnosc\"]",
       "quiz": "{\"question\": \"Co odróżnia parabolę od zwykłej powieści?\", \"answer\": \"Parabola ma uniwersalne, ponadczasowe znaczenie ukryte za konkretną fabułą. *Dżuma* Camusa, *Folwark zwierzęcy* Orwella.\", \"wrong\": [\"długość\", \"humor\", \"narrator pierwszoosobowy\"], \"hint\": \"Konkretna historia + uniwersalna prawda.\"}"
     }
   },
   {
     "type": "term",
     "data": {
-      "term": "symbol",
-      "definition": "Obraz który NIE ma jednego znaczenia — chocholi taniec w *Weselu* to bezruch, otępienie, klątwa, narodowa choroba… Każdy widz odkrywa swoje znaczenie. Inaczej niż alegoria.",
+      "term": "egzystencjalizm",
+      "definition": "Powojenny ruch filozoficzny: człowiek jest skazany na wolność wyboru, sam tworzy sens. Camus, Sartre. Po Auschwitz Bóg nie wystarcza — człowiek sam musi wybrać.",
+      "category": "konteksty",
+      "forms": "[\"egzystencjalizm\", \"egzystencjalizmu\", \"egzystencjalny\"]",
+      "nodes": "[\"dzuma\", \"granica\", \"wspolczesnosc\"]",
+      "quiz": "{\"question\": \"Co głosi egzystencjalizm Camusa i Sartrea?\", \"answer\": \"Człowiek skazany na wolność — sam tworzy sens życia w absurdalnym świecie. Wybór i odpowiedzialność jednostki.\", \"wrong\": [\"determinizm\", \"pochwała losu\", \"kult Boga\"], \"hint\": \"Wolność i absurd.\"}"
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "narrator wszechwiedzący",
+      "definition": "Narrator wie wszystko — co bohaterowie myślą, co stanie się na końcu, co zostało wcześniej. Jest jak oko Boga nad fabułą. Klasyczny w XIX-wiecznej powieści realistycznej.",
       "category": "środki",
-      "forms": "[\"symbol\", \"symbolu\", \"symbolem\", \"symbole\", \"symboliczny\", \"symboliczna\"]",
-      "nodes": "[\"granica\", \"miedzywojnie\", \"mloda-polska\", \"wesele\"]",
-      "quiz": "{\"question\": \"Symbol różni się od alegorii tym że:\", \"answer\": \"Symbol ma WIELE możliwych znaczeń, alegoria JEDNO ustalone. Wieniec laurowy może symbolizować zwycięstwo, nieśmiertelność, sławę — w alegorii byłby tylko jednym.\", \"wrong\": [\"nie różni się\", \"jest krótszy\", \"jest tylko religijny\"], \"hint\": \"Wielość znaczeń.\"}"
+      "forms": "[\"narrator wszechwiedzący\", \"narratora wszechwiedzącego\"]",
+      "nodes": "[\"granica\", \"lalka\"]",
+      "quiz": "{\"question\": \"Kim jest narrator wszechwiedzący?\", \"answer\": \"Narrator znający myśli, uczucia i przyszłość wszystkich bohaterów. Klasyk powieści realistycznej XIX wieku — Prus, Tołstoj.\", \"wrong\": [\"narrator pierwszoosobowy\", \"narrator behawiorystyczny\", \"narrator subiektywny\"], \"hint\": \"Wie więcej niż bohaterowie.\"}"
     }
   }
 ]
