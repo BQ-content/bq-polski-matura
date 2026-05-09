@@ -6,8 +6,7 @@
       "nodes": "[\"antyk\",\"antygona\"]",
       "definition": "Widz wie więcej niż bohater — Edyp szuka mordercy, a to on sam.",
       "quiz": "{\"question\":\"Widz wie, że Edyp zabił ojca — bohater nie wie. Jak nazywamy tę sytuację dramatyczną?\",\"wrong\":[\"katharsis\",\"konflikt tragiczny\",\"hamartia\"],\"answer\":\"Ironia tragiczna — widz zna prawdę, której bohater nie zna. Buduje napięcie i litość.\"}",
-      "category": "poetyka",
-      "relation": "poetyka"
+      "category": "poetyka"
     }
   },
   {
@@ -17,8 +16,7 @@
       "nodes": "[\"antyk\",\"antygona\"]",
       "definition": "Oczyszczenie przez litość i trwogę — po to chodzisz do teatru.",
       "quiz": "{\"question\":\"Arystoteles opisał emocjonalne oczyszczenie widza tragedii. Jakim terminem?\",\"wrong\":[\"hamartia\",\"hybris\",\"fatum\"],\"answer\":\"Katharsis — widz przeżywa litość i trwogę, co prowadzi do emocjonalnego oczyszczenia.\"}",
-      "category": "poetyka",
-      "relation": "poetyka"
+      "category": "poetyka"
     }
   },
   {
@@ -28,8 +26,7 @@
       "nodes": "[\"antyk\"]",
       "definition": "Piękne ciało + piękna dusza = pełnia człowieczeństwa.",
       "quiz": "{\"question\":\"Jak nazywa się antyczny ideał jedności piękna fizycznego i duchowego?\",\"wrong\":[\"arete\",\"humanizm\",\"antropocentryzm\"],\"answer\":\"Kalokagathia — ideał harmonii ciała i ducha, fundament greckiego wychowania.\"}",
-      "category": "poetyka",
-      "relation": "poetyka"
+      "category": "poetyka"
     }
   },
   {
@@ -39,8 +36,7 @@
       "nodes": "[\"antyk\"]",
       "definition": "Bądź najlepszy — w walce, mowie, myśleniu.",
       "quiz": "{\"question\":\"Jakim terminem Grecy określali dążenie do doskonałości we wszystkim?\",\"wrong\":[\"kalokagathia\",\"fatum\",\"katharsis\"],\"answer\":\"Arete — cnota jako dążenie do bycia najlepszym w każdej dziedzinie.\"}",
-      "category": "poetyka",
-      "relation": "poetyka"
+      "category": "poetyka"
     }
   },
   {
@@ -50,8 +46,7 @@
       "nodes": "[\"antyk\",\"iliada\"]",
       "definition": "Wielka opowieść wierszem o bohaterach i bogach — Homer to wymyślił.",
       "quiz": "{\"question\":\"Homer stworzył matrycę gatunku: inwokacja, narrator wszechwidzący, stały epitet. Jaki to gatunek?\",\"wrong\":[\"tragedia\",\"oda\",\"ballada\"],\"answer\":\"Epos — rozbudowany utwór epicki o czynach bohaterów, z inwokacją i narratorem wszechwidzącym.\"}",
-      "category": "poetyka",
-      "relation": "poetyka"
+      "category": "poetyka"
     }
   },
   {
@@ -61,8 +56,7 @@
       "nodes": "[\"antyk\",\"antygona\"]",
       "definition": "Gatunek, w którym bohater musi przegrać — bo świat nie ma dobrego wyjścia.",
       "quiz": "{\"question\":\"Gatunek wymysłony przez Greków, w którym bohater popada w nieuchronną klęskę. Jaki?\",\"wrong\":[\"epos\",\"komedia\",\"ballada\"],\"answer\":\"Tragedia — bohater staje wobec konfliktu bez dobrego rozwiązania, kończy klęską.\"}",
-      "category": "poetyka",
-      "relation": "poetyka"
+      "category": "poetyka"
     }
   }
 ]

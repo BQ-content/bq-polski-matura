@@ -6,8 +6,7 @@
       "nodes": "[\"lalka\",\"pozytywizm\"]",
       "definition": "Społeczeństwo pod mikroskopem — diagnoza jak u lekarza.",
       "quiz": "{\"question\":\"*Lalka* pokazuje Warszawę jak pod mikroskopem: arystokracja, burżuazja, biedota. Jaki to gatunek?\",\"wrong\":[\"epos\",\"powieść historyczna\",\"romans\"],\"answer\":\"Powieść realistyczna — gatunek ukazujący społeczeństwo w sposób wiarygodny i szczegółowy.\"}",
-      "category": "poetyka",
-      "relation": "poetyka"
+      "category": "poetyka"
     }
   },
   {
@@ -17,8 +16,7 @@
       "nodes": "[\"lalka\",\"pozytywizm\"]",
       "definition": "Wokulski, Rzecki, Ochocki — trzy pokolenia marzyci, każde przegrywa inaczej.",
       "quiz": "{\"question\":\"Wokulski ma energię, Rzecki żyje przeszłością, Ochocki ucieka w naukę. Jaki typ bohatera łączy ich wszystkich?\",\"wrong\":[\"pozytywista\",\"romantyk\",\"realista\"],\"answer\":\"Idealista — bohater kierujący się ideałami, które rozbijają się o rzeczywistość.\"}",
-      "category": "poetyka",
-      "relation": "poetyka"
+      "category": "poetyka"
     }
   },
   {
@@ -28,8 +26,7 @@
       "nodes": "[\"lalka\"]",
       "definition": "Trzy punkty widzenia: pamiętnik Rzeckiego, narrator, myśli Wokulskiego.",
       "quiz": "{\"question\":\"*Lalka* opowiada z trzech perspektyw naraz: pamiętnik, narrator i strumień świadomości. Jaka to technika?\",\"wrong\":[\"narracja ramowa\",\"monolog wewnętrzny\",\"mowa pozornie zależna\"],\"answer\":\"Narracja wielogłosowa — użycie wielu perspektyw narracyjnych w jednym utworze.\"}",
-      "category": "poetyka",
-      "relation": "poetyka"
+      "category": "poetyka"
     }
   },
   {
@@ -39,8 +36,7 @@
       "nodes": "[\"lalka\"]",
       "definition": "Miłość Wokulskiego to nie melodramat — to metafora energii kontra stagnacji.",
       "quiz": "{\"question\":\"Miłość Wokulskiego do Izabeli to nie romans — symbolizuje zderzenie nowoczesności z feudalizmem. Jaki środek stylistyczny to opisuje?\",\"wrong\":[\"alegoria\",\"symbol\",\"porównanie\"],\"answer\":\"Metafora — przeniesienie znaczenia: miłość jako obraz społecznego konfliktu.\"}",
-      "category": "poetyka",
-      "relation": "poetyka"
+      "category": "poetyka"
     }
   }
 ]

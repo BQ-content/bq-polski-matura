@@ -6,8 +6,7 @@
       "nodes": "[\"barok\"]",
       "definition": "Zaskocz czytelnika — paradoks, zagadka, zaskakujący pomysł poetycki.",
       "quiz": "{\"question\":\"Morsztyn porównał zakochanego do trupa. Jaki barokowy nurt opiera się na zaskakujących zestawieniach?\",\"wrong\":[\"marinizm\",\"sarmatyzm\",\"klasycyzm\"],\"answer\":\"Konceptyzm — nurt oparty na koncepcie, zaskakującym pomyśle poetyckim.\"}",
-      "category": "epoki",
-      "relation": "epoki"
+      "category": "epoki"
     }
   },
   {
@@ -17,8 +16,7 @@
       "nodes": "[\"barok\"]",
       "definition": "Polska szlachta wierzyła, że pochodzi od starożytnych Sarmatów — dumna, pobożna, zaściankowa.",
       "quiz": "{\"question\":\"Pasek z dumą portretuje szlachcica: odważnego, pobożnego i zarazem zaściankowego. Jaka to formacja kulturowa?\",\"wrong\":[\"konceptyzm\",\"humanizm\",\"pozytywizm\"],\"answer\":\"Sarmatyzm — ideologia polskiej szlachty XVII w., łącząca patriotyzm z konserwatyzmem.\"}",
-      "category": "epoki",
-      "relation": "epoki"
+      "category": "epoki"
     }
   },
   {
@@ -28,8 +26,7 @@
       "nodes": "[\"barok\"]",
       "definition": "Zaskakujący pomysł poetycki — porównanie odległych rzeczy.",
       "quiz": "{\"question\":\"Morsztyn zestawia miłość ze śmiercią w *Do trupa*. Jak nazywamy taki zaskakujący chwyt?\",\"wrong\":[\"metafora\",\"alegoria\",\"inwokacja\"],\"answer\":\"Koncept — zaskakujący pomysł poetycki oparty na paradoksie lub odległym porównaniu.\"}",
-      "category": "poetyka",
-      "relation": "poetyka"
+      "category": "poetyka"
     }
   },
   {
@@ -39,8 +36,7 @@
       "nodes": "[\"barok\"]",
       "definition": "Wirtuozeria słowa jako cel sam w sobie — forma ważniejsza od treści.",
       "quiz": "{\"question\":\"Jaki barokowy nurt stawiał wirtuozerię formy poetyckiej ponad treść?\",\"wrong\":[\"konceptyzm\",\"sarmatyzm\",\"klasycyzm\"],\"answer\":\"Marinizm — nurt poetycki stawiający piękno formy i językową wirtuozerię ponad przekaz.\"}",
-      "category": "poetyka",
-      "relation": "poetyka"
+      "category": "poetyka"
     }
   }
 ]

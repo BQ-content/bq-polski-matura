@@ -3,22 +3,20 @@
     "type": "lexicon",
     "data": {
       "term": "praca u podstaw",
-      "nodes": "[\"pozytywizm\",\"historia\"]",
+      "nodes": "[\"pozytywizm\"]",
       "definition": "Ucz chłopów czytać, buduj szkoły — rewolucja przez edukację.",
       "quiz": "{\"question\":\"Pozytyści chcieli podnieść najuboższych: szkoły, szpitale, walka z analfabetyzmem. Jaki to program?\",\"wrong\":[\"praca organiczna\",\"mesjanizm\",\"humanizm\"],\"answer\":\"Praca u podstaw — program edukacji i pomocy najuboższym warstwom społeczeństwa.\"}",
-      "category": "epoki",
-      "relation": "epoki"
+      "category": "epoki"
     }
   },
   {
     "type": "lexicon",
     "data": {
       "term": "pozytywizm filozoficzny",
-      "nodes": "[\"pozytywizm\",\"filozofia\"]",
+      "nodes": "[\"pozytywizm\"]",
       "definition": "Liczy się to, co zbadasz naukowo — Comte: wiedza, empiria, fakty.",
       "quiz": "{\"question\":\"Comte twierdzi: liczy się nauka i empiria, zero mistyki. Jaki nurt filozoficzny za tym stoi?\",\"wrong\":[\"racjonalizm\",\"egzystencjalizm\",\"humanizm\"],\"answer\":\"Pozytywizm filozoficzny — nurt uznający wiedzę naukową za jedyne źródło prawdy.\"}",
-      "category": "konteksty",
-      "relation": "konteksty"
+      "category": "konteksty"
     }
   }
 ]

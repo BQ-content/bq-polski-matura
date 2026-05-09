@@ -6,8 +6,7 @@
       "nodes": "[\"iliada\",\"antyk\"]",
       "definition": "Wezwanie muzy na początku eposu — Homer prosi o natchnienie.",
       "quiz": "{\"question\":\"Homer zaczyna *Iliadę* od wezwania muzy. Jak nazywamy tę konwencję?\",\"wrong\":[\"in medias res\",\"koncept\",\"apostrofa\"],\"answer\":\"Inwokacja — uroczyste wezwanie muzy o natchnienie, otwierające epos.\"}",
-      "category": "poetyka",
-      "relation": "poetyka"
+      "category": "poetyka"
     }
   },
   {
@@ -17,8 +16,7 @@
       "nodes": "[\"iliada\"]",
       "definition": "Start w środku akcji — *Iliada* wskakuje w 9. rok wojny.",
       "quiz": "{\"question\":\"*Iliada* nie zaczyna od wybuchu wojny — wskakujemy w jej dziewiąty rok. Jaka to technika?\",\"wrong\":[\"inwokacja\",\"retrospekcja\",\"narracja ramowa\"],\"answer\":\"In medias res — rozpoczęcie opowieści w środku wydarzeń, bez chronologicznego wstępu.\"}",
-      "category": "poetyka",
-      "relation": "poetyka"
+      "category": "poetyka"
     }
   },
   {
@@ -28,8 +26,7 @@
       "nodes": "[\"iliada\"]",
       "definition": "Rozbudowane porównanie — wojownik pada jak dąb ścięty w lesie.",
       "quiz": "{\"question\":\"Homer porównuje spadającego wojownika do dębu w lesie — na pół strony. Jaki to środek?\",\"wrong\":[\"stały epitet\",\"metafora\",\"alegoria\"],\"answer\":\"Porównanie homeryckie — rozbudowane porównanie epiczne, tworzące osobny obraz.\"}",
-      "category": "poetyka",
-      "relation": "poetyka"
+      "category": "poetyka"
     }
   },
   {
@@ -39,8 +36,7 @@
       "nodes": "[\"iliada\"]",
       "definition": "Achilles 'szybkonogi', Atena 'sowiooka' — przydomek przyklejony na stałe.",
       "quiz": "{\"question\":\"Achilles jest zawsze 'szybkonogi', Atena 'sowiooka'. Jak nazywamy taki powtarzalny przydomek?\",\"wrong\":[\"porównanie homeryckie\",\"peryfraza\",\"metonimia\"],\"answer\":\"Stały epitet — stały, powtarzalny przydomek określający postać lub przedmiot w eposie.\"}",
-      "category": "poetyka",
-      "relation": "poetyka"
+      "category": "poetyka"
     }
   }
 ]

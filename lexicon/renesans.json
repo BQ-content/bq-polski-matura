@@ -6,8 +6,7 @@
       "nodes": "[\"renesans\",\"bogurodzica\"]",
       "definition": "Człowiek w centrum — zastąpił teocentryzm, ale nie odrzucił wiary.",
       "quiz": "{\"question\":\"Renesans postawił człowieka i jego godność w centrum zainteresowania. Jaki to pogląd?\",\"wrong\":[\"teocentryzm\",\"humanizm\",\"racjonalizm\"],\"answer\":\"Antropocentryzm — światopogląd stawiający człowieka (nie Boga) w centrum refleksji.\"}",
-      "category": "epoki",
-      "relation": "epoki"
+      "category": "epoki"
     }
   },
   {
@@ -17,8 +16,7 @@
       "nodes": "[\"renesans\"]",
       "definition": "Do źródeł! — wracamy do Greków i Rzymian.",
       "quiz": "{\"question\":\"Reneansowi humaniści wracali do antycznych tekstów. Jakie łacińskie hasło to wyraża?\",\"wrong\":[\"carpe diem\",\"vanitas\",\"cogito ergo sum\"],\"answer\":\"Ad fontes — 'do źródeł', hasło renesansu wzywające do powrotu do antycznych wzorów.\"}",
-      "category": "epoki",
-      "relation": "epoki"
+      "category": "epoki"
     }
   },
   {
@@ -28,8 +26,7 @@
       "nodes": "[\"renesans\"]",
       "definition": "Bunt wobec Kościoła — Luter, podziały, ale w Polsce tolerancja.",
       "quiz": "{\"question\":\"XVI wiek: Luter kwestionuje Kościół, Europa się dzieli. Jaki ruch religijny to zapoczątkował?\",\"wrong\":[\"scholastyka\",\"kontrreformacja\",\"humanizm\"],\"answer\":\"Reformacja — ruch religijny XVI w. kwestionujący autorytet Kościoła katolickiego.\"}",
-      "category": "konteksty",
-      "relation": "konteksty"
+      "category": "konteksty"
     }
   }
 ]

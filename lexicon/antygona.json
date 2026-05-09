@@ -4,7 +4,6 @@
     "data": {
       "term": "konflikt tragiczny",
       "nodes": "[\"antygona\",\"antyk\"]",
-      "relation": "poetyka",
       "definition": "Dwie racje, obie słuszne — żadne wyjście nie jest dobre.",
       "quiz": "{\"question\":\"W *Antygonie* prawo boskie zderza się z prawem państwowym. Jak nazywamy taką sytuację?\",\"wrong\":[\"ironia tragiczna\",\"hamartia\",\"katharsis\"],\"answer\":\"Konflikt tragiczny — zderzenie dwóch równorzędnych racji, bez możliwości rozstrzygnięcia.\"}",
       "category": "poetyka"
@@ -15,7 +14,6 @@
     "data": {
       "term": "hamartia",
       "nodes": "[\"antygona\"]",
-      "relation": "poetyka",
       "definition": "Błąd tragiczny — nie ze złości, a z przekonania o własnej słuszności.",
       "quiz": "{\"question\":\"Kreon nie jest tyranem — zbyt mocno wierzył we własną racje. Jak nazywamy taki błąd?\",\"wrong\":[\"hybris\",\"fatum\",\"konflikt tragiczny\"],\"answer\":\"Hamartia — błąd tragiczny wynikający nie ze złej woli, ale z ludzkiej ograniczoności.\"}",
       "category": "poetyka"
@@ -26,7 +24,6 @@
     "data": {
       "term": "prawo boskie",
       "nodes": "[\"antygona\"]",
-      "relation": "poetyka",
       "definition": "Prawo wyższe od ludzkiego — Antygona musi pochować brata.",
       "quiz": "{\"question\":\"Antygona łamie rozkaz króla, bo kieruje się prawem wyższym niż stanowione. Jakim?\",\"wrong\":[\"prawo naturalne\",\"prawo zwyczajowe\",\"dekret królewski\"],\"answer\":\"Prawo boskie — nakazy moralne uważane za wyższe niż prawo ustanowione przez ludzi.\"}",
       "category": "poetyka"

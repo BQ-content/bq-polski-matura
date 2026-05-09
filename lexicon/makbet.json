@@ -6,8 +6,7 @@
       "nodes": "[\"makbet\"]",
       "definition": "Przyzwoity człowiek krok po kroku staje się potworem.",
       "quiz": "{\"question\":\"Makbet: od szanowanego wodza do nihilisty-mordercy. Jak nazywamy ten proces?\",\"wrong\":[\"hamartia\",\"hybris\",\"katharsis\"],\"answer\":\"Degeneracja moralna — stopniowy rozpad systemu wartości bohatera pod wpływem zbrodni.\"}",
-      "category": "poetyka",
-      "relation": "poetyka"
+      "category": "poetyka"
     }
   },
   {
@@ -17,8 +16,7 @@
       "nodes": "[\"makbet\"]",
       "definition": "Krew = wina. Lady Makbet myje ręce z niewidzialnej plamy — sumienie nie odpuszcza.",
       "quiz": "{\"question\":\"Lady Makbet lunatykuje i myje ręce z niewidzialnej plamy. Co symbolizuje krew w *Makbecie*?\",\"wrong\":[\"władzę\",\"zemstę\",\"losu\"],\"answer\":\"Symbolika krwi — krew symbolizuje winę, której nie da się zmyć ani odwrócić.\"}",
-      "category": "poetyka",
-      "relation": "poetyka"
+      "category": "poetyka"
     }
   },
   {
@@ -28,8 +26,7 @@
       "nodes": "[\"makbet\",\"antygona\"]",
       "definition": "Zło nie potrzebuje potworów — potrzebuje ambicji bez hamulców.",
       "quiz": "{\"question\":\"Makbet nie jest z natury zły — przepowiednia i żona uruchamiają w nim siłę, która niszczy. Jaką?\",\"wrong\":[\"hybris\",\"fatum\",\"hamartia\"],\"answer\":\"Ambicja — pragnienie władzy, które bez moralnych hamulców prowadzi do zbrodni.\"}",
-      "category": "poetyka",
-      "relation": "poetyka"
+      "category": "poetyka"
     }
   }
 ]

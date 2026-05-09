@@ -6,8 +6,7 @@
       "nodes": "[\"sredniowiecze\"]",
       "definition": "Trzy drogi do Boga: święty, rycerz, władca.",
       "quiz": "{\"question\":\"Św. Aleksy, Roland, Chrobry — każdy to inna droga do zbawienia. Jak nazywamy te modele?\",\"wrong\":[\"archetypy\",\"toposy\",\"alegorie\"],\"answer\":\"Wzorce osobowe — idealne modele postaw propagowane w literaturze średniowiecznej.\"}",
-      "category": "epoki",
-      "relation": "epoki"
+      "category": "epoki"
     }
   },
   {
@@ -17,8 +16,7 @@
       "nodes": "[\"sredniowiecze\"]",
       "definition": "Wyrzeka się świata dla Boga — św. Aleksy spał pod schodami własnego domu.",
       "quiz": "{\"question\":\"Św. Aleksy porzucił bogactwo i żył w skrajnej nędzy dla Boga. Jaki średniowieczny wzorzec realizuje?\",\"wrong\":[\"rycerz\",\"władca\",\"wieszcz\"],\"answer\":\"Asceta — człowiek wyrzekający się dóbr doczesnych w imię życia duchowego.\"}",
-      "category": "epoki",
-      "relation": "epoki"
+      "category": "epoki"
     }
   },
   {
@@ -28,8 +26,7 @@
       "nodes": "[\"sredniowiecze\",\"bogurodzica\"]",
       "definition": "Honor, wierność, walka w imię Boga — Roland ginie, ale nie zdradza.",
       "quiz": "{\"question\":\"Roland ginie, ale nie trąbi o pomoc — honor ponad życie. Jaki kodeks wartości reprezentuje?\",\"wrong\":[\"sarmatyzm\",\"stoicyzm\",\"prometeizm\"],\"answer\":\"Etos rycerski — średniowieczny kodeks honorowy: odwaga, wierność, walka za wiarę.\"}",
-      "category": "epoki",
-      "relation": "epoki"
+      "category": "epoki"
     }
   },
   {
@@ -39,8 +36,7 @@
       "nodes": "[\"sredniowiecze\",\"barok\"]",
       "definition": "Taniec śmierci — król i żebrak tańczą razem, bo śmierć równa wszystkich.",
       "quiz": "{\"question\":\"Śmierć prowadzi do tańca i króla, i żebraka. Jaki średniowieczny motyw to wyraża?\",\"wrong\":[\"vanitas\",\"memento mori\",\"fatum\"],\"answer\":\"Danse macabre — taniec śmierci, motyw równości wobec śmierci niezależnie od stanu.\"}",
-      "category": "epoki",
-      "relation": "epoki"
+      "category": "epoki"
     }
   }
 ]

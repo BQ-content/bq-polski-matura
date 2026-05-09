@@ -6,8 +6,7 @@
       "nodes": "[\"bogurodzica\",\"sredniowiecze\",\"renesans\"]",
       "definition": "Bóg w centrum wszystkiego — człowiek ma wartość tylko jako stworzenie Boże.",
       "quiz": "{\"question\":\"W *Bogurodzicy* człowiek prosi Boga przez pośredników. Jaka wizja świata za tym stoi?\",\"wrong\":[\"antropocentryzm\",\"humanizm\",\"racjonalizm\"],\"answer\":\"Teocentryzm — światopogląd, w którym Bóg jest centrum i miarą wszystkiego.\"}",
-      "category": "epoki",
-      "relation": "epoki"
+      "category": "epoki"
     }
   },
   {
@@ -17,19 +16,17 @@
       "nodes": "[\"bogurodzica\",\"sredniowiecze\"]",
       "definition": "Nie mówisz wprost do Boga — prosisz Maryję, Maryja prosi Chrystusa.",
       "quiz": "{\"question\":\"W *Bogurodzicy* modlitwa idzie: człowiek → Maryja → Jan Chrzciciel → Chrystus. Jaka średniowieczna zasada?\",\"wrong\":[\"teocentryzm\",\"scholastyka\",\"feudalizm\"],\"answer\":\"Hierarchia pośredników — zasada, że człowiek zwraca się do Boga przez świętych, nie bezpośrednio.\"}",
-      "category": "epoki",
-      "relation": "epoki"
+      "category": "epoki"
     }
   },
   {
     "type": "lexicon",
     "data": {
       "term": "hymn",
-      "nodes": "[\"bogurodzica\",\"biblia\"]",
+      "nodes": "[\"bogurodzica\"]",
       "definition": "Uroczysta pieśń pochwalna — *Bogurodzica* to hymn religijny i bojowy w jednym.",
       "quiz": "{\"question\":\"*Bogurodzica* pełniła funkcję modlitwy i pieśni bojowej. Jaki gatunek liryczny reprezentuje?\",\"wrong\":[\"psalm\",\"tren\",\"oda\"],\"answer\":\"Hymn — uroczysta pieśń pochwalna o charakterze religijnym lub patriotycznym.\"}",
-      "category": "poetyka",
-      "relation": "poetyka"
+      "category": "poetyka"
     }
   },
   {
@@ -39,8 +36,7 @@
       "nodes": "[\"bogurodzica\"]",
       "definition": "Pieśń ojczysta — tak Długosz nazwał *Bogurodzicę* po Grunwaldzie.",
       "quiz": "{\"question\":\"Długosz nazwał *Bogurodzicę* pieśnią ojczystą. Jakiego łacińskiego terminu użył?\",\"wrong\":[\"ad fontes\",\"vanitas\",\"in medias res\"],\"answer\":\"Carmen patrium — pieśń ojczysta, określenie *Bogurodzicy* jako hymnu narodowego.\"}",
-      "category": "poetyka",
-      "relation": "poetyka"
+      "category": "poetyka"
     }
   }
 ]
